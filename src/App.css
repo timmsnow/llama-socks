@@ -15,13 +15,21 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  /* min-height: 100vh; */
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.nav-bar li {
+  list-style-type: none;
+}
+
+.nav-bar {
+  display: flex;
 }
 
 .App-link {
@@ -35,4 +43,32 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.continent-picture {
+  height: 250px;
+  width: 250px;
+  object-fit: contain;
+}
+
+.basic-container {
+  /* border: 1px solid #dd9933; */
+  padding: 1%;
+  margin: 2% 10%;
+  color: #777777;
+  font-size: 14pt;
+}
+
+.flex {
+  display: flex;
+}
+
+.banner-container {
+  padding: 1%;
+  border: 1px solid rgb(244, 168, 26);
+  max-width: 100%;
+}
+
+img {
+  max-width: 100%;
 }
