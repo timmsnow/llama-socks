@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Card, Container, Row, Col } from "react-bootstrap";
-import IMAGES from '../images/index.js';
+import { IMAGES } from '../images/index.js';
 import Continents from './Continents.jsx';
 
 const Home = () => {
