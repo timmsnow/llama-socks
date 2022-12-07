@@ -53,8 +53,7 @@
 
 .basic-container {
   /* border: 1px solid #dd9933; */
-  padding: 1%;
-  margin: 2% 10%;
+  padding: 10%;
   color: #777777;
   font-size: 14pt;
 }
@@ -64,11 +63,39 @@
 }
 
 .banner-container {
-  padding: 1%;
+  padding: 1% 0% 3% 0%;
   border: 1px solid rgb(244, 168, 26);
   max-width: 100%;
 }
 
+.home-container {
+  padding: 2% 0%;
+  border: 1px solid rgb(244, 168, 26);
+  max-width: 100%;
+  margin: 5% 0%;
+}
+
 img {
   max-width: 100%;
+}
+
+.carousel-indicators {
+  display: none !important;
+}
+
+.carousel-control-prev{
+  display: none !important;
+}
+
+.carousel-control-next{
+  display: none !important;
+}
+
+.intro-container {
+  margin: 5%;
+}
+
+.card {
+  padding-top: 5%;
+  margin-bottom: 10%;
 }

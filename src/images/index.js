@@ -7,6 +7,16 @@ export const IMAGES = {
   Europe: require('../images/continents/europe.jpg'),
 }
 
+export const BANNER_CAROUSEL = {
+  Banner_1: require('../images/banners/llamasocks1.jpg'),
+  Banner_2: require('../images/banners/llamasocks2.jpg'),
+  Banner_3: require('../images/banners/llamasocks3.jpg'),
+  Banner_4: require('../images/banners/llamasocks4.jpg'),
+  Banner_5: require('../images/banners/llamasocks5.jpg'),
+  Banner_6: require('../images/banners/llamasocks6.jpg'),
+  Banner_7: require('../images/banners/llamasocks7.jpg'),
+}
+
 export const CONTINENT_BANNERS = {
   AfricaBanner: require('../images/continents/continentBanners/africa-banner.jpg'),
   AsiaBanner: require('../images/continents/continentBanners/asia-banner.jpg'),

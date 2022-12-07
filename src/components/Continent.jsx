@@ -13,12 +13,11 @@ const Continent = () => {
   async function fetchHtml() {
     setHtmlFileString(await (await fetch(`../../documents/continents/${continent}.html`)).text());
   }
-
+  
   useEffect(() => {
     fetchHtml();
-  }, []);
-
-  console.log(htmlFileString)
+  });
+  
   return (
     <div>
       <Container fluid className="banner-container">
