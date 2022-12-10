@@ -77,4 +77,34 @@ export const COUNTRY_BUTTONS = {
   // GalapagosBanner: require('../images/continents/south-america/galapagos/galapagos-button.jpg'),
 }
 
+export const TOP5FRONT = {
+  Botswana: {
+    1: require('../images/continents/africa/botswana/top5/chobe-top-front.jpg'),
+    2: require('../images/continents/africa/botswana/top5/ckgr-top-front.jpg'),
+    3: require('../images/continents/africa/botswana/top5/nxai-top-front.jpg'),
+    4: require('../images/continents/africa/botswana/top5/okavango-top-front.jpg'),
+    5: require('../images/continents/africa/botswana/top5/tsodilo-top-front.jpg'),
+  }
+}
+
+export const TOP5BACK = {
+  Botswana: {
+    1: require('../images/continents/africa/botswana/top5/chobe-top-back.jpg'),
+    2: require('../images/continents/africa/botswana/top5/ckgr-top-front.jpg'),
+    3: require('../images/continents/africa/botswana/top5/nxai-top-back.jpg'),
+    4: require('../images/continents/africa/botswana/top5/okavango-top-back.jpg'),
+    5: require('../images/continents/africa/botswana/top5/tsodilo-top-back.jpg'),
+  }
+}
+
+export const TOP5BANNER = {
+  Botswana: {
+    1: require('../images/continents/africa/botswana/top5content/chobe-banner.jpg'),
+    2: require('../images/continents/africa/botswana/top5content/ckgr-banner.jpg'),
+    3: require('../images/continents/africa/botswana/top5content/nxai-banner.jpg'),
+    4: require('../images/continents/africa/botswana/top5content/okavango-banner.jpg'),
+    5: require('../images/continents/africa/botswana/top5content/tsodilo-banner.jpg'),
+  }
+}
+
 // export {IMAGES, COUNTRY_BANNERS};

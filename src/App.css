@@ -58,6 +58,12 @@
   font-size: 14pt;
 }
 
+.body-container {
+  /* border: 1px solid #dd9933; */
+  color: #777777;
+  font-size: 14pt;
+}
+
 .flex {
   display: flex;
 }
@@ -98,4 +104,16 @@ img {
 .card {
   padding-top: 5%;
   margin-bottom: 10%;
+}
+
+.top5-card {
+  width: 180px;
+  height: 250px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.top5-card:hover {
+  transform: scale(1.7);
+  margin-bottom: 80%;
 }
