@@ -25,7 +25,6 @@ const Country = () => {
       <Container fluid className="banner-container">
         <img src={COUNTRY_BANNERS[banner]} className="App-log" alt={country + " banner"}/>
       </Container>
-        <div className="intro-container" dangerouslySetInnerHTML={{ __html: introduction }}></div>
         <Tabs
       defaultActiveKey="profile"
       id="uncontrolled-tab-example"
@@ -50,6 +49,7 @@ const Country = () => {
         HI
       </Tab>
     </Tabs>
+      <div className="intro-container" dangerouslySetInnerHTML={{ __html: introduction }}></div>
     </div>
   );
 }

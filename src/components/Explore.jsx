@@ -12,6 +12,8 @@ const Explore = (props) => {
   const defaultLng = 24.68
   const [locationKey, setLocationKey] = useState(0)
   const [jsonData, setJsonData] = useState([]);
+  const [locationSelected, setLocationSelected] = useState(false)
+  const [highLightsOnly, sethighlightsOnly] = useState(false)
   
   // map
   const mapContainer = useRef(null);
@@ -32,19 +34,42 @@ const Explore = (props) => {
   
   const handleClick = (e) => {
     setLocationKey(e.target.id)
+    setLocationSelected(true)
+    sethighlightsOnly(false)
+    if (map.current['_markers'].length > 1) {
+      const oldMarker = map.current['_markers'][0]
+      const newMarker = map.current['_markers'][1]
+      const coordinates = newMarker['_lngLat']
+      showLocationMarker(coordinates)
+      oldMarker.remove()
+    }
   }
-
+  
   const showLocationMarker = (coordinates) => {
     const locationCoordinates = Object.values(coordinates)
     const marker = new mapboxgl.Marker()
-      .setLngLat(locationCoordinates)
-
+    .setLngLat(locationCoordinates)
+    
     setMarker(marker)
     marker.addTo(map.current);
   }
-
+  
   const hideLocationMarker = () => {
     marker.remove()
+  }
+
+  const hideTop5 = () => {
+    setLocationSelected(false)
+    sethighlightsOnly(true)
+    if (map.current['_markers'].length > 0) {
+      const oldMarker = map.current['_markers'][0]
+      oldMarker.remove()
+    }
+  }
+
+  const showDefaultView = () => {
+    setLocationSelected(false)
+    sethighlightsOnly(false)
   }
 
   useEffect(() => {
@@ -59,11 +84,35 @@ const Explore = (props) => {
 
   return (
     <div>
+      {
+        !highLightsOnly ? 
+        <div>
+          {
+            locationSelected ? 
+              <p onClick={()=> {hideTop5()}}>
+              view other highlights
+              </p> :
+              <div>
+                <h3>
+                  Top 5 {country}
+                </h3>
+                <Top5 country={country} handleClick={handleClick} showLocationMarker={showLocationMarker} hideLocationMarker={hideLocationMarker}/>
+              </div>
+          }
+        </div> :
+        <p onClick={()=> {showDefaultView()}}>
+          view top 5
+        </p>
+      }
       <div>
         <Container className="body-container">
           <Row className="center">
             <Col sm="3">
-              <Top5 country={country} handleClick={handleClick}/> :
+              {
+                locationSelected ?
+                <Top5 country={country} handleClick={handleClick} showLocationMarker={showLocationMarker} hideLocationMarker={hideLocationMarker}/> :
+              <div>
+
               <h3 className="center">
                 Other Highlights
               </h3>
@@ -74,10 +123,16 @@ const Explore = (props) => {
                     </p>
                   )
                 })}
+                </div>
+              }
             </Col>
             <Col sm="9">
+              {
+                locationSelected ?
+                <Top5Content country={country} locationKey={locationKey} /> :
+                ""
+              }
                 <div ref={mapContainer} className="map-container" />
-                <Top5Content country={country} locationKey={locationKey} />
             </Col>
           </Row>
         </Container>

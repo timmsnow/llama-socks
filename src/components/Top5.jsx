@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from 'react';
-import { Card, Container } from "react-bootstrap";
+import { Card, Container, Row } from "react-bootstrap";
 import { TOP5FRONT } from '../images/index.js';
 
 
 
 const Top5 = (props) => {
-  const { country, handleClick } = props
+  const { country, handleClick, showLocationMarker, hideLocationMarker } = props
   const [showDescription, setShowDescription] = useState({});
   const [hover, setHover] = useState({});
   const top5 = [1,2,3,4,5]
@@ -25,10 +25,21 @@ const Top5 = (props) => {
     setHover(prev => Boolean(!prev[id]) ? {...prev, [id]: true} : {...prev, [id]: false});
     setShowDescription(prev => Boolean(!prev[id]) ? {...prev, [id]: true} : {...prev, [id]: false});
   }
+
+  const on = (id, coordinates) => {
+    toggleDarkAndDescription(id)
+    showLocationMarker(coordinates)
+  }
+
+  const off = (id) => {
+    toggleDarkAndDescription(id)
+    hideLocationMarker()
+  }
   
   return (
     <div>
-      <Container className="basic-container">
+      <Container className="center">
+        <Row>
         {frontImages && jsonData &&
           top5.map(i => {
             
@@ -42,7 +53,7 @@ const Top5 = (props) => {
             
             return(
               <div key={i}>
-              <Card className="top5-card" onMouseEnter={()=>{ toggleDarkAndDescription(i)}} onMouseLeave={() =>{ toggleDarkAndDescription(i)}} style={(!hover[i] ? locationImage : locationImageDark)}>
+              <Card className="top5-card" onMouseEnter={()=>{ on(i, jsonData[i].coordinates)}} onMouseLeave={() =>{ off(i)}} style={(!hover[i] ? locationImage : locationImageDark)}>
                 <div className="top5-content" onClick={handleClick}>
                   {showDescription[i] ? <p id={i} className="top5-post">{jsonData[i].text} </p> : <h2>{jsonData[i].location}</h2>}
                 </div>
@@ -51,6 +62,7 @@ const Top5 = (props) => {
           )
         })
       }
+      </Row>
       </Container>
         
     </div>

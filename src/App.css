@@ -109,6 +109,7 @@ img {
   background-repeat: no-repeat;
   border: none;
   margin-bottom: 1.5em;
+  gap: 1%;
 }
 
 .top5-card:hover {
