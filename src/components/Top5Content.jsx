@@ -4,13 +4,13 @@ import { TOP5BANNER } from '../images/index.js';
 
 
 const Top5Content = (props) => {
-  const { country } = props
+  const { country, locationKey } = props
   const banners = TOP5BANNER[country]
-  console.log(banners)
+
   return (
     <div>
       <Container className="intro-container">
-        <img src={banners[1]} />
+        {banners && <img src={banners[locationKey]} /> }
       </Container>
         
     </div>

@@ -10,10 +10,10 @@ const Country = () => {
   const banner = country + "Banner"
   const intro = country + "-intro.html"
 
-  let[htmlFileString, setHtmlFileString] = useState("");
+  let[introduction, setIntro] = useState("");
 
   async function fetchHtml() {
-    setHtmlFileString(await (await fetch(`../../documents/countries/${country}/${intro}`)).text());
+    setIntro(await (await fetch(`../../documents/countries/${country}/${intro}`)).text());
   }
 
   useEffect(() => {
@@ -25,7 +25,7 @@ const Country = () => {
       <Container fluid className="banner-container">
         <img src={COUNTRY_BANNERS[banner]} className="App-log" alt={country + " banner"}/>
       </Container>
-        <div className="intro-container" dangerouslySetInnerHTML={{ __html: htmlFileString }}></div>
+        <div className="intro-container" dangerouslySetInnerHTML={{ __html: introduction }}></div>
         <Tabs
       defaultActiveKey="profile"
       id="uncontrolled-tab-example"

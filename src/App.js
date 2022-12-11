@@ -6,8 +6,8 @@ import Home from './components/Home';
 import Continent from './components/Continent';
 import Country from './components/Country';
 
-
 function App() {
+
   return (
     <div className="App">
       <header className="">
@@ -20,6 +20,8 @@ function App() {
             <Route exact path="/country" element={< Country/>} />
           </Routes>
         </main>
+        <div>
+      </div>
     </div>
   );
 }

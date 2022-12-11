@@ -1,0 +1,50 @@
+{
+  "1": {
+    "location": "Desert Camping",
+    "coordinates": {
+      "lng": null,
+      "lat": null
+    },
+    "text": "One of, if not THE quintessential Botswana experiences is setting up camp and spending a few nights in the desert. The low-density tourism model that the country continues to promote means that you’ll have plenty of space and very few encounters near your campsite… ..well with humans anyway. Animals are everywhere here and the deserts are no exception. Cook your dinner over an open flame, watch an incredible Kalahari sunset, and try to guess what kind of animal is attached to those glowing eyes on the other side of your tent."
+  },
+  "2": {
+    "location": "Moremi Game Reserve",
+    "coordinates": {
+      "lng": 22.93,
+      "lat": -19.30
+    },
+    "text": "The Moremi Game Reserve is what most people think about when they think about a trip to Botswana. Situated right on the edge of the Okavango Delta, this is the place known for big game and once in a life time experiences. The park is divided into two major sections: Cheif’s Island, which is isolated from the rest of the park when the waters rise, and the Moremi Tongue, accessible by road from Maun. While this park does have plenty to offer, it’s a focal point, and definitely sees it’s fair share of tourists and tour operators driving through. Many of the lodges here tend to be set up for the SUPER wealthy traveler, so you may want to consider staying outside of the park and driving in." 
+  },
+  "3": {
+    "location": "Kgalagadi Transfrontier Park",
+    "coordinates": {
+      "lng": 20.62,
+      "lat": -26.39
+    },
+    "text": "The Transfrontier park is named as such because it stretches across the border from Botswana into South Africa, and the park can be accessed from both countries. This is deep Kalahari country, and because it’s so remote you’ll need to budget a night or two in either direction just to get there. Once you’ve arrived however, you’ll be in for a treat. Deliciously devoid of tourists, Kgalagadi makes for a wonderful multi-day camp-and-drive safari. Only the hardiest of the animals make it out here, but you can count on seeing plenty of oryx, foxes, hyena, and black-maned lions. This park is also where you can find the shifting sand dunes of the Kalahari, an evocative and unforgettable desert site." 
+  },
+  "4": {
+    "location": "Khwai Community Reserve",
+    "coordinates": {
+      "lng": 23.41,
+      "lat": -19.99
+    },
+    "text": "The Khwai Community Trust is sandwiched between the heavy hitters of Chobe National Park and the Moremi Game Reserve, but just because you’re outside of the park gates, doesn’t mean there isn’t plenty to see here. This particular community has found a way to capitalize on the stunning scenery and superabundant mega-fauna that populates the area. A smattering of campsites run by the local village community are available for those wanting to spend an electrifying night or two in this spectacular stretch of wilderness. Expect fiery sunsets, lots of transiting elephants, plenty of ornery hippos, and lions roaring into the night." 
+  },
+  "5": {
+    "location": "Khama Rhino Sactuary",
+    "coordinates": {
+      "lng": 26.72,
+      "lat": -22.23
+    },
+    "text": "This small Rhino Sanctuary in the south of the country is a spectacular place to stop if you’re hoping to see a lot of wildlife in a small amount of time. Home to zebras, wildebeests, giraffes, gazelles, springboks, and both white AND black rhino populations, this little park packs a big punch. You can opt to stay overnight in one of the chalets, or camp in the designated camping area. While guides are available and game drives can be arranged, it’s also entirely possible to navigate the park on your own if you have a 4×4. This is a highly recommended stop as you’re almost guaranteed to get some up close, rhino time." 
+  },
+  "6": {
+    "location": "Makgadikgadi NP",
+    "coordinates": {
+      "lng": 25.48,
+      "lat": -20.73
+    },
+    "text": "Makgadikgadi is a gigantic National Park that stretches eastward from the edge of the Boteti River across the scrubland and eventually tumbles into the Ntwetwe and Sua salt pans. Even for Botswana, this park can feel quiet and remote, especially in the green season when tourist traffic drops to a trickle. Makgadikgadi is the setting for one of the biggest and best animal migrations on the planet. When the rain waters finally reach the pans at the end of the wet season, zebras come trotting by the thousands, desperate for a drink. It’s spectacular. While the park itself is gated, and accessible with a 4 wheel drive, the neighboring salt pans are best visited with a guide since you can get easily turned around in the vast white expanse, or, in the rainy season, stuck in sinking mud without any help in sight. The pans are home to some relatively famous colonies of meerkats who seem to enjoy moderate interaction with humans. It’s the icing on top of an elephant-packed, animal-watching bonanza." 
+  }
+}

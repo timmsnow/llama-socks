@@ -23,9 +23,9 @@ const Continents = () => {
           <Col sm="4">
             <Card>
               <Card.Title className="center padding-top">{continent}</Card.Title>
-              <Card.Body key={index} className="margin">
+              <Card.Body className="margin">
                 <Link to={`/continent`} state={{continent: continent, countries: countryList[continent]}}>
-                  <img src={IMAGES[continent]} className="continent-picture" alt={continent + "button"}/>
+                  <img key={index} src={IMAGES[continent]} className="continent-picture" alt={continent + "button"}/>
                 </Link>
               </Card.Body>
             </Card>
