@@ -115,6 +115,7 @@ img {
 .top5-card:hover {
   transform: scale(1.7);
   z-index: 1;
+  cursor: pointer;
   /* margin: 150% 0%; */
 }
 
@@ -138,4 +139,12 @@ img {
 
 .top5-post {
   margin: 5%;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.margin {
+  margin-bottom: 3em;
 }

@@ -9,7 +9,7 @@ const Top5Content = (props) => {
 
   return (
     <div>
-      <Container className="intro-container">
+      <Container className="">
         {banners && <img src={banners[locationKey]} /> }
       </Container>
         
