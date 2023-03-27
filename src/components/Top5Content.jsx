@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { Card, Container, Row, Col } from "react-bootstrap";
 import { TOP5BANNER } from '../images/index.js';
 

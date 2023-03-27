@@ -49,9 +49,9 @@ const Highlights = (props) => {
       <h3 className="center">
         Other Highlights
       </h3>
-        { jsonData.map(dataSet => {
+        { jsonData.map((dataSet, index) => {
           return(
-            <p className="pointer" onMouseEnter={()=>{showLocationMarker(dataSet.coordinates, map.current)}} onMouseLeave={() =>{hideLocationMarker()}}>
+            <p className="pointer" key={index} onMouseEnter={()=>{showLocationMarker(dataSet.coordinates, map.current)}} onMouseLeave={() =>{hideLocationMarker()}}>
               {dataSet.location}
             </p>
           )

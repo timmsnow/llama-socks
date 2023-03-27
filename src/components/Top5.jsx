@@ -70,8 +70,3 @@ const Top5 = (props) => {
 }
 
 export default Top5;
-// var bi = backImages[i]
-{/* <Card className="top5-card" onMouseEnter={()=>{ toggleDarkAndDescription(i)}} onMouseLeave={() =>{ toggleDarkAndDescription(i)}}>
-{showDescription[i] ? <img src={bi} id={i} onClick={handleClick}/> : <img src={fi} />}
-</Card> */}
-// const backImages = TOP5BACK[country]

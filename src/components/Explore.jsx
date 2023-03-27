@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Button, Container, Row, Col } from "react-bootstrap";
+import { Button, Container, Row, Col, Tab, Tabs } from "react-bootstrap";
 import mapboxgl from 'mapbox-gl';
 import Top5 from './Top5.jsx';
 import Top5Content from './Top5Content.jsx';
@@ -11,7 +11,6 @@ const Explore = (props) => {
   const { country } = props
   const [locationKey, setLocationKey] = useState(0)
   const [locationSelected, setLocationSelected] = useState(false)
-  const [highLightsOnly, sethighlightsOnly] = useState(false)
   
   // // map
   const [map, setMap] = useState({})
@@ -20,7 +19,6 @@ const Explore = (props) => {
   const handleClick = (e) => {
     setLocationKey(e.target.id)
     setLocationSelected(true)
-    sethighlightsOnly(false)
   }
   
   const showLocationMarker = (coordinates) => {
@@ -36,51 +34,40 @@ const Explore = (props) => {
     marker.remove()
   }
 
-  const hideTop5 = () => {
-    setLocationSelected(false)
-    sethighlightsOnly(true)
-  }
-
-  const showDefaultView = () => {
-    setLocationSelected(false)
-    sethighlightsOnly(false)
-  }
-
   return (
     <div>
-      {
-        !highLightsOnly ? 
-        <div>
-          {
-            locationSelected ? "" :
-            <div>
-              <h3>
-                Top 5 {country}
-              </h3>
-              <Top5 country={country} handleClick={handleClick} showLocationMarker={showLocationMarker} hideLocationMarker={hideLocationMarker} />
-            </div>
-          }
-        </div> : ""
-      }
-      <div>
-        <Container className="body-container">
+      <Tabs
+      defaultActiveKey="top_5"
+      id="uncontrolled-tab-example"
+      className="mb-3"
+    >
+        <Tab eventKey="top_5" title="Llama's Top 5">
+          <div>
+            <h3>
+              Top 5 {country}
+            </h3>
             {
-              locationSelected ?
-              <Row className="center">
-                <Col sm="3">
-                  <Button className="margin" variant="warning" size="sm" onClick={()=> {hideTop5()}}>
-                    view other highlights
-                  </Button>
-                  <Top5 country={country} handleClick={handleClick} showLocationMarker={showLocationMarker} hideLocationMarker={hideLocationMarker}/>
-                </Col>
-                <Col sm="9">
-                <Top5Content country={country} locationKey={locationKey} />
-                </Col>
-              </Row> :
-              <Highlights country={country} showDefaultView={showDefaultView} showLocationMarker={showLocationMarker} hideLocationMarker={hideLocationMarker} setMap={setMap}/>
-              }
-        </Container>
-      </div>
+              locationSelected ? 
+                <Container className="body-container">
+                  <Row className="center">
+                    <Col sm="3">
+                      <Top5 country={country} handleClick={handleClick} setMap={setMap} showLocationMarker={showLocationMarker} hideLocationMarker={hideLocationMarker}/>
+                    </Col>
+                    <Col sm="9">
+                    <Top5Content country={country} locationKey={locationKey} />
+                    </Col>
+                  </Row>
+                </Container>
+              :
+                <Top5 country={country} handleClick={handleClick} setMap={setMap} showLocationMarker={showLocationMarker} hideLocationMarker={hideLocationMarker} />
+            }
+          </div>
+        </Tab>
+        <Tab eventKey="other_highlights" title="Other Highlights">
+          <Highlights country={country} showLocationMarker={showLocationMarker} hideLocationMarker={hideLocationMarker} setMap={setMap}/>
+        </Tab>
+      </Tabs>
+
     </div>
   );
 }

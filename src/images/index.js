@@ -85,13 +85,13 @@ export const TOP5FRONT = {
     4: require('../images/continents/africa/botswana/top5/okavango-top-front.jpg'),
     5: require('../images/continents/africa/botswana/top5/tsodilo-top-front.jpg'),
   },
-  // Namibia: {
-  //   1: require('../images/continents/africa/namibia/top5/chobe-top-front.jpg'),
-  //   2: require('../images/continents/africa/namibia/top5/ckgr-top-front.jpg'),
-  //   3: require('../images/continents/africa/namibia/top5/nxai-top-front.jpg'),
-  //   4: require('../images/continents/africa/namibia/top5/okavango-top-front.jpg'),
-  //   5: require('../images/continents/africa/namibia/top5/tsodilo-top-front.jpg'),
-  // }
+  Namibia: {
+    1: require('../images/continents/africa/namibia/top5/sossosvlei-top-front.jpg'),
+    2: require('../images/continents/africa/namibia/top5/kolmanskop-top-front.jpg'),
+    3: require('../images/continents/africa/namibia/top5/desert-top-front.jpg'),
+    4: require('../images/continents/africa/namibia/top5/etosha-top-front.jpg'),
+    5: require('../images/continents/africa/namibia/top5/twyfelfontein-top-front.jpg'),
+  }
 }
 
 export const TOP5BANNER = {
@@ -101,6 +101,13 @@ export const TOP5BANNER = {
     3: require('../images/continents/africa/botswana/top5content/nxai-banner.jpg'),
     4: require('../images/continents/africa/botswana/top5content/okavango-banner.jpg'),
     5: require('../images/continents/africa/botswana/top5content/tsodilo-banner.jpg'),
+  },
+  Namibia: {
+    1: require('../images/continents/africa/namibia/top5content/sossosvlei-banner.jpg'),
+    2: require('../images/continents/africa/namibia/top5content/kolmanskop-banner.jpg'),
+    3: require('../images/continents/africa/namibia/top5content/desert-banner.jpg'),
+    4: require('../images/continents/africa/namibia/top5content/etosha-banner.jpg'),
+    5: require('../images/continents/africa/namibia/top5content/twyfelfontein-banner.jpg'),
   }
 }
 

@@ -26,30 +26,32 @@ const Country = () => {
         <img src={COUNTRY_BANNERS[banner]} className="App-log" alt={country + " banner"}/>
       </Container>
         <Tabs
-      defaultActiveKey="profile"
+      defaultActiveKey="home"
       id="uncontrolled-tab-example"
       className="mb-3"
     >
-      <Tab eventKey="Explore" title="Explore">
+      <Tab eventKey="home" title="Home">
+        <div className="intro-container" dangerouslySetInnerHTML={{ __html: introduction }}></div>
+      </Tab>
+      <Tab eventKey="explore" title="Explore">
         <Explore country={country} />
       </Tab>
-      <Tab eventKey="Info" title="Info">
+      <Tab eventKey="info" title="Info">
         HI
       </Tab>
-      <Tab eventKey="Move" title="Move">
+      <Tab eventKey="move" title="Move">
         HI
       </Tab>
-      <Tab eventKey="Budget" title="Budget">
+      <Tab eventKey="budget" title="Budget">
         HI
       </Tab>
-      <Tab eventKey="Sleep" title="Sleep">
+      <Tab eventKey="sleep" title="Sleep">
         HI
       </Tab>
-      <Tab eventKey="Survive" title="Survive">
+      <Tab eventKey="survive" title="Survive">
         HI
       </Tab>
     </Tabs>
-      <div className="intro-container" dangerouslySetInnerHTML={{ __html: introduction }}></div>
     </div>
   );
 }

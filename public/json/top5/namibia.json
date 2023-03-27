@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "Sossosvlei",
+    "coordinates": {
+      "lng": 15.29,
+      "lat": -24.75
+    },
+    "text": "Of all the wonders Namibia has to offer, Sossosvlei wears the crown. Prepare to be overwhelmed by the sheer size of these ancient, rust-colored dunes that comprise the oldest desert in the world. The warped and haggard trees of deadsvlei are like something out of a CS Lewis novel. Get there early. The hot sun is practically poison by noon." 
+  },
+  "2": {
+    "location": "Kolmanskop",
+    "coordinates": {
+      "lng": 15.23,
+      "lat": -26.70
+    },
+    "text": "Kolmanskop is an other one of those pick-your-jaw-up-off-the-floor places Namibia is just so good at dishing out. An abandoned mining town in the southern desert region, far away from everything. Surely, this is what an apocalypse would look like. The whole town is being reclaimed by nature, slowly eaten by sand dunes. Freaky, but freaky-beautiful." 
+  },
+  "3": {
+    "location": "Deserts",
+    "coordinates": {
+      "lng": 15.26,
+      "lat": -24.28
+    },
+    "text": "Namibia is home to, and takes it's name from the oldest desert in the world, the Namib. The Kalahari in the south and Damaraland in the north are just as dry and inhospitable. Other humans are a rare find in these parts. Instead, you'll be keeping company with the heartiest of free-roaming animals by day, and at night, about a gazillion brilliant shining stars." 
+  },
+  "4": {
+    "location": "Etosha",
+    "coordinates": {
+      "lng": 16.32,
+      "lat": -18.85
+    },
+    "text": "Easily one of the most compelling National Parks in all of Africa, Etosha is a perfect wildlife preserve for trying out a self-drive safari. The park is well-marked and you can get accurate maps from the knowledgeable park rangers. Animal life here is bountiful and easy to spot at one of the myriad wateringholes that dot the vast landscape." 
+  },
+  "5": {
+    "location": "Twyfelfontein",
+    "coordinates": {
+      "lng": 14.35,
+      "lat": -20.55
+    },
+    "text": "The ancient petroglyphs of Twyfelfontein stand out against the brick-red hues of their desolate Damaraland back drop. This is the human story, our collective history, carved into stone 6,000 years ago by stone-age inhabitants of a very different Namibia, in a very different time." 
+  }
+}
