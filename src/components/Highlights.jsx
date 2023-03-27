@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Button, Container, Row, Col } from "react-bootstrap";
+import { Button, Row, Col } from "react-bootstrap";
 import mapboxgl from 'mapbox-gl';
+import Map from './Map.jsx';
 import Highlight from './Highlight.jsx';
 
 
@@ -8,15 +9,7 @@ mapboxgl.accessToken = process.env.REACT_APP_MAP_BOX_KEY
 
 
 const Highlights = (props) => {
-  const { country, showDefaultView, showLocationMarker, hideLocationMarker, setMap } = props
-  const defaultLat = -22.32
-  const defaultLng = 24.68
-  // map
-  const mapContainer = useRef(null);
-  const map = useRef(null);
-  const [lng, setLng] = useState(defaultLng);
-  const [lat, setLat] = useState(defaultLat);
-  const [zoom, setZoom] = useState(3.5);
+  const { country, center } = props
   const [jsonData, setJsonData] = useState([]);
 
 
@@ -29,17 +22,25 @@ const Highlights = (props) => {
     fetchJson();
   }, []);
 
-  useEffect(() => {
-    if (map.current) return; // initialize map only once
-    map.current = new mapboxgl.Map({
-    container: mapContainer.current,
-    style: 'mapbox://styles/mapbox/streets-v12',
-    center: [lng, lat],
-    zoom: zoom
-    });
+  let[marker, setMarker] = useState({});
+  let[map, setMap] = useState({});
+  
+  const showLocationMarker = (coordinates) => {
+    const locationCoordinates = Object.values(coordinates)
+    const marker = new mapboxgl.Marker()
+    .setLngLat(locationCoordinates)
 
-    setMap(map.current)
-  }, [lng]);
+    setMarker(marker)
+    marker.addTo(map);
+  }
+  
+  const hideLocationMarker = () => {
+    marker.remove()
+  }
+
+  const handleMarker = (map) => {
+    setMap(map)
+  }
 
   return (
     <div>
@@ -56,12 +57,9 @@ const Highlights = (props) => {
             </p>
           )
         })}
-      <Button variant="warning" size="sm" onClick={()=> {showDefaultView()}}>
-        view top 5
-      </Button>
     </Col>
     <Col sm="7">
-      <div ref={mapContainer} className="map-container" />
+      <Map center={center} handleMarker={handleMarker}/>
     </Col> 
     </Row>
     <Row>

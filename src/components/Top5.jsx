@@ -1,11 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import { Card, Container, Row } from "react-bootstrap";
 import { TOP5FRONT } from '../images/index.js';
-
+import Map from './Map.jsx';
+import mapboxgl from 'mapbox-gl';
 
 
 const Top5 = (props) => {
-  const { country, handleClick, showLocationMarker, hideLocationMarker } = props
+  const { country, handleClick, center, locationSelected } = props
   const [showDescription, setShowDescription] = useState({});
   const [hover, setHover] = useState({});
   const top5 = [1,2,3,4,5]
@@ -13,6 +14,22 @@ const Top5 = (props) => {
   
   let[jsonData, setJsonData] = useState("");
   
+  let[marker, setMarker] = useState({});
+  let[map, setMap] = useState({});
+  
+  const showLocationMarker = (coordinates) => {
+    const locationCoordinates = Object.values(coordinates)
+    const marker = new mapboxgl.Marker()
+    .setLngLat(locationCoordinates)
+
+    setMarker(marker)
+    marker.addTo(map);
+  }
+  
+  const hideLocationMarker = () => {
+    marker.remove()
+  }
+
   async function fetchJson() {
     setJsonData(await (await fetch(`../../json/top5/${country}.json`)).json());
   }
@@ -35,9 +52,13 @@ const Top5 = (props) => {
     toggleDarkAndDescription(id)
     hideLocationMarker()
   }
+
+  const handleMarker = (map) => {
+    setMap(map)
+  }
   
   return (
-    <div>
+    <>
       <Container className="center">
         <Row>
         {frontImages && jsonData &&
@@ -63,9 +84,14 @@ const Top5 = (props) => {
         })
       }
       </Row>
+      { !locationSelected &&
+        (<Row>
+          <Map center={center} handleMarker={handleMarker}/>
+        </Row>)
+      }
       </Container>
         
-    </div>
+    </>
   );
 }
 

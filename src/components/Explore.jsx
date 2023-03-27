@@ -1,73 +1,74 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Button, Container, Row, Col, Tab, Tabs } from "react-bootstrap";
-import mapboxgl from 'mapbox-gl';
+import { Container, Row, Col, Tab, Tabs } from "react-bootstrap";
 import Top5 from './Top5.jsx';
 import Top5Content from './Top5Content.jsx';
 import Highlights from './Highlights.jsx';
 
-mapboxgl.accessToken = process.env.REACT_APP_MAP_BOX_KEY
-
 const Explore = (props) => {
   const { country } = props
+  const MY_ACCESS_TOKEN = process.env.REACT_APP_MAP_BOX_KEY;
   const [locationKey, setLocationKey] = useState(0)
   const [locationSelected, setLocationSelected] = useState(false)
-  
-  // // map
-  const [map, setMap] = useState({})
-  let[marker, setMarker] = useState({});
+  const [center, setCenter] = useState([])
   
   const handleClick = (e) => {
     setLocationKey(e.target.id)
     setLocationSelected(true)
   }
   
-  const showLocationMarker = (coordinates) => {
-    const locationCoordinates = Object.values(coordinates)
-    const marker = new mapboxgl.Marker()
-    .setLngLat(locationCoordinates)
-    
-    setMarker(marker)
-    marker.addTo(map);
+  const getCoordinates = () => {
+    const endpoint = 'mapbox.places';
+    const search_text = country;
+    fetch(`https://api.mapbox.com/geocoding/v5/${endpoint}/${search_text}.json?access_token=${MY_ACCESS_TOKEN}`)
+    .then(response => response.json().then(data => ({
+      data: data,
+      status: response.status
+    })
+    ).then(res => {
+      setCenter(res.data['features'][0]['center'])
+    }));
   }
-  
-  const hideLocationMarker = () => {
-    marker.remove()
-  }
+
+  useEffect(() => {
+    getCoordinates();
+  }, []);
 
   return (
     <div>
-      <Tabs
-      defaultActiveKey="top_5"
-      id="uncontrolled-tab-example"
-      className="mb-3"
-    >
-        <Tab eventKey="top_5" title="Llama's Top 5">
-          <div>
-            <h3>
-              Top 5 {country}
-            </h3>
-            {
-              locationSelected ? 
+      <>
+        <Tabs
+        defaultActiveKey="top_5"
+        id="uncontrolled-tab-example"
+        className="mb-3"
+        >
+          <Tab eventKey="top_5" title="Llama's Top 5">
+            <div>
+              {
+                locationSelected ? 
                 <Container className="body-container">
-                  <Row className="center">
-                    <Col sm="3">
-                      <Top5 country={country} handleClick={handleClick} setMap={setMap} showLocationMarker={showLocationMarker} hideLocationMarker={hideLocationMarker}/>
-                    </Col>
-                    <Col sm="9">
-                    <Top5Content country={country} locationKey={locationKey} />
-                    </Col>
+                    <Row className="center">
+                      <Col sm="3">
+                      {center.length > 0 && <Top5 country={country} center={center} handleClick={handleClick} locationSelected={locationSelected}/>}
+                      </Col>
+                      <Col sm="9">
+                        <Top5Content country={country} locationKey={locationKey} />
+                      </Col>
+                    </Row>
+                  </Container>
+                :
+                <Container>
+                  <Row>
+                  {center.length > 0 && <Top5 country={country} center={center} handleClick={handleClick} locationSelected={locationSelected}/>}
                   </Row>
                 </Container>
-              :
-                <Top5 country={country} handleClick={handleClick} setMap={setMap} showLocationMarker={showLocationMarker} hideLocationMarker={hideLocationMarker} />
-            }
-          </div>
-        </Tab>
-        <Tab eventKey="other_highlights" title="Other Highlights">
-          <Highlights country={country} showLocationMarker={showLocationMarker} hideLocationMarker={hideLocationMarker} setMap={setMap}/>
-        </Tab>
-      </Tabs>
-
+              }
+            </div>
+          </Tab>
+          <Tab eventKey="other_highlights" title="Other Highlights">
+          {center.length > 0 && <Highlights country={country} center={center}/>}
+          </Tab>
+        </Tabs>
+      </>
     </div>
   );
 }
