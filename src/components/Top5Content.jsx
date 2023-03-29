@@ -1,11 +1,12 @@
 import React from 'react';
-import { Card, Container, Row, Col } from "react-bootstrap";
+import { Container } from "react-bootstrap";
 import { TOP5BANNER } from '../images/index.js';
 
 
 const Top5Content = (props) => {
   const { country, locationKey } = props
-  const banners = TOP5BANNER[country]
+  const pascalCountry = country.replace(" ", "")
+  const banners = TOP5BANNER[pascalCountry]
 
   return (
     <div>

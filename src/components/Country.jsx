@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Card, Container, Row, Col, Tab, Tabs } from "react-bootstrap";
-import { useLocation, Link } from 'react-router-dom'
+import { useLocation } from 'react-router-dom'
 import { COUNTRY_BANNERS } from '../images/index.js';
 import Explore from './Explore.jsx';
 
@@ -9,7 +9,7 @@ const Country = () => {
   const { country } = location.state
   const banner = country + "Banner"
   const intro = country + "-intro.html"
-
+ 
   let[introduction, setIntro] = useState("");
 
   async function fetchHtml() {
@@ -34,7 +34,7 @@ const Country = () => {
         <div className="intro-container" dangerouslySetInnerHTML={{ __html: introduction }}></div>
       </Tab>
       <Tab eventKey="explore" title="Explore">
-        <Explore country={country} />
+        <Explore country={country.match(/[A-Z][a-z]+/g).join(' ')} />
       </Tab>
       <Tab eventKey="info" title="Info">
         HI

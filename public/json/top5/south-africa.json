@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "Cape Town",
+    "coordinates": {
+      "lng": 18.42,
+      "lat": -33.92
+    },
+    "text": "Set at the very bottom of the most dynamic continent on Earth, Cape Town sits on a peninsula, straddling two hemispheres. With a compact city center, a thriving art scene, and access to the nearby Garden Route and wine country, adventures abound in Cape Town. The views from Table mountain are insane, and did I mention the penguins? Oh yes, if you were looking... this is where you'll find them." 
+  },
+  "2": {
+    "location": "The Drakensbergs",
+    "coordinates": {
+      "lng": 29.26,
+      "lat": -29.46
+    },
+    "text": "The jagged peaks of the Drakensbergs dominate the landscape of central South Africa. Like a window into the mind of JRR Tolkien, these mountains bring on visions of Middle Earth and it's easy to get lost in the fantasy here. The climate is cool, the sky is gigantic and open, and all around you is the vast green wonderland of our dynamic planet." 
+  },
+  "3": {
+    "location": "Kruger NP",
+    "coordinates": {
+      "lng": 31.88,
+      "lat": -25.35
+    },
+    "text": "Kruger is a big name in the world of Safari. That's not for nothing, it has a lot to offer. The park is massive and the wildlife here is abundant, with more species of large mammals than any other reserve in all of Africa. The whole gang is here, from elephant to hippo, to lion, and they're all waiting patiently to make your acquaintance."
+  },
+  "4": {
+    "location": "Johannesburg",
+    "coordinates": {
+      "lng": 28.04,
+      "lat": -26.20
+    },
+    "text": "Johannesburg is a city with a troubled past, an uneasy present, and a hopeful future. So much of South Africa's identity is tied to the history of this, it's largest population center. It is an extremely diverse and energetic place, with artists and entrepreneurs leading the way, writing a new story for the city. The apartheid museum is a vital experience that is not to be missed." 
+  },
+  "5": {
+    "location": "Wild Coast",
+    "coordinates": {
+      "lng": 29.14,
+      "lat": -31.98
+    },
+    "text": "The Wild Coast is an often over-looked slice of South Africa. This is where the Atlantic and Indian Oceans meet, and a visit here can feel like a journey to the edge of the world. Small collections of rondavel huts make up the villages that dot the rocky cliffs of this pastoral landscape. With wide open spaces and minimal tourism, it's a dream come true for those seeking tranquility and solitude as well as a feast for the eyes." 
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "1": {
+    "location": "Cairo Museum",
+    "coordinates": {
+      "lng": 31.23,
+      "lat": 30.04
+    },
+    "text": "Without a doubt the most impressive museum I have ever visited. Even if you are exploring all of Egypt’s ancient sites, you should at least stop into this behemoth if only to escape the death rays of the ever present Cairo sun. The mummy room is of particular interest. Guess why? It is a room full of actual, legit pharaoh mummies, and it is UNREAL. Have a hair-raising hang out with Ramses the great, Seti I, and Hatshepsut to name a few."
+  },
+  "2": {
+    "location": "Karnak Temple",
+    "coordinates": {
+      "lng": 32.65,
+      "lat": 25.71
+    },
+    "text": "Walking through the Karnak temple is a journey through time. Although initial construction began in 2055 BC, numerous additions have been added by different Pharaohs, eager to leave their mark on history. This temple, which was located in ancient Thebes (modern day Luxor) is the largest religious structure ever built. Socks, be ready to be knocked right off." 
+  },
+  "3": {
+    "location": "Valley of the Kings",
+    "coordinates": {
+      "lng": 32.60,
+      "lat": 25.74
+    },
+    "text": "Just on the other side of the Nile, across from Luxor and Karnak, lies the enigmatic Valley of the Kings, final resting place of Egypt’s great Pharaohs. Three tombs are included with the admission price, and you can pay a little extra if you want to see the infamous tomb of Egypt’s most famous pharaoh, King Tut. It’s an incredible site, and it is also insanely hot and there is little to no shade outside of the tombs themselves. Get ready for some extreme sweating." 
+  },
+  "4": {
+    "location": "Scuba Diving in Sinai",
+    "coordinates": {
+      "lng": 34.51,
+      "lat": 28.50
+    },
+    "text": "There are two main Scuba hubs on the Sinai Peninsula. Sharm el Sheik is a big, glitzy resort town, outfitted with five star hotels, world class restaurants, and an international airport to get you in and out quickly. I prefer the small town of Dahab, a couple hours drive north of Sharm, which is a quieter, more relaxed option for the sea lovers, but both offer incredible dive opportunities in the Red Sea. With excellent visibility, gorgeous psychedelic reef, and plenty of sea life big and small, this is world class diving at its finest. It is also possible to arrange travel to Mt Sinai, St Catherine’s cathedral, and other sites in the surrounding area, not to mention destinations in Jordan like Wadi Rum, and Petra." 
+  },
+  "5": {
+    "location": "Aswan",
+    "coordinates": {
+      "lng": 32.89,
+      "lat": 24.08
+    },
+    "text": "Aswan is the southern-most city in Egypt. Historically it served as a quarry for the majority of the ancient sites sprinkled up and down the Nile. This is a fantastic place to hire a felucca and begin your cruise down-river toward Luxor. There are some amazing ancient sites within Aswan itself (such as the unfinished obelisk and the spectacular ruins of Philae), and the city also serves as the best point of departure for visiting Abu Simbel, several hours to the south." 
+  },
+  "6": {
+    "location": "Alexandria",
+    "coordinates": {
+      "lng": 29.91,
+      "lat": 31.20
+    },
+    "text": "Egypt’s second largest city, Alexandria was once considered the capital of culture and knowledge within the Ancient world. A gigantic port town, Alexander the Great founded the city after conquering Egypt in 332 BC. Even though the majority of the city’s historical sites like the Library of Alexandria were wiped off the map, it’s still possible to find a few hidden gems. Most notably, what remains of the Lighthouse of Alexandria, one of the seven ancient wonders of the world, can still be seen by intrepid divers willing to brave the silty waters that cover the ancient island of Pharos, just off shore from the bustling modern metropolis." 
+  }
+}

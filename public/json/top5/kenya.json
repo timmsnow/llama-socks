@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "Masai Mara",
+    "coordinates": {
+      "lng": 35.14,
+      "lat": -1.49
+    },
+    "text": "Heading into the Masai Mara is as close as it gets to going to Jurassic Park. The big five come out in droves and you can pretty much count on having some extra close encounters with the local wildlife. The sweeping views of the savannah are the cherry on an already visually overloaded ice cream sundae. Welcome to Africa." 
+  },
+  "2": {
+    "location": "Diani Beach",
+    "coordinates": {
+      "lng": 39.59,
+      "lat": -4.27
+    },
+    "text": "Diani is the kind of place you arrive to after a long dusty spell on the road... tired, hungry, and desperately in need of a beer or twelve. This beautiful beach town is the cure for what ails you. Delicious, spicy swahili food, unforgettable views of a pristine white-sand beach, and lots and lots of very cold beer to wash it all down." 
+  },
+  "3": {
+    "location": "Kilifi",
+    "coordinates": {
+      "lng": 39.90,
+      "lat": -3.51
+    },
+    "text": "Just a bit north up the coast from Mombasa, Kilifi is a quiet beach town with a stunning white sand beach. The town itself is being turned into a Swahili eco-paradise as more and more locals get involved in the movement. Amazing food, good vibes, and just a lil' skip away from the ancient ruins of Gede. Kilifi is the perfect stop-over for experiencing all the Swahili coast has to offer."
+  },
+  "4": {
+    "location": "Meru NP",
+    "coordinates": {
+      "lng": 38.19,
+      "lat": 0.08
+    },
+    "text": "Quite possibly my favorite place in all of Kenya, Meru is tucked away in the central-north of the country, on the other side of Mount Kenya from Nairobi. It's not close to the capital, but finding your way there is half the fun, and getting off the beaten track means you don't have to share. Experience on of the best parks in Kenya for a self-drive safari." 
+  },
+  "5": {
+    "location": "Lamu",
+    "coordinates": {
+      "lng": 40.90,
+      "lat": -2.26
+    },
+    "text": "If you go to the Lamu archipelago, you may as well just cancel all your plans. The ethereal swirls of turquoise waters juxtaposed against the blinding white sand dunes create a fantasy you will be dreaming about long after you leave. Lamu takes you back to the glory days of the Swahili coast. Think Zanzibar, but without the crowds. Life is beautiful." 
+  }
+}

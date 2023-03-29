@@ -18,7 +18,7 @@ const Explore = (props) => {
   
   const getCoordinates = () => {
     const endpoint = 'mapbox.places';
-    const search_text = country;
+    const search_text = country.replace(" ", "-");
     fetch(`https://api.mapbox.com/geocoding/v5/${endpoint}/${search_text}.json?access_token=${MY_ACCESS_TOKEN}`)
     .then(response => response.json().then(data => ({
       data: data,

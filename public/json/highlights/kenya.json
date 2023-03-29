@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "Nairobi National Park",
+    "coordinates": {
+      "lng": 36.85,
+      "lat": -1.37
+    },
+    "text": "A perfect start for your trip to the big city. The park sneaks up on you as you drive into town from the airport. Skyscrapers out of one window, green grassland out the other. This park is the smallest national park in Kenya, but it still manages to give you some good animal loving. Lion spotting is good here."
+  },
+  "2": {
+    "location": "Nairobi-Mombasa Train (SGR)",
+    "coordinates": {
+      "lng": 36.82,
+      "lat": -1.29
+    },
+    "text": "The Kenyan Railway has been in service since the bygone days of the British Empire. Recently the tracks were updated and the original 14 hour journey was cut down to just 4.5 hours. It’s a beautiful ride through the Kenyan country-side, and much more comfortable than the arduous bus journey. Spend your time counting scores of red, mud-soaked Elephants as you pass through Tsavo National Park. If you are on the afternoon train, you’ll pass through the park right as the sun goes down. Magical." 
+  },
+  "3": {
+    "location": "Kitesurfing",
+    "coordinates": {
+      "lng": 39.59,
+      "lat": -4.27
+    },
+    "text": "This one gets a special mention even though Diani is one of the top 5. One of the first things you notice while stirring your breakfast mango shake is the number of brightly colored, elephantine kites twirling their way across the sparkling calm morning sea. Diana is one of the top kitesurfing destinations in the world. It’s a carnival in nylon and polyester. Definitely give it a try, but dear god wear waterproof sunscreen, or suffer the consequences." 
+  },
+  "4": {
+    "location": "Hells Gate National Park",
+    "coordinates": {
+      "lng": 36.30,
+      "lat": -0.88
+    },
+    "text": "Smaller than some of the better known parks, Hells Gate is conveniently located relatively close to Nairobi, just south of Lake Naivasha. There are excellent accommodation options around and you can actually rent a bicycle to get around most places, including through the park itself. That’s right: BICYCLE SAFARI. ‘Nuff said." 
+  },
+  "5": {
+    "location": "Mount Kenya",
+    "coordinates": {
+      "lng": 37.30,
+      "lat": -0.15
+    },
+    "text": "Rising out of the geographic center of the country, Africa’s second highest mountain dominates the countryside. Whether you have plans to try and reach the summit or you just want to take a peek, Mount Kenya will reward you with gorgeous vistas, a cooler climate, and a healthy dose of adventure." 
+  }
+}

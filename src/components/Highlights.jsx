@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Button, Row, Col } from "react-bootstrap";
+import { Card, Button, Row, Col } from "react-bootstrap";
 import mapboxgl from 'mapbox-gl';
 import Map from './Map.jsx';
 import Highlight from './Highlight.jsx';
@@ -52,9 +52,14 @@ const Highlights = (props) => {
       </h3>
         { jsonData.map((dataSet, index) => {
           return(
-            <p className="pointer" key={index} onMouseEnter={()=>{showLocationMarker(dataSet.coordinates, map.current)}} onMouseLeave={() =>{hideLocationMarker()}}>
-              {dataSet.location}
-            </p>
+            <Card>
+              <p className="pointer" key={index} onMouseEnter={()=>{showLocationMarker(dataSet.coordinates, map.current)}} onMouseLeave={() =>{hideLocationMarker()}}>
+                {dataSet.location}
+              </p>
+              <p>
+                {dataSet.text}
+              </p>
+            </Card>
           )
         })}
     </Col>

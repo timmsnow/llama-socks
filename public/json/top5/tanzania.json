@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "Tazara Train",
+    "coordinates": {
+      "lng": 28.68,
+      "lat": -13.97
+    },
+    "text": "The route starts in Kapiri Mposhi, Zambia and trundles along for a whopping 1,860 kilometers before terminating in Dar es Salaam. The whole trip can take anywhere from 2-4 full days depending on how many setbacks you may encounter. The point of this trip is not the destination, it's the opportunity to experience your very own Great Migration." 
+  },
+  "2": {
+    "location": "Zanzibar",
+    "coordinates": {
+      "lng": 39.36,
+      "lat": -6.13
+    },
+    "text": "After a month or two of deep-Africa travel, the dream of getting off the dusty highway and heading to an island paradise could be the only thing keeping your sanity intact. Zanzibar dishes all the good stuff out in spades. Historic Stone Town is as picturesque as they come, the beaches are perfection, and the fresh seafood is enough to get any weary traveler back on their feet." 
+  },
+  "3": {
+    "location": "Ngorogoro Crater",
+    "coordinates": {
+      "lng": 35.50,
+      "lat": -3.22
+    },
+    "text": "The high ridges of the Ngorogoro crater sit atop the clouds like a crown, ringing the beautiful earthen bowl below and isolating this garden of Eden from the outside world. A sort of mini-Serengeti, this national park has all the usual suspects, but in a condensed, easily navigable little pocket of the plains, where the animals have to compete with the scenery for room on your memory card."
+  },
+  "4": {
+    "location": "Lake Tanganyika",
+    "coordinates": {
+      "lng": 29.51,
+      "lat": -6.25
+    },
+    "text": "Lake Tanganyika is an ancient glacial lake, and the second deepest in the world (after Lake Baikal). The water here is beautiful, clear, and peaceful, which is funny considering the lake itself has been, and continues to be one of Africa's great super-highways. With four African countries sharing access to it's waters, the lake itself is a lifeline of transit and commerce in the area." 
+  },
+  "5": {
+    "location": "Kilimanjaro",
+    "coordinates": {
+      "lng": 37.35,
+      "lat": -3.06
+    },
+    "text": "Kilimanjaro is the snow-capped giant that rises from the plains, seemingly from nowhere, to dominate the landscape that surrounds it. At just under 6,000 meters above sea level, Kilimanjaro is the highest 'free-standing' mountain in the world. Even if you didn't come here to climb it, you'll certainly enojy spending a few days taking in the views of this majestic, natural wonder." 
+  }
+}

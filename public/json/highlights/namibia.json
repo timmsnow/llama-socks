@@ -1,0 +1,34 @@
+{
+  "1": {
+    "location": "Skeleton Coast",
+    "coordinates": {
+      "lng": 13.26,
+      "lat": -19.98
+    },
+    "text": "The Skeleton coast is an eerie, misty stretch of beach in a remote part of the country stretching from Sandwich Harbour, south of Swakopmund, to the Kunene River. It is difficult to get to, and not particularly well set up with tourists in mind. Essentially, this spooky region is a big-ship graveyard, with the decaying bodies of hulking vessels wedged along the rocky beaches and jutting out from the seemingly never-ending sand dunes that undulate across the Atlantic coast."
+  },
+  "2": {
+    "location": "Desert Camping",
+    "coordinates": {
+      "lng": 15.26,
+      "lat": -24.28
+    },
+    "text": "Namibia is essentially one giant camp ground. Free-camping can be found in remote areas of the country, although it’s definitely a better idea to camp at official campgrounds for your own safety. Private campgrounds are strategically placed throughout the country for you to stumble into just when you’ve hit your limit on body odor. Most have running water, or at the very least a pit toilet, and offer an extra level of comfort and security. There are a few truly magical places that make camping in this country unforgettable." 
+  },
+  "3": {
+    "location": "Caprivi Strip",
+    "coordinates": {
+      "lng": 23.57,
+      "lat": -17.86
+    },
+    "text": "At the very top of the country the Caprivi Strip is the panhandle of Namibia, which extends along the Zambezi river into the Okavango regions of Botswana and Zambia. This is a lush, tropical region in stark contrast with the rest of the country. If you are heading north or going to visit Victoria Falls, chances are you will be passing through the strip. The main attraction here is big game, and there are tons to be had along the Zambezi river and in the national parks of Mudumu and Mamili. For now tourism is not a big industry here compared with similar areas in Botswana and Zambia." 
+  },
+  "4": {
+    "location": "Swakopmund",
+    "coordinates": {
+      "lng": 14.52,
+      "lat": -22.67
+    },
+    "text": "The Swakopmund area is great for getting your bearings in between your great desert adventures. You can rest up and recharge in the twin cities of Walvis Bay and Swakopmund, which both offer everything a weary traveler may need. This is also a great base of operations for getting to the Skeleton coast, and the surrounding sand dunes offer up a little fun for those interested in sand-boarding or those four-wheeler, buggy things. The weather here is chilly compared to the rest of the country. Must be why those Germans liked it so much." 
+  }
+}

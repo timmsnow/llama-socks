@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "Giza",
+    "coordinates": {
+      "lng": 31.20,
+      "lat": 30.01
+    },
+    "text": "The uncontested star of the show, Giza is home to the Great Pyramid (Khufu) and two *slightly* slesser pyramids (Khafre and Menkaure), as well as that ever-enigmiatic, saucy Sphinx. These icons are the crown jewels of the archeology world, so prepare to be gob-smacked. This is absolutely one of the most special places on the planet. Even if there IS a Pizza Hut right across the road..." 
+  },
+  "2": {
+    "location": "The Desert",
+    "coordinates": {
+      "lng": 28.12,
+      "lat": 27.36
+    },
+    "text": "Camping out under the stars in the vast tracks of the Sahara Desert is one of the most exciting and rewarding experiences on offer in Egypt. Explore the Black and White deserts with the help of hearty bedouin guides and see the dramatic landscapes of what was once an ancient seabed. Oh, and expect to get upclose and personal with a great deal of sand. Lots and lots, and LOTS of sand." 
+  },
+  "3": {
+    "location": "The Nile",
+    "coordinates": {
+      "lng": 31.24,
+      "lat": 29.79
+    },
+    "text": "Egypt IS the Nile. Experience this watery wonder in style by taking a relaxed cruise up the Nile on a traditional felucca. Swim in the river, visit sparsely populated islands, and access ancient sites directly from your boat just as the ancients did, as you float along the most famous river in the world." 
+  },
+  "4": {
+    "location": "Dashur and Saqarra",
+    "coordinates": {
+      "lng": 23.05,
+      "lat": -19.83
+    },
+    "text": "The lesser-known pyramids at Dashur and Saqarra, only a short distance from Cairo, are as impressive and imposing as their more famous (albeit younger) cousins in Giza. The pyramids here are older, and far less tourists make it to these ancient sites. Depending on your luck and timing, it's possible you could have the whole place to yourself." 
+  },
+  "5": {
+    "location": "Abu Simbel",
+    "coordinates": {
+      "lng": 31.62,
+      "lat": 22.33
+    },
+    "text": "In the very south of the country, just north of the Sudanese border, the imposing temple of Abu Simbel sits, situated on the banks of the crocodile-infested lake Nassar. The giant temple complex serves as a testament to the capabilities of the great builders of ancient Egypt. Spending a day here is a must. ...Just resist the urge to for a swim." 
+  }
+}

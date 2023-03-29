@@ -10,10 +10,10 @@ const Top5 = (props) => {
   const [showDescription, setShowDescription] = useState({});
   const [hover, setHover] = useState({});
   const top5 = [1,2,3,4,5]
-  const frontImages = TOP5FRONT[country]
-  
+  const snakedCountry = country.replace(" ", "-").toLowerCase()
+  const pascalCountry = country.replace(" ", "")
+  const frontImages = TOP5FRONT[pascalCountry]
   let[jsonData, setJsonData] = useState("");
-  
   let[marker, setMarker] = useState({});
   let[map, setMap] = useState({});
   
@@ -31,7 +31,7 @@ const Top5 = (props) => {
   }
 
   async function fetchJson() {
-    setJsonData(await (await fetch(`../../json/top5/${country}.json`)).json());
+    setJsonData(await (await fetch(`../../json/top5/${snakedCountry}.json`)).json());
   }
   
   useEffect(() => {

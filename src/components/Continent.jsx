@@ -25,11 +25,13 @@ const Continent = () => {
         <div dangerouslySetInnerHTML={{ __html: htmlFileString }}></div>
         <Row className="center">
         {countries.map((country, index) => 
-        {let button = country + "Button"
+        {
+          let button = country + "Button"
+          let spacedCountry = country.match(/[A-Z][a-z]+/g).join(' ')
         return (
           <Col sm="4">
             <Card>
-              <Card.Title className="center padding-top">{country}</Card.Title>
+              <Card.Title className="center padding-top">{spacedCountry}</Card.Title>
               <Card.Body key={index} className="margin">
               <Link to={`/country`} state={{country: country}}>
                 <img src={COUNTRY_BUTTONS[button]} className="continent-picture" alt={country + " button"}/>

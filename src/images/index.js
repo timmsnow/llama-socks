@@ -85,12 +85,40 @@ export const TOP5FRONT = {
     4: require('../images/continents/africa/botswana/top5/okavango-top-front.jpg'),
     5: require('../images/continents/africa/botswana/top5/tsodilo-top-front.jpg'),
   },
+  Egypt: {
+    1: require('../images/continents/africa/egypt/top5/giza-top-front.jpg'),
+    2: require('../images/continents/africa/egypt/top5/egyptdeserts-top-front.jpg'),
+    3: require('../images/continents/africa/egypt/top5/nile-top-front.jpg'),
+    4: require('../images/continents/africa/egypt/top5/dashur-top-front.jpg'),
+    5: require('../images/continents/africa/egypt/top5/abusimbel-top-front.jpg'),
+  },
+  Kenya: {
+    1: require('../images/continents/africa/kenya/top5/masaitop.jpg'),
+    2: require('../images/continents/africa/kenya/top5/dianitop.jpg'),
+    3: require('../images/continents/africa/kenya/top5/kilifitop.jpg'),
+    4: require('../images/continents/africa/kenya/top5/merutop.jpg'),
+    5: require('../images/continents/africa/kenya/top5/lamutop.jpg'),
+  },
   Namibia: {
     1: require('../images/continents/africa/namibia/top5/sossosvlei-top-front.jpg'),
     2: require('../images/continents/africa/namibia/top5/kolmanskop-top-front.jpg'),
     3: require('../images/continents/africa/namibia/top5/desert-top-front.jpg'),
     4: require('../images/continents/africa/namibia/top5/etosha-top-front.jpg'),
     5: require('../images/continents/africa/namibia/top5/twyfelfontein-top-front.jpg'),
+  },
+  SouthAfrica: {
+    1: require('../images/continents/africa/south-africa/top5/capetowntop.jpg'),
+    2: require('../images/continents/africa/south-africa/top5/drakensbergtop.jpg'),
+    3: require('../images/continents/africa/south-africa/top5/krugertop.jpg'),
+    4: require('../images/continents/africa/south-africa/top5/johannesburgtop.jpg'),
+    5: require('../images/continents/africa/south-africa/top5/wildcoasttop.jpg'),
+  },
+  Tanzania: {
+    1: require('../images/continents/africa/tanzania/top5/tazaratop.jpg'),
+    2: require('../images/continents/africa/tanzania/top5/zanzibartop.jpg'),
+    3: require('../images/continents/africa/tanzania/top5/ngorogorotop.jpg'),
+    4: require('../images/continents/africa/tanzania/top5/tanganyikatop.jpg'),
+    5: require('../images/continents/africa/tanzania/top5/kilimanjarotop.jpg'),
   }
 }
 
@@ -102,12 +130,40 @@ export const TOP5BANNER = {
     4: require('../images/continents/africa/botswana/top5content/okavango-banner.jpg'),
     5: require('../images/continents/africa/botswana/top5content/tsodilo-banner.jpg'),
   },
+  Egypt: {
+    1: require('../images/continents/africa/egypt/top5content/giza-banner.jpg'),
+    2: require('../images/continents/africa/egypt/top5content/egyptdeserts-banner.jpg'),
+    3: require('../images/continents/africa/egypt/top5content/nile-banner.jpg'),
+    4: require('../images/continents/africa/egypt/top5content/dashur-banner.jpg'),
+    5: require('../images/continents/africa/egypt/top5content/abusimbel-banner.jpg'),
+  },
+  Kenya: {
+    1: require('../images/continents/africa/kenya/top5content/masai-banner.jpg'),
+    2: require('../images/continents/africa/kenya/top5content/diani-banner.jpg'),
+    3: require('../images/continents/africa/kenya/top5content/kilifi-banner.jpg'),
+    4: require('../images/continents/africa/kenya/top5content/meru-banner.jpg'),
+    5: require('../images/continents/africa/kenya/top5content/lamu-banner.jpg'),
+  },
   Namibia: {
     1: require('../images/continents/africa/namibia/top5content/sossosvlei-banner.jpg'),
     2: require('../images/continents/africa/namibia/top5content/kolmanskop-banner.jpg'),
     3: require('../images/continents/africa/namibia/top5content/desert-banner.jpg'),
     4: require('../images/continents/africa/namibia/top5content/etosha-banner.jpg'),
     5: require('../images/continents/africa/namibia/top5content/twyfelfontein-banner.jpg'),
+  },
+  SouthAfrica: {
+    1: require('../images/continents/africa/south-africa/top5content/capetown-banner.jpg'),
+    2: require('../images/continents/africa/south-africa/top5content/drakensberg-banner.jpg'),
+    3: require('../images/continents/africa/south-africa/top5content/kruger-banner.jpg'),
+    4: require('../images/continents/africa/south-africa/top5content/johannesburg-banner.jpg'),
+    5: require('../images/continents/africa/south-africa/top5content/wildcoast-banner.jpg'),
+  },
+  Tanzania: {
+    1: require('../images/continents/africa/tanzania/top5content/tazara-banner.jpg'),
+    2: require('../images/continents/africa/tanzania/top5content/zanzibar-banner.jpg'),
+    3: require('../images/continents/africa/tanzania/top5content/ngorogoro-banner.jpg'),
+    4: require('../images/continents/africa/tanzania/top5content/tanganyika-banner.jpg'),
+    5: require('../images/continents/africa/tanzania/top5content/kilimanjaro-banner.jpg'),
   }
 }
 
