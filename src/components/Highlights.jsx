@@ -1,5 +1,5 @@
-import React, { useState, useEffect, useRef } from 'react';
-import { Card, Button, Row, Col } from "react-bootstrap";
+import React, { useState, useEffect } from 'react';
+import { Card, Row, Col } from "react-bootstrap";
 import mapboxgl from 'mapbox-gl';
 import Map from './Map.jsx';
 import Highlight from './Highlight.jsx';
@@ -11,10 +11,10 @@ mapboxgl.accessToken = process.env.REACT_APP_MAP_BOX_KEY
 const Highlights = (props) => {
   const { country, center } = props
   const [jsonData, setJsonData] = useState([]);
-
+  const snakedCountry = country.replace(" ", "-").toLowerCase()
 
   async function fetchJson() {
-    const json = (await (await fetch(`../../json/highlights/${country}.json`)).json());
+    const json = (await (await fetch(`../../json/highlights/${snakedCountry}.json`)).json());
     setJsonData(Object.values(json))
   }
   

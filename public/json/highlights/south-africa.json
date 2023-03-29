@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "Boulders Beach",
+    "coordinates": {
+      "lng": 18.44,
+      "lat": -34.19
+    },
+    "text": "About an hours train ride away from Cape Town proper is adorable little Boulders Beach. This is the land of the African penguins. The nearly extinct breed of penguin is under protection on the beaches and waters of the Cape. On top of getting some pretty fab-o up close pictures of these funny little guys, you can actually take a swim right along side them as they go for their morning meal. It’s penguins though, so you know that water is cold."
+  },
+  "2": {
+    "location": "Wine Country",
+    "coordinates": {
+      "lng": 18.86,
+      "lat": -33.93
+    },
+    "text": "The surrounding countryside in the Cape is blessed with a perfect grape-growing climate. South Africa has become famous all over the world as an emerging first-class wine producer. You can actually take the train to the Stellenbosch region, one of the more well-known parts in wine country, it’s easily navigable, and makes for a great day trip from Cape Town." 
+  },
+  "3": {
+    "location": "The Garden Route",
+    "coordinates": {
+      "lng": 22.04,
+      "lat": -33.70
+    },
+    "text": "The Garden Route runs from Cape Town to roughly Port Elizabeth along the south coast of the country. There is no set itinerary here. You can stick to the beaches, go cage diving with great whites (when they cooperate), or head inland to the surrounding national parks for some epic hikes. This is a pretty well-worn path so there are TONS of quality accommodation options, and no shortage of adventure activities and tours to partake in. If you don’t have your own car, Baz Bus operates as a sort of hop-on, hop-off bus service and is a nice option for single backpackers wanting to travel with others. It’ll cost you about double what the public transit would cost though, which honestly is almost just as easy on this stretch of road. Intercape runs regular buses here." 
+  },
+  "4": {
+    "location": "Durban",
+    "coordinates": {
+      "lng": 31.02,
+      "lat": -29.85
+    },
+    "text": "Sub-tropical, beachy Durban, on the eastern/Indian ocean coast is something of an ethnic melting pot. Having been a major port town for the British, the city grew as immigrants from all over the empire, but especially India, made their way into the bustling seaside city. Although Zulu is still the largest ethnic group here, you can find the flavor of India just about everywhere you look. Apart from the major draw, the large expanse of beautiful beaches, you can also spend your time exploring the surrounding Nature Parks, or check out the aerial views of the coast on a skydive." 
+  },
+  "5": {
+    "location": "St Lucia",
+    "coordinates": {
+      "lng": 32.41,
+      "lat": -28.37
+    },
+    "text": "This little town is the jump off point for iSimangaliso Wetland Park and is essentially one big Nature Reserve. Independent travelers are drawn here because they are able to enter the park without a guide in most instances, whether on a self-drive safari or multi-day hikes through the park. There are areas where your movements are restricted based on which animals are hanging around, but it’s generally well sign-posted. The town itself has a funny reputation for being home to free-range hippos after dark. Tourists are encouraged to stay indoors so as not to tempt those hungry hungry hippos, who seem to relish a good stomping now and again." 
+  }
+}

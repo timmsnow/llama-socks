@@ -1,0 +1,34 @@
+{
+  "1": {
+    "location": "The Serengeti",
+    "coordinates": {
+      "lng": 34.68,
+      "lat": -1.89
+    },
+    "text": "When I was 8 or 9 years old, I saw a nature documentary in an IMAX theater called “AFRICA: the Serengeti”. I sat transfixed in my ever-so-slightly padded theater seat, as wide-sweeping shots of stampeding wildebeests flickered across the ample movie screen, accompanied by an evocative soundtrack of drum beats and guttural human expressions. Throw in some aerial views of the great Rift Valley, and heart-melting close-ups of scrunched lion cub faces and that was that. I was hooked on Tanzania before I even knew Tanzania was a thing. The Serengeti has been captivating the hearts and minds of people of all ages for generations. This is truly, without doubt, THE big one. The massive park stretches for over 5,690 meters squared, taking up a good chunk of the northern part of the country. The Serengeti is the place that you picture in your mind when you think of Africa and it’s the place you’ll continue to dream about long after you’re gone."
+  },
+  "2": {
+    "location": "Gombe National Park",
+    "coordinates": {
+      "lng": 29.64,
+      "lat": -4.69
+    },
+    "text": "Gombe is famous as the adopted home of Jane Goodall, who has made the study of chimpanzees in the park her life’s work. The park itself is remote and can only be explored with the aid of local guides. Most people base themselves out of Kigoma when making preparations to enter the park. This is no simple tour, it can involve days of hiking, and trust me when I say it ain’t cheap either. But if you have the cash and the time, you could have the once in a lifetime experience of getting up close and personal with local resident chimpanzees." 
+  },
+  "3": {
+    "location": "Lake Victoria",
+    "coordinates": {
+      "lng": 33.43,
+      "lat": -0.75
+    },
+    "text": "Gorgeous lake Victoria sits at the very top of Tanzania and serves as a gateway to neighboring Uganda and Kenya. The city of Mwanza is the main commercial hub for the region and is most likely where you will find yourself if you happen to make it over this way. There are plenty of pleasant lakeside hotels where you can relax and take the sun, and it’s not a bad place to recuperate if you’ve been hitting the long dusty highways of Africa for too many days in a row. Bring mosquito repellent though, as this area can be buggy, and malaria is not a thing of the past on the lake." 
+  },
+  "4": {
+    "location": "Kilwa Kisiwani",
+    "coordinates": {
+      "lng": 39.49,
+      "lat": -8.96
+    },
+    "text": "The ruins of the old Swahili empire still exist as a Unesco world heritage site. The majority of the site is on an island, just offshore from the town of Masoko, where you will likely be staying. Apart from exploring these extraordinary ruins, you can get some serious beach time in, eat the spicy goodness of the Swahili cuisine, and go scuba diving or snorkeling in the pristine waters surrounding the island. This place is magical, not often visited, and getting easier to reach as the roads continue to be paved. It won’t stay quiet for long." 
+  }
+}
