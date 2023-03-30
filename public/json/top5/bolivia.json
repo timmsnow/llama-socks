@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "La Paz",
+    "coordinates": {
+      "lng": -68.11,
+      "lat": -16.48
+    },
+    "text": "La Paz has always had a reputation for being somewhat seedy. Theft, the drug trade, and corruption are generally the associations made by outsiders looking in. But La Paz is full of surprises. The positives far outweigh the negatives here and if given a chance, the city will greet you with open arms, not to mention some truly incredible views." 
+  },
+  "2": {
+    "location": "Uyuni",
+    "coordinates": {
+      "lng": -67.48,
+      "lat": -20.13
+    },
+    "text": "What to say about Uyuni? There is a reason why this natural masterpiece is a consistent hit and a 'must-see' for anyone backpacking through South America. It's magnitude, majesty, and other-worldly atmosphere, along with the thin air of this high-altitude wonder are enough to make any little llama's head spin. Just go. Once you've been, you'll know." 
+  },
+  "3": {
+    "location": "Tiwanaku",
+    "coordinates": {
+      "lng": -68.67,
+      "lat": -16.55
+    },
+    "text": "While the exact dates of the founding of Tiwanaku are in hot debate, most scholars agree that it was around 375 CE that the settlement really took off, architecturally speaking. It's a sprawling city-complex and one of the best preserved and most impressive pre-Incan sites in all of South America." 
+  },
+  "4": {
+    "location": "Isla del Sol",
+    "coordinates": {
+      "lng": -69.17,
+      "lat": -16.01
+    },
+    "text": "Incan creation myths claim this stunning island, which rises out of southern Lake Titicaca, to be the birthplace of the great Andean civilization. Walking the trails that criss-cross the island, a visitor can soak in the ethereal atmosphere and sense the potency of the magic that's been made here for centuries. Do yourself a favor and plan to stay for more than one day." 
+  },
+  "5": {
+    "location": "Amazon",
+    "coordinates": {
+      "lng": -67.48,
+      "lat": -14.50
+    },
+    "text": "Most travelers interested in taking a trip to the Amazon rainforest rarely consider Bolivia as their natural starting point, generally opting instead for the more popular and well-trodden countries of Peru and Brazil to host their journey. This means the Bolivian amazon is a little more off the beaten track. It's quieter, more remote, and a great option for those wanting to save a few Bolivianos." 
+  }
+}

@@ -1,10 +1,10 @@
 export const IMAGES = {
   LlamaSocksBanner: require('../images/banners/llamasocks3.jpg'),
   BotswanaButton: require('../images/continents/africa/botswana/botswana-button.jpg'),
-  Africa: require('../images/continents/africa.jpg'),
-  Asia: require('../images/continents/asia.jpg'),
-  Australia: require('../images/continents/australia.jpg'),
-  Europe: require('../images/continents/europe.jpg'),
+  // Africa: require('../images/continents/africa.jpg'),
+  // Asia: require('../images/continents/asia.jpg'),
+  // Australia: require('../images/continents/australia.jpg'),
+  // Europe: require('../images/continents/europe.jpg'),
 }
 
 export const BANNER_CAROUSEL = {
@@ -26,11 +26,12 @@ export const CONTINENT_BANNERS = {
 }
 
 export const CONTINENT_BUTTONS = {
-  AfricaBanner: require('../images/continents/continentBanners/africa-banner.jpg'),
-  AsiaBanner: require('../images/continents/continentBanners/asia-banner.jpg'),
-  EuropeBanner: require('../images/continents/continentBanners/europe-banner.jpg'),
-  NorthAmericaBanner: require('../images/continents/continentBanners/north-america-banner.jpg'),
-  SouthAmericaBanner: require('../images/continents/continentBanners/south-america-banner.jpg'),
+  AfricaButton: require('../images/continents/continentButtons/africa-button.jpg'),
+  AsiaButton: require('../images/continents/continentButtons/asia-button.jpg'),
+  EuropeButton: require('../images/continents/continentButtons/europe-button.jpg'),
+  NorthAmericaButton: require('../images/continents/continentButtons/north-america-button.jpg'),
+  OceaniaButton: require('../images/continents/continentButtons/oceania-button.jpg'),
+  SouthAmericaButton: require('../images/continents/continentButtons/south-america-button.jpg'),
 }
 
 export const COUNTRY_BANNERS = {
@@ -52,14 +53,16 @@ export const COUNTRY_BANNERS = {
   BoliviaBanner: require('../images/continents/south-america/bolivia/bolivia-banner.jpg'),
   EcuadorBanner: require('../images/continents/south-america/ecuador/ecuador-banner.jpg'),
   PeruBanner: require('../images/continents/south-america/peru/peru-banner.jpg'),
-  GalapagosBanner: require('../images/continents/south-america/galapagos/galapagos-banner.jpg'),
 }
 
 export const COUNTRY_BUTTONS = {
+  BoliviaButton: require('../images/continents/south-america/bolivia/bolivia-button.jpg'),
   BotswanaButton: require('../images/continents/africa/botswana/botswana-button.jpg'),
+  EcuadorButton: require('../images/continents/south-america/ecuador/ecuador-button.jpg'),
   EgyptButton: require('../images/continents/africa/egypt/egypt-button.jpg'),
   KenyaButton: require('../images/continents/africa/kenya/kenya-button.jpg'),
   NamibiaButton: require('../images/continents/africa/namibia/namibia-button.jpg'),
+  PeruButton: require('../images/continents/south-america/peru/peru-button.jpg'),
   SouthAfricaButton: require('../images/continents/africa/south-africa/south-africa-button.jpg'),
   TanzaniaButton: require('../images/continents/africa/tanzania/tanzania-button.jpg'),
   // CambodiaBanner: require('../images/continents/asia/cambodia/cambodia-button.jpg'),
@@ -71,10 +74,6 @@ export const COUNTRY_BUTTONS = {
   // ThailandBanner: require('../images/continents/asia/thailand/thailand-button.jpg'),
   // ItalyBanner: require('../images/continents/europe/italy/italy-button.jpg'),
   // MaltaBanner: require('../images/continents/europe/malta/malta-button.jpg'),
-  // BoliviaBanner: require('../images/continents/south-america/bolivia/bolivia-button.jpg'),
-  // EcuadorBanner: require('../images/continents/south-america/ecuador/ecuador-button.jpg'),
-  // PeruBanner: require('../images/continents/south-america/peru/peru-button.jpg'),
-  // GalapagosBanner: require('../images/continents/south-america/galapagos/galapagos-button.jpg'),
 }
 
 export const TOP5FRONT = {
@@ -119,16 +118,51 @@ export const TOP5FRONT = {
     3: require('../images/continents/africa/tanzania/top5/ngorogorotop.jpg'),
     4: require('../images/continents/africa/tanzania/top5/tanganyikatop.jpg'),
     5: require('../images/continents/africa/tanzania/top5/kilimanjarotop.jpg'),
+  },
+  Bolivia: {
+    1: require('../images/continents/south-america/bolivia/top5/lapaztop.jpg'),
+    2: require('../images/continents/south-america/bolivia/top5/uyunitop.jpg'),
+    3: require('../images/continents/south-america/bolivia/top5/tiwanakutop.jpg'),
+    4: require('../images/continents/south-america/bolivia/top5/islatop.jpg'),
+    5: require('../images/continents/south-america/bolivia/top5/amazontop.jpg'),
+  },
+  Ecuador: {
+    1: require('../images/continents/south-america/ecuador/top5/quitotop.jpg'),
+    2: require('../images/continents/south-america/ecuador/top5/cuencatop.jpg'),
+    3: require('../images/continents/south-america/ecuador/top5/galapagostop.jpg'),
+    4: require('../images/continents/south-america/ecuador/top5/coasttop.jpg'),
+    5: require('../images/continents/south-america/ecuador/top5/guayaquiltop.jpg'),
+  },
+  Peru: {
+    1: require('../images/continents/south-america/peru/top5/machupicchutop.jpg'),
+    2: require('../images/continents/south-america/peru/top5/amazontop.jpg'),
+    3: require('../images/continents/south-america/peru/top5/nazcatop.jpg'),
+    4: require('../images/continents/south-america/peru/top5/sacredvalleytop.jpg'),
+    5: require('../images/continents/south-america/peru/top5/huacachinatop.jpg'),
   }
 }
 
 export const TOP5BANNER = {
+  Bolivia: {
+    1: require('../images/continents/south-america/bolivia/top5content/lapaz-banner.jpg'),
+    2: require('../images/continents/south-america/bolivia/top5content/uyuni-banner.jpg'),
+    3: require('../images/continents/south-america/bolivia/top5content/tiwanaku-banner.jpg'),
+    4: require('../images/continents/south-america/bolivia/top5content/isladelsol-banner.jpg'),
+    5: require('../images/continents/south-america/bolivia/top5content/amazon-banner.jpg'),
+  },
   Botswana: {
     1: require('../images/continents/africa/botswana/top5content/chobe-banner.jpg'),
     2: require('../images/continents/africa/botswana/top5content/ckgr-banner.jpg'),
     3: require('../images/continents/africa/botswana/top5content/nxai-banner.jpg'),
     4: require('../images/continents/africa/botswana/top5content/okavango-banner.jpg'),
     5: require('../images/continents/africa/botswana/top5content/tsodilo-banner.jpg'),
+  },
+  Ecuador: {
+    1: require('../images/continents/south-america/ecuador/top5content/quito-banner.jpg'),
+    2: require('../images/continents/south-america/ecuador/top5content/cuenca-banner.jpg'),
+    3: require('../images/continents/south-america/ecuador/top5content/galapagos-banner.jpg'),
+    4: require('../images/continents/south-america/ecuador/top5content/coast-banner.jpg'),
+    5: require('../images/continents/south-america/ecuador/top5content/guayaquil-banner.jpg'),
   },
   Egypt: {
     1: require('../images/continents/africa/egypt/top5content/giza-banner.jpg'),
@@ -150,6 +184,13 @@ export const TOP5BANNER = {
     3: require('../images/continents/africa/namibia/top5content/desert-banner.jpg'),
     4: require('../images/continents/africa/namibia/top5content/etosha-banner.jpg'),
     5: require('../images/continents/africa/namibia/top5content/twyfelfontein-banner.jpg'),
+  },
+  Peru: {
+    1: require('../images/continents/south-america/peru/top5content/machupicchu-banner.jpg'),
+    2: require('../images/continents/south-america/peru/top5content/amazon-banner.jpg'),
+    3: require('../images/continents/south-america/peru/top5content/nazca-banner.jpg'),
+    4: require('../images/continents/south-america/peru/top5content/sacredvalley-banner.jpg'),
+    5: require('../images/continents/south-america/peru/top5content/huacachina-banner.jpg'),
   },
   SouthAfrica: {
     1: require('../images/continents/africa/south-africa/top5content/capetown-banner.jpg'),

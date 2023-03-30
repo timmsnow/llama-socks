@@ -1,0 +1,34 @@
+{
+  "1": {
+    "location": "Quilotoa Traverse",
+    "coordinates": {
+      "lng": -78.90,
+      "lat": -0.85
+    },
+    "text": "This 4-5 day hiking route takes you off the Pan-American highway into the remote, Andean countryside of Ecuador. While portions of the loop meet up with gravelly, mountain roads, the majority of the hike is made up of pedestrian hiking trails connecting small rural villages where you can rest and recuperate before continuing your hike. There are several routes you can explore, although the most common will take you through the villages of Quilotoa, Chugchilan, Insilivi, and Sigchos. Regardless of which route you choose, the unforgettable views of the deep azure waters of the Quilotoa Lake will leave a lasting impression and a high you’ll be chasing for the rest of your South American travels."
+  },
+  "2": {
+    "location": "Cotopaxi",
+    "coordinates": {
+      "lng": -78.43,
+      "lat": -0.68
+    },
+    "text": "Parque Nacional Cotopaxi is only about 50 km southeast of Quito, and yet feels like a world apart. The gigantic volcanic peak of Cotopaxi mountain dominates the park at nearly 5,900 meters in height, making it one of the highest volcanoes in the world. The summit is accessible to hikers up for a moderate challenge and equipped with a local guide, while trips to Limpiopungo Lagoon offer unforgettable views of the volcano from a distance for those less interested in an overnight hike to the summit." 
+  },
+  "3": {
+    "location": "Baños",
+    "coordinates": {
+      "lng": -78.42,
+      "lat": -1.39
+    },
+    "text": "Baños is, without a doubt, Ecuador’s number one adventure travel destination. These days the pretty little town has become something of a tourist mecca, with hordes of foreigners and Ecuadorians alike arriving in droves to explore all the action that’s on offer in the surrounding countryside. Waterfalls, hikes, bungee, abseiling, canyoning, zip lining, and paragliding are a few examples of what you can get up to hear. With a fantastic Andean backdrop and the promise of a rewarding soak in the natural thermal baths, what’s not to like about this comfortable mountain retreat?" 
+  },
+  "4": {
+    "location": "Volcabamba",
+    "coordinates": {
+      "lng": -79.22,
+      "lat": -4.26
+    },
+    "text": "Vilcabamba village and the surrounding valley has something of a new age, hippied-out feel that fits in seamlessly with the mystique of the Andean region. A fantastic place to spend a few days soaking in the scenery, Vilcabamaba has a cosmopolitan atmosphere to it that can be attributed to the mass influx of ex-pats and spiritual seekers that have descended en masse over the last few decades. The general vibe of the place is more yogurt and granola than cuy and encebollado, but if you’re looking for a comfortable place to chill for a few days and yearning for a proper cappuccino, you could do far worse than the scenic valley of Vilcabamaba." 
+  }
+}

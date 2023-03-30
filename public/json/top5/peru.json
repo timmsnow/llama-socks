@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "Machu Picchu",
+    "coordinates": {
+      "lng": -72.49,
+      "lat": -13.22
+    },
+    "text": "There are some places in this world that make you think to yourself 'Are the crowds really worth it??'... 'Does this place really matter that much?'... 'Must I visit this over-photographed, super-hyped, so-called wonder of the world???' This time, the answer to all those questions is an emphatic YES. Yes they are. Yes it does. Yes you must." 
+  },
+  "2": {
+    "location": "The Amazon",
+    "coordinates": {
+      "lng": -73.25,
+      "lat": -3.74
+    },
+    "text": "If the idea of finding yourself deep in the wildest of jungles, with spider monkeys, sloths, and toucans keeping you company doesn't set your little traveler heart a'flutter, then perhaps I know something that will. Three simple words: PINK. RIVER. DOLPHINS. The Aamazon is a bizarre and wild world, and getting a peek behind this verdant canopy is an unforgettable experience." 
+  },
+  "3": {
+    "location": "Nazca Lines",
+    "coordinates": {
+      "lng": -74.93,
+      "lat": -14.83
+    },
+    "text": "Ever Since I was a child, the word 'Nazca' evoked something strange and other-worldly. As an adult, flying over the Nazca lines in a tiny prop plane, watching the enigmatic symbols reveal themselves below only confirmed to my head what my heart knew all along. We know nothing about nothing about nothing about the universe." 
+  },
+  "4": {
+    "location": "Sacred Valley",
+    "coordinates": {
+      "lng": -72.26,
+      "lat": -13.25
+    },
+    "text": "Wanna feel some palpable spiritual vibrations? Seriously, this is the place. The whole of the Sacred Valley, from Cuzco to Machu Picchu, and everything inbetween, pumps out a steady stream of sacramental energy that washes over you like an ice bath in the middle of the Sahara... or something like that. Mountains, ruins, and a touch of the divine, that's what this land is made of." 
+  },
+  "5": {
+    "location": "Huacachina",
+    "coordinates": {
+      "lng": -75.76,
+      "lat": -14.08
+    },
+    "text": "Like some shimmering emerald city born from refracted light and desert heat, Huacachina rises out of the surrounding dunes as if in a cartoon, or a childhood dream, promising shelter from the otherwise harsh, dry landscape that encircles it. But this is no mirage oasis. Huacachina is the real deal, and you have to see it to believe it." 
+  }
+}

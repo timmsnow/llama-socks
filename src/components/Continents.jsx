@@ -1,7 +1,7 @@
 import React from 'react';
 import { Card, Container, Row, Col } from "react-bootstrap";
 import { Link } from 'react-router-dom'
-import { IMAGES } from '../images/index.js';
+import { CONTINENT_BUTTONS } from '../images/index.js';
 
 const Continents = () => {
   const countryList = {
@@ -9,8 +9,8 @@ const Continents = () => {
     "Asia": ["Cambodia", "Indonesia", "Japan", "Malaysia", "Nepal", "Philippines", "Thailand"],
     "Oceania": ["Australia", "New Zealand"],
     "Europe": ["Italy", "Malta"],
-    "NorthAmerica": ["United States", "Mexico"],
-    "SouthAmerica": ["Bolivia", "Ecuador", "Galapagos", "Peru"]
+    "NorthAmerica": ["Belize", "United States", "Mexico"],
+    "SouthAmerica": ["Bolivia", "Ecuador", "Peru"]
   }
 
   const continents = Object.keys(countryList)
@@ -25,7 +25,7 @@ const Continents = () => {
               <Card.Title className="center padding-top">{continent}</Card.Title>
               <Card.Body className="margin">
                 <Link to={`/continent`} state={{continent: continent, countries: countryList[continent]}}>
-                  <img key={index} src={IMAGES[continent]} className="continent-picture" alt={continent + "button"}/>
+                  <img key={index} src={CONTINENT_BUTTONS[continent + 'Button']} className="continent-picture" alt={continent + "button"}/>
                 </Link>
               </Card.Body>
             </Card>

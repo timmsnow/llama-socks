@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "Quito",
+    "coordinates": {
+      "lng": -78.46,
+      "lat": -0.18
+    },
+    "text": "Charming, cosmopolitan Quito is Ecuador's sprawling capital. The world's 'highest official capital city', Quito stands at nearly 3,000 meters above sea level. Spending a few days wandering the maze-like cobblestone streets of the Centro Historico and taking in the sweeping Andean views is a great way to acclimatize yourself to the high country." 
+  },
+  "2": {
+    "location": "Cuenca",
+    "coordinates": {
+      "lng": -79.00,
+      "lat": -2.90
+    },
+    "text": "If Quito is the central 'brain' of Ecuador, Cuenca is most certainly the heart. Despite being a regional capital, Cuenca is the big city that somehow manages to maintain the warmth and accessibility of a small, country town. Built upon ancient Incan ruins, an ever-present mystique seems to hover in the mist above the cobblestones." 
+  },
+  "3": {
+    "location": "Galapagos",
+    "coordinates": {
+      "lng": -90.96,
+      "lat": -0.95
+    },
+    "text": "The Galapagos Islands inhabit a space on an inter-dimensional plane of existence where your daily reality is a constant, mind-boggling, head-exploding, eye-popping continual state of disbelief. Think dinosaur-sized tortoises, equatorial penguins, extremely vocal colonies of sea lions, and schools upon schools of hammerhead sharks. Welcome to Eden my friends." 
+  },
+  "4": {
+    "location": "Pacific Coast",
+    "coordinates": {
+      "lng": -80.80,
+      "lat": -1.55
+    },
+    "text": "hellllp" 
+  },
+  "5": {
+    "location": "Guayaquil",
+    "coordinates": {
+      "lng": -79.88,
+      "lat": -2.18
+    },
+    "text": "At first look, Ecuador's most populous city may seema little rough and tumble, but give it half a chance and this coastal city will open up like a clam at a ceviche party... or something. Some of the best seafod in the country can be found here, and an evening spent exploring Barrio las Peñas and meandering down the Malecón should make for a memorable trip to this seaside metropolis." 
+  }
+}

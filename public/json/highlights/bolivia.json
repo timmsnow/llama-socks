@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "Sucre",
+    "coordinates": {
+      "lng": -65.25,
+      "lat": -19.03
+    },
+    "text": "For a regional capital (as well as Bolivia’s constitutional capital), Sucre is surprisingly chill. The city’s streets are lined with neo-classical architecture that recollects the glory days of the by-gone colonial era. For a long time Sucre was THE city in Bolivia, benefiting from the close ties to the nearby silver mines of Potosi. Nowadays the city plays second fiddle to La Paz. Of the three branches of Bolivia’s democratic republic, only one (judicial) continues to be administered from Sucre. While there is some lingering resentment from Sucreños regarding this loss of status, it remains a calm, enjoyable place to spend a few days recuperating from the more frenetic corners of the country, as well as an atmospheric base for exploring the surrounding sites in the Bolivian countryside."
+  },
+  "2": {
+    "location": "Santa Cruz",
+    "coordinates": {
+      "lng": -63.15,
+      "lat": -17.81
+    },
+    "text": "Santa Cruz is a complete 180 from sweet, tranquil Sucre. Now the largest city in Bolivia by population, Santa Cruz has a somewhat maddening pace and is the beating heart and economic capital of the country. It’s one of the fastest growing cities in the world and when you’re there, you feel it. Unlike La Paz, Santa Cruz sits at low elevation, in a jungle climate, year round. It’s a great jump off point if you’re entering the country from Brazil, and a great place to position yourself to explore the national parks and conservation areas of Bolivia’s low-lying regions." 
+  },
+  "3": {
+    "location": "Las Cordilleras",
+    "coordinates": {
+      "lng": -67.16,
+      "lat": -17.00
+    },
+    "text": "The mountains of Cordillera Real divide the Amazon Basin from the Altiplano and cover a considerable area in Bolivia. In the north the small mountain town of Sorata makes for a perfect jumping-off point for trekking and glacier viewing, while further south, near La Paz, the famous Nor Yungas Road (aka “Death Road”) snakes it’s way along sheer cliff drops before arriving in the town of Coroico. You can buckle up here, but it probably won’t make a difference." 
+  },
+  "4": {
+    "location": "Parque Nacional Torotoro",
+    "coordinates": {
+      "lng": -65.78,
+      "lat": -18.07
+    },
+    "text": "Stomp where the dinosaurs stomped. In this park you can take in the view of over 2,500 dinosaur footprints, and making a trip to visit the enigmatic (although geologically explainable) “Ciudad de Ita” (City of Rocks), is an other-worldly experience." 
+  },
+  "5": {
+    "location": "Cochabomba",
+    "coordinates": {
+      "lng": -66.16,
+      "lat": -17.41
+    },
+    "text": "The lack of tourist-specific sites in the area around Cochabamba is precisely what makes the city so appealing. An easy stop en route between Sucre and La Paz, Cochabamba is a green, laid back, and easily navigable city. The fourth largest of Bolivia’s Metropoli, it has everything a city slicker might need, without the chaos and garbage that often accompany city life. It’s one of the best places in South America to take a Spanish immersion course, as the prices are cheap and the schools are aplenty. Throw in an artsy, cosmopolitan atmosphere and you have a recipe for the perfect home away from home." 
+  }
+}
