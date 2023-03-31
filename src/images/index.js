@@ -56,15 +56,21 @@ export const COUNTRY_BANNERS = {
 }
 
 export const COUNTRY_BUTTONS = {
+  AustraliaButton: require('../images/continents/oceania/australia/australia-button.jpg'),
+  BelizeButton: require('../images/continents/north-america/belize/belize-button.jpg'),
   BoliviaButton: require('../images/continents/south-america/bolivia/bolivia-button.jpg'),
   BotswanaButton: require('../images/continents/africa/botswana/botswana-button.jpg'),
   EcuadorButton: require('../images/continents/south-america/ecuador/ecuador-button.jpg'),
   EgyptButton: require('../images/continents/africa/egypt/egypt-button.jpg'),
+  ItalyButton: require('../images/continents/europe/italy/italy-button.jpg'),
   KenyaButton: require('../images/continents/africa/kenya/kenya-button.jpg'),
+  MaltaButton: require('../images/continents/europe/malta/malta-button.jpg'),
   NamibiaButton: require('../images/continents/africa/namibia/namibia-button.jpg'),
+  NewZealandButton: require('../images/continents/oceania/new-zealand/new-zealand-button.jpg'),
   PeruButton: require('../images/continents/south-america/peru/peru-button.jpg'),
   SouthAfricaButton: require('../images/continents/africa/south-africa/south-africa-button.jpg'),
   TanzaniaButton: require('../images/continents/africa/tanzania/tanzania-button.jpg'),
+  UnitedStatesButton: require('../images/continents/north-america/united-states/united-states-button.jpg'),
   // CambodiaBanner: require('../images/continents/asia/cambodia/cambodia-button.jpg'),
   // IndonesiaBanner: require('../images/continents/asia/indonesia/indonesia-button.jpg'),
   // JapanBanner: require('../images/continents/asia/japan/japan-button.jpg'),
@@ -72,8 +78,6 @@ export const COUNTRY_BUTTONS = {
   // NepalBanner: require('../images/continents/asia/nepal/nepal-button.jpg'),
   // PhilippinesBanner: require('../images/continents/asia/philippines/philippines-button.jpg'),
   // ThailandBanner: require('../images/continents/asia/thailand/thailand-button.jpg'),
-  // ItalyBanner: require('../images/continents/europe/italy/italy-button.jpg'),
-  // MaltaBanner: require('../images/continents/europe/malta/malta-button.jpg'),
 }
 
 export const TOP5FRONT = {
@@ -139,7 +143,21 @@ export const TOP5FRONT = {
     3: require('../images/continents/south-america/peru/top5/nazcatop.jpg'),
     4: require('../images/continents/south-america/peru/top5/sacredvalleytop.jpg'),
     5: require('../images/continents/south-america/peru/top5/huacachinatop.jpg'),
-  }
+  },
+  Italy: {
+    1: require('../images/continents/europe/italy/top5/puglia-top.jpg'),
+    2: require('../images/continents/europe/italy/top5/sicily-top.jpg'),
+    3: require('../images/continents/europe/italy/top5/rome-top.jpg'),
+    4: require('../images/continents/europe/italy/top5/pompeii-top.jpg'),
+    5: require('../images/continents/europe/italy/top5/alpedisiusi-top.jpg'),
+  },
+  Malta: {
+    1: require('../images/continents/europe/malta/top5/mdina-top.jpg'),
+    2: require('../images/continents/europe/malta/top5/ggantija-top.jpg'),
+    3: require('../images/continents/europe/malta/top5/valletta-top.jpg'),
+    4: require('../images/continents/europe/malta/top5/elfaroud-top.jpg'),
+    5: require('../images/continents/europe/malta/top5/victoria-top.jpg'),
+  },
 }
 
 export const TOP5BANNER = {
@@ -171,12 +189,26 @@ export const TOP5BANNER = {
     4: require('../images/continents/africa/egypt/top5content/dashur-banner.jpg'),
     5: require('../images/continents/africa/egypt/top5content/abusimbel-banner.jpg'),
   },
+  Italy: {
+    1: require('../images/continents/europe/italy/top5content/puglia-banner.jpg'),
+    2: require('../images/continents/europe/italy/top5content/sicily-banner.jpg'),
+    3: require('../images/continents/europe/italy/top5content/rome-banner.jpg'),
+    4: require('../images/continents/europe/italy/top5content/pompeii-banner.jpg'),
+    5: require('../images/continents/europe/italy/top5content/alpedisiusi-banner.jpg'),
+  },
   Kenya: {
     1: require('../images/continents/africa/kenya/top5content/masai-banner.jpg'),
     2: require('../images/continents/africa/kenya/top5content/diani-banner.jpg'),
     3: require('../images/continents/africa/kenya/top5content/kilifi-banner.jpg'),
     4: require('../images/continents/africa/kenya/top5content/meru-banner.jpg'),
     5: require('../images/continents/africa/kenya/top5content/lamu-banner.jpg'),
+  },
+  Malta: {
+    1: require('../images/continents/europe/malta/top5content/mdina-banner.jpg'),
+    2: require('../images/continents/europe/malta/top5content/ggantija-banner.jpg'),
+    3: require('../images/continents/europe/malta/top5content/valletta-banner.jpg'),
+    4: require('../images/continents/europe/malta/top5content/elfaroud-banner.jpg'),
+    5: require('../images/continents/europe/malta/top5content/victoria-banner.jpg'),
   },
   Namibia: {
     1: require('../images/continents/africa/namibia/top5content/sossosvlei-banner.jpg'),

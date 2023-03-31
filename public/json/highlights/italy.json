@@ -1,0 +1,98 @@
+{
+  "1": {
+    "location": "Milan",
+    "coordinates": {
+      "lng": 9.19,
+      "lat": 45.46
+    },
+    "text": "Fashionable, cosmopolitan Milan is often overshadowed by it’s more glamorous neighbors like Florence and Venice, but the truth is, Milan is a great place to kick off a tour of Italy. It’s a fantastically livable city, with a thriving food and art scene that’s easy to navigate and frankly a LOT of fun. The Milanese truly know how to have a good time, and if you happen to find yourself in the city during the weekend, you can pretty much count on your nights going long, and your mornings starting late."
+  },
+  "2": {
+    "location": "Cinque Terra",
+    "coordinates": {
+      "lng": 9.64,
+      "lat": 44.14
+    },
+    "text": "These days, the five colorful coastal towns of Cinque Terra are undoubtedly one of Italy’s most famous attractions. Travelers from all over the world compete for hotel rooms, restaurant reservations, and the best views of these sparkling hilltop hamlets, (not to mention a seat on that god damn coastal train!). The trick to a cheerful visit here is to come with a good attitude, some good walking shoes, and maybe taking an extra glass of wine with your lunch. Despite their popularity, Cinque Terra remains a magical and unforgettable place." 
+  },
+  "3": {
+    "location": "Genoa",
+    "coordinates": {
+      "lng": 8.94,
+      "lat": 44.40
+    },
+    "text": "For some, Genoa is a pass-over town for people making a mad dash to Cinque Terra, but this is a mistake. This compact city was once at the helm of a mighty sea-faring empire, and it’s narrow streets and convoluted caruggi are packed to the gills with architectural treasures from a bygone era. Throw in some of the best Italian seafood in the whole country and you’ve got yourself a real charmer." 
+  },
+  "4": {
+    "location": "Piedmont",
+    "coordinates": {
+      "lng": 7.51,
+      "lat": 45.05
+    },
+    "text": "The bountiful Piedmont region in the north of the country is one of the great wine producing regions of the Italian peninsula. Big name towns like Barolo, Asti, and Alba are famous for their signature varietals. Perhaps less recognizable, but no less industrious than its neighbors is the hilltop hamlet of La Morra. This tiny town is a regional captain in the wine-making business, and damned if she doesn’t make a good glass. The views from the central square in La Morra will give you an eagle eye view and a deeper understanding of the depth of the magic at play here, as the perfectly manicured vineyards of centuries-old wine producers undulate across 360° of pristine valley below." 
+  },
+  "5": {
+    "location": "Ravenna",
+    "coordinates": {
+      "lng": 12.20,
+      "lat": 44.41
+    },
+    "text": "Quiet, unassuming Ravenna was, for a short time in history, the capital of a waning Roman Empire. Coming to the forefront during a transitional period between old pagan rites and the new Christian ones, Ravenna found itself a host to some of early Christendom’s most compelling and dazzling artworks. The staggeringly intricate mosaics that decorate the interior of Ravenna’s most treasured churches and basilicas are unlike anything you’ll see anywhere else in the country. If you’re going to visit any churches in Italy, seriously, do it here."
+  },
+  "6": {
+    "location": "Bologna",
+    "coordinates": {
+      "lng": 11.34,
+      "lat": 44.49
+    },
+    "text": "You’ll be hard pressed to find a bad meal in Bologna, and even if you did it’s doubtful you’d walk away from your table upset. This is a city of gracious hospitality, and you better come ready to eat. It doesn’t take long to fall in love with Bologna. The city is made awake and modern by a vibrant student population, and yet tempered by the elegance of the bold and storied history of its myriad monuments and leaning towers. Here, the wine overfloweth, and the pasta is from a different dimension." 
+  },
+  "7": {
+    "location": "Volterra",
+    "coordinates": {
+      "lng": 10.86,
+      "lat": 43.39
+    },
+    "text": "This little Tuscan hilltop gem was once a regional seat of power for the Etruscan people that lived contemporaneously with the earliest of the ancient Romans. With a lasting archeological legacy and epic views of the surrounding countryside, Volterra is the tiny town you’ll want to live in forever." 
+  },
+  "8": {
+    "location": "Florence",
+    "coordinates": {
+      "lng": 11.25,
+      "lat": 43.76
+    },
+    "text": "Everyone’s favorite Tuscan heavy-hitter, Florence is indeed as beautiful as they say. Though an extremely popular destination, Florence still manages to maintain it’s identity despite the never-ending onslaught of over-eager shutterbugs. The food is divine, the masterpieces masterful, and that freakin Cathedral seriously knows no equal. Just be ready to wait in the hot sun for an hour to get a glimpse of the inside, and book your tickets in advance for literally EVERYTHING." 
+  },
+  "9": {
+    "location": "Lucca",
+    "coordinates": {
+      "lng": 10.50,
+      "lat": 43.84
+    },
+    "text": "The lil’ walled city of Lucca is a gem of a stop for those exploring the area around Florence. If you’re heading to Pisa to take a picture of that tower on an ice-cream cone or whatever, try to carve out a little time to make a stop in Lucca. Rent a bike for a leisurely ride around the city walls and take in the countryside. The city is picture-perfect, and you’ll appreciate the break from the throngs of tourists in Florence and Pisa." 
+  },
+  "10": {
+    "location": "Capri",
+    "coordinates": {
+      "lng": 14.22,
+      "lat": 40.55
+    },
+    "text": "Yeah, Capri generally makes it onto the “must see” lists of people touring the area in and around the Bay of Naples, and in a lot of ways I find it undeserving. The incessant crowds and uppity atmosphere isn’t particularly my cup of tea, HOWEVER, the island is truly a stunner, and it’s impossible not to fall in love with the silver-grey limestone cliffs backed by an impossibly blue postcard sky… *sigh* To get away from the crowds, and experience the best view Capri has to offer, make the hike up to the remains of Emperor Tiberius’ villa. Once the site of some pretty freaky ancient sexcapades as well as a murder or 30, this vertiginous complex is by far the best place on the island for a little peace and quiet." 
+  },
+  "11": {
+    "location": "Ischia",
+    "coordinates": {
+      "lng": 13.90,
+      "lat": 40.72
+    },
+    "text": "The alternative island to Capri, Ischia has been a local’s paradise for centuries. Though also located in the Bay of Naples, it’s entirely different from Capri. It’s a stunning volcanic gem replete with colorful seaside villages that echo the early days of Cinque Terra. A few days spent on Ischia and you’ll forget all about the nightmare of those crowded Circumvesuviana train cars." 
+  },
+  "12": {
+    "location": "Reggio Calabria",
+    "coordinates": {
+      "lng": 15.64,
+      "lat": 38.11
+    },
+    "text": "Although often thought of as a nondescript stopover town, in-between mainland Italy and the island of Sicily, Reggio Calabria is a worthy destination in it’s own right. As the home of the Museo Nazionale della Magna Grecia, little Reggio delivers big time on the cultural front, housing one of the largest and best organized collections of Ancient Greek and Roman artifacts on the whole peninsula. The town itself is undoubtedly Calabrian, and makes for a refreshing little kick-in-the-butt for those unused to the charms of southern Italian living." 
+  }
+}

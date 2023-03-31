@@ -13,7 +13,6 @@ const Continent = () => {
   async function fetchHtml() {
     setHtmlFileString(await (await fetch(`../../documents/continents/${continent}.html`)).text());
   }
-  
   useEffect(() => {
     fetchHtml();
   });
@@ -26,7 +25,7 @@ const Continent = () => {
         <Row className="center">
         {countries.map((country, index) => 
         {
-          let button = country + "Button"
+          let button = country.replace(" ", "") + "Button"
           let spacedCountry = country.match(/[A-Z][a-z]+/g).join(' ')
         return (
           <Col sm="4">

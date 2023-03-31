@@ -1,0 +1,50 @@
+{
+  "1": {
+    "location": "Three Cities",
+    "coordinates": {
+      "lng": 14.52,
+      "lat": 35.88
+    },
+    "text": "Also (and perhaps a little more imaginatively) known as the “Three Fingers”, these three towns that sit perched on hilltop peninsulas seem to point back at Valetta from across the bay. They form an attractive residential area that has a singular beauty all its own. Arriving by ferry from Valletta you can explore these quiet streets and modest squares entirely on foot." 
+  },
+  "2": {
+    "location": "Comino Island",
+    "coordinates": {
+      "lng": 14.33,
+      "lat": 36.01
+    },
+    "text": "Sandwiched seductively between Malta and Gozo is the little baby island of Comino. Named after the Cumin plant that can be found in abundance on the island, little has changed here since the dawn of time. The island remains almost completely uninhabited, and although it’s packed with tour groups coming to ogle the famous Blue Lagoon during the day, the island has only one solitary hotel housing the smattering of guests who opt for the overnight experience." 
+  },
+  "3": {
+    "location": "Għajn Tuffieħa Bay",
+    "coordinates": {
+      "lng": 14.34,
+      "lat": 35.92
+    },
+    "text": "The beautiful bay at Għajn Tuffieħa is one of Malta’s most pleasant (and sandy) beaches. It’s quiet location, tucked away into a cove in a North-western pocket of the island, yields a more removed and natural ambience. There’s a convenient beach bar, and the smaller beach on the far side of the bay is at times, a haven for would-be naturist sun bathers. Suns out, BUNS out." 
+  },
+  "4": {
+    "location": "St Paul's Catacombes",
+    "coordinates": {
+      "lng": 14.39,
+      "lat": 35.88
+    },
+    "text": "This extensive underground network of Catacombes is housed in central Rabat, just outside of the walled fortress-city of Mdina. With multiple passageways and an abundance of spooky tombs dating back to the pre-Christian era, there’s enough going on here to keep you occupied for an afternoon. Throughout the complex are informative story boards to educate you on the ancient funeral rites of the Maltese people." 
+  },
+  "5": {
+    "location": "Ħal Saflieni Hypogeum",
+    "coordinates": {
+      "lng": 14.50,
+      "lat": 35.86
+    },
+    "text": "The Hypogeum is perhaps the most impressive of Malta’s Neolithic sites. Pre-dating the Pyramids in Egypt, this subterranean necropolis is thought to have been the final resting place of some 7,000 ancient peoples. Visits to the site are extremely limited and can only be arranged with a guided tour. Spots sell out weeks to months in advance, but can be reserved here for 35 euros per adult." 
+  },
+  "6": {
+    "location": "Ħagar Qim",
+    "coordinates": {
+      "lng": 14.44,
+      "lat": 35.82
+    },
+    "text": "Another window into Malta’s enigmatic and spectacular history, the temple complex of Ħagar Qim was built contemporaneously with the Hypogeum and G’gantija on Gozo. The megalithic structures are thought to have been associated with fertility rituals, and may have served in some degree as a solar calendar." 
+  }
+}

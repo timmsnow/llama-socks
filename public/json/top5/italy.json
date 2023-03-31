@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "Puglia",
+    "coordinates": {
+      "lng": 17.10,
+      "lat": 40.79
+    },
+    "text": "The 'heel' of Italy's boot, Puglia is a land of contrasts. Wild, but sophisticated. Traditional, yet innovative. This rural corner of the country has long been a haven for Italians looking for a southern get-away. This is the land of sprawling olive groves, vineyards, and the dry, cracked earth of the Salento, as well as some of Italy's most alluring beaches." 
+  },
+  "2": {
+    "location": "Sicily",
+    "coordinates": {
+      "lng": 14.01,
+      "lat": 37.60
+    },
+    "text": "What to say about Sicily? This island is a world unto it's own. It's a land that has been ruled, shaped, and influenced by every major Mediterranean power since the dawn of civilization. The result is a zesty flavor of a fiercly proud and wholly unique people. To a Sicilian, Sicily will always come first, and Italy second. It is a land that's defined by it's proximity to both Europe AND Africa, a world that straddles the ancient and the modern." 
+  },
+  "3": {
+    "location": "Rome",
+    "coordinates": {
+      "lng": 12.49,
+      "lat": 41.90
+    },
+    "text": "missing text" 
+  },
+  "4": {
+    "location": "Pompei",
+    "coordinates": {
+      "lng": 14.49,
+      "lat": 40.74
+    },
+    "text": "Nowhere on the planet is the destructive power of the natural world so confronting as at the ruins of Pompeii. A veritable time-machine, this once opulent Roman city was wiped out in a single day by the (still) very active volcano Vesuvius, and buried for centuries under layers of soot and ash. The result is a nearly perfectly preserved ancient city. It's a 3-d snapshot of a moment in history, on a scale unmatched anywhere else in the world today." 
+  },
+  "5": {
+    "location": "Alpe di Siusi",
+    "coordinates": {
+      "lng": 11.61,
+      "lat": 46.54
+    },
+    "text": "In the far north of Italy, just shy of the Austraian border, this stunning, verdant plateau serves as the western gateway to the Dolomite mountain rainge. Here, gigantic pillars of (dolomite) carbonite rock rise from the earth and jagged, purple peaks rim the highest alpine meadow on the European continent. Hiking, skiing, and relishing the splendor of this natural wonderland are the fundamentals of a trip to the high Alpe." 
+  }
+}

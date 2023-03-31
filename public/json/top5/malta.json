@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "Mdina",
+    "coordinates": {
+      "lng": 14.40,
+      "lat": 35.88
+    },
+    "text": "As the principal settlement of the Maltese people from some 3,000 years, Mdina is simply dripping with gooey history. The Phoenicians, the Romans, and anyone wanting to hide from marauding invaders holded up behind these fortified walls whenever they saw those sneaky ships approaching. These days Mdina is the 'silent city', and wandering the labyrinthine streets is about as romantic as a knight in shining armor." 
+  },
+  "2": {
+    "location": "Ġgantija",
+    "coordinates": {
+      "lng": 14.26,
+      "lat": 36.04
+    },
+    "text": "One of about a dozen incredible, mind-boggling ancient rock structures left behind by the islands original inhabitants: the GIANTS... or so the tale goes. The mysterious site at Ġgantija is an alter to the ancient world, a testament to the ingenuity of the people of Malta, and one of the oldest surviving structures ever created by mankind. It's simply NOT to be missed." 
+  },
+  "3": {
+    "location": "Valleta",
+    "coordinates": {
+      "lng": 14.51,
+      "lat": 35.89
+    },
+    "text": "The plans to construct this baroque beauty were first laid during the Siege of Malta. After narrowly achieving victory over the Ottoman forces, who had pushed onto the peninsula where Valetta now stands, those ever-clever Knights of the Order of St John set out to fortify their position on the island, and they did so in style. Valletta is a gorgeous architectural achievement, and the current Capital of Malta." 
+  },
+  "4": {
+    "location": "El Faroud",
+    "coordinates": {
+      "lng": 14.44,
+      "lat": 35.81
+    },
+    "text": "El Faroud is the mac-daddy of all wreck fives. A gigantic underwater playground, this hulking mass of steel is a feast for the eyes, and a true adrenaline pumper. Resting at 36 meters below the surface of the sea, this one is rather deep, and considering how much of her there is to see, you might find yourself taking the plunge more than once." 
+  },
+  "5": {
+    "location": "Victoria",
+    "coordinates": {
+      "lng": 14.24,
+      "lat": 36.04
+    },
+    "text": "Victoria is the blushing beauty of Gozo. Set spectacularly on a hilltop in the center of the island, this walled fortification has been keeping hope alive for the Gozean populace for centuries. The sweeping views of the island from on top of the walls are fantastic, and the climb up will have your calf muscles looking and feeling their best! It's been a win-win since the Bronze Age." 
+  }
+}
