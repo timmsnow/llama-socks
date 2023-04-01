@@ -18,10 +18,11 @@ const Continent = () => {
   });
   
   return (
-    <div>
       <Container fluid className="banner-container">
         <img src={CONTINENT_BANNERS[banner]} className="App-log" alt={continent + " banner"}/> :
         <div dangerouslySetInnerHTML={{ __html: htmlFileString }}></div>
+        <Container className="body-container">
+
         <Row className="center">
         {countries.map((country, index) => 
         {
@@ -31,25 +32,23 @@ const Continent = () => {
             backgroundImage: `url(${COUNTRY_BUTTONS[button]})`,
             backgroundSize: 'contain'
           }
-        return (
-          <Col sm="4">
-            <Card>
-              {/* <Card.Title className="center padding-top">{spacedCountry}</Card.Title> */}
-              <Card.Body key={index} className="margin country-button" style={backgroundImage}>
-              <Link to={`/country`} state={{country: country}}>
+          return (
+            <Col sm="4" key={"col" + index}>
+            <Link to={`/country`} state={{country: country}}>
+              <Card className="country-card">
+                <Card.Body key={index} className="margin country-button" style={backgroundImage}>
                 <h2 className="white-title">{spacedCountry}</h2>
-                {/* <img src={COUNTRY_BUTTONS[button]} className="continent-picture" alt={country + " button"}/> */}
-                </Link>
-              </Card.Body>
-            </Card>
+                </Card.Body>
+              </Card>
+            </Link>
           </Col>
           )
-          }
-                  )
-                }
+        }
+        )
+      }
         </Row>
       </Container>
-    </div>
+      </Container>
   );
 }
 

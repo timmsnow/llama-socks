@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Card, Row, Col } from "react-bootstrap";
+import { Container, Card, Row, Col } from "react-bootstrap";
 import mapboxgl from 'mapbox-gl';
 import Map from './Map.jsx';
 import Highlight from './Highlight.jsx';
@@ -43,7 +43,7 @@ const Highlights = (props) => {
   }
 
   return (
-    <div>
+    <Container className="body-container">
 
     <Row className="center">
     <Col sm="5">
@@ -70,7 +70,7 @@ const Highlights = (props) => {
     <Row>
       <Highlight />
     </Row>
-    </div>
+    </Container>
   )
 }
 

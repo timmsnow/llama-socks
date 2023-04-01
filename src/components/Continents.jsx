@@ -14,24 +14,33 @@ const Continents = () => {
   }
 
   const continents = Object.keys(countryList)
+
   return (
     <div>
       <h1 className="center">Where to lil llama?</h1>
-      <Container fluid className="basic-container">
+      <Container fluid className="body-container">
         <Row className="center">
         {continents.map((continent, index) => 
-          <Col sm="4">
-            <Card>
-              <Card.Title className="center padding-top">{continent}</Card.Title>
-              <Card.Body className="margin">
-                <Link to={`/continent`} state={{continent: continent, countries: countryList[continent]}}>
-                  <img key={index} src={CONTINENT_BUTTONS[continent + 'Button']} className="continent-picture" alt={continent + "button"}/>
+            {
+              let spacedContinent = continent.match(/[A-Z][a-z]+/g).join(' ')
+              let backgroundImage = { 
+              backgroundImage: `url(${CONTINENT_BUTTONS[continent + 'Button']})`,
+              backgroundSize: 'contain'
+            }
+            return (
+              <Col sm="4" key={"col" + index}>
+                <Link to={`/continent`} key={"link" + index} state={{continent: continent, countries: countryList[continent]}}>
+                  <Card className="country-card" key={"card" + index}>
+                    <Card.Body className="margin country-button" style={backgroundImage}>
+                      <h2 className="white-title">{spacedContinent}</h2>
+                    </Card.Body>
+                  </Card>
                 </Link>
-              </Card.Body>
-            </Card>
-          </Col>
-                  )
-                }
+              </Col>
+            )
+          }
+          )
+        }
         </Row>
       </Container>
     </div>
