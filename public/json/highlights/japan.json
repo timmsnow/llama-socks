@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "Shikoku Pilgrimage",
+    "coordinates": {
+      "lng": 133.63,
+      "lat": 33.74
+    },
+    "text": "This multi-site pilgrimage is comprised of 88 temples dotted around the entire island of Shikoku, all of which are associated with the Buddhist monk Kōbō Daishi and his promotion of esoteric Buddhism in the 9th century. While completing the whole circuit takes anywhere from 30-60 days if done on-foot, visiting a few close by can be done in a day and gives you at least a vague idea of the greater experience on offer." 
+  },
+  "2": {
+    "location": "Fuji-Kawaguchiko",
+    "coordinates": {
+      "lng": 138.75,
+      "lat": 35.49
+    },
+    "text": "One of a few towns surrounding the base of Mount Fuji, FujiKawaguchiko is a great place to base yourself if you’re looking to spend time in the area. The whole town surrounds a lake which acts as a giant reflecting pool for Fuji. The ice caves are fascinating to visit, as is eerie Aokigahara, the sea of trees, which is nearby to the lake. Also, food here is A+++++" 
+  },
+  "3": {
+    "location": "Naoshima",
+    "coordinates": {
+      "lng": 133.99,
+      "lat": 34.45
+    },
+    "text": "'Art Island' as it’s often referred is a small dot in the sea in-between Shikoku and south east Honshu. The iconic pumpkin sculptures by Yayoi Kusama are the most iconic of the pieces found strewn about the island, but the collection is actually extensive and extremely varied. The island is a perfect backdrop to a beautiful conceptual art space." 
+  },
+  "4": {
+    "location": "Hiroshima",
+    "coordinates": {
+      "lng": 132.45,
+      "lat": 34.38
+    },
+    "text": "The story of Hiroshima is an emotional, but extremely important one. What happened here affects everyone who has ever lived and ever will live on this planet. Paying your respects here should be on your itinerary." 
+  },
+  "5": {
+    "location": "Kakunodate",
+    "coordinates": {
+      "lng": 140.57,
+      "lat": 39.59
+    },
+    "text": "Home to the famous “Samurai Houses” of Japan, Kakunodate is a time machine that takes you back to the 1800’s. Samurai road is essentially one long street of beautiful preserved homes that are open to the public (small entry cost) for viewing. All of the homes are different and you can spend a whole afternoon poking around the extensive properties. This is also a great town to visit during the cherry blossom season. Picturesque doesn’t begin to describe it." 
+  }
+}

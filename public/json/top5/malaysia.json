@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "Kuala Lumpur",
+    "coordinates": {
+      "lng": 101.68,
+      "lat": 3.13
+    },
+    "text": "Kuala Lumpur is fast becoming THE hub of south east Asia. With a booming economy, and a commitment to modernization, this world class city is the face of the country. Peaceful parks, gigantic shopping malls, and of course... the glittering Petronas Towers show off the pride of Malaysia's capital. Oh, and the street food is impeccable here." 
+  },
+  "2": {
+    "location": "Sepilok",
+    "coordinates": {
+      "lng": 117.94,
+      "lat": 5.87
+    },
+    "text": "Sweet little Sepilok is home to the Orangutan Rehabilitation Center in the North East corner of Borneo. Spend a little time at the nursery and you'll need a new word to describe the cuteness on display. On top of getting to spend time with wild and semi-wild orangutans, you can expect to encounter sleep sun bears and the exceedingly rare (and odd) probiscus monkey." 
+  },
+  "3": {
+    "location": "Penang",
+    "coordinates": {
+      "lng": 100.32,
+      "lat": 5.41
+    },
+    "text": "The island of Penang is a foodie paradise. It's eat til you drop here. Lakso, dim sum, and spicy sambal are just a sampling of what's on offer. There is a huge ethnic Chinese population, as well as large Indian and Malay communities which makes for a ton of tasty fusion cuisine. Dinner time is night market time, every time." 
+  },
+  "4": {
+    "location": "Tip of Borneo",
+    "coordinates": {
+      "lng": 116.74,
+      "lat": 7.03
+    },
+    "text": "The tip of Borneo gives you the feeling that you've stumbled upon something so special that you don't want to leave because you know it won't last forever. For now, development seems a ways away, but it's only a matter of time before the bulldozers start pulling up to one of the most beautiful stretches of coastline I've ever seen." 
+  },
+  "5": {
+    "location": "Sipidan",
+    "coordinates": {
+      "lng": 118.62,
+      "lat": 4.11
+    },
+    "text": "Diving in Sipidan is one of the top bucket list items for experienced divers all around the world. It's a stunning under-water wonderland where the visibility is as clear as glass and the sea life does not disappoint. It ain't cheap, but spending a few days here is mandatory for anyone who loves a fiery sunset and schools of playful shark friends." 
+  }
+}

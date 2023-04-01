@@ -60,8 +60,10 @@ export const COUNTRY_BUTTONS = {
   BelizeButton: require('../images/continents/north-america/belize/belize-button.jpg'),
   BoliviaButton: require('../images/continents/south-america/bolivia/bolivia-button.jpg'),
   BotswanaButton: require('../images/continents/africa/botswana/botswana-button.jpg'),
+  CambodiaButton: require('../images/continents/asia/cambodia/cambodia-button.jpg'),
   EcuadorButton: require('../images/continents/south-america/ecuador/ecuador-button.jpg'),
   EgyptButton: require('../images/continents/africa/egypt/egypt-button.jpg'),
+  IndonesiaButton: require('../images/continents/asia/indonesia/indonesia-button.jpg'),
   ItalyButton: require('../images/continents/europe/italy/italy-button.jpg'),
   KenyaButton: require('../images/continents/africa/kenya/kenya-button.jpg'),
   MaltaButton: require('../images/continents/europe/malta/malta-button.jpg'),
@@ -71,13 +73,11 @@ export const COUNTRY_BUTTONS = {
   SouthAfricaButton: require('../images/continents/africa/south-africa/south-africa-button.jpg'),
   TanzaniaButton: require('../images/continents/africa/tanzania/tanzania-button.jpg'),
   UnitedStatesButton: require('../images/continents/north-america/united-states/united-states-button.jpg'),
-  // CambodiaBanner: require('../images/continents/asia/cambodia/cambodia-button.jpg'),
-  // IndonesiaBanner: require('../images/continents/asia/indonesia/indonesia-button.jpg'),
-  // JapanBanner: require('../images/continents/asia/japan/japan-button.jpg'),
-  // MalaysiaBanner: require('../images/continents/asia/malaysia/malaysia-button.jpg'),
-  // NepalBanner: require('../images/continents/asia/nepal/nepal-button.jpg'),
-  // PhilippinesBanner: require('../images/continents/asia/philippines/philippines-button.jpg'),
-  // ThailandBanner: require('../images/continents/asia/thailand/thailand-button.jpg'),
+  JapanButton: require('../images/continents/asia/japan/japan-button.jpg'),
+  MalaysiaButton: require('../images/continents/asia/malaysia/malaysia-button.jpg'),
+  // NepalButton: require('../images/continents/asia/nepal/nepal-button.jpg'),
+  // PhilippinesButton: require('../images/continents/asia/philippines/philippines-button.jpg'),
+  // ThailandButton: require('../images/continents/asia/thailand/thailand-button.jpg'),
 }
 
 export const TOP5FRONT = {
@@ -158,6 +158,34 @@ export const TOP5FRONT = {
     4: require('../images/continents/europe/malta/top5/elfaroud-top.jpg'),
     5: require('../images/continents/europe/malta/top5/victoria-top.jpg'),
   },
+  Cambodia: {
+    1: require('../images/continents/asia/cambodia/top5/phnompenhtop.jpg'),
+    2: require('../images/continents/asia/cambodia/top5/otrestop.jpg'),
+    3: require('../images/continents/asia/cambodia/top5/kohrongtop.jpg'),
+    4: require('../images/continents/asia/cambodia/top5/kampottop.jpg'),
+    5: require('../images/continents/asia/cambodia/top5/angkortop.jpg'),
+  },
+  Indonesia: {
+    1: require('../images/continents/asia/indonesia/top5/pulauwehtop.jpg'),
+    2: require('../images/continents/asia/indonesia/top5/bukittop.jpg'),
+    3: require('../images/continents/asia/indonesia/top5/togeantop.jpg'),
+    4: require('../images/continents/asia/indonesia/top5/komodotop.jpg'),
+    5: require('../images/continents/asia/indonesia/top5/borotop.jpg'),
+  },
+  Japan: {
+    1: require('../images/continents/asia/japan/top5/tokyotop.jpg'),
+    2: require('../images/continents/asia/japan/top5/naganotop.jpg'),
+    3: require('../images/continents/asia/japan/top5/tsurutop.jpg'),
+    4: require('../images/continents/asia/japan/top5/nobotop.jpg'),
+    5: require('../images/continents/asia/japan/top5/yonagunitop.jpg'),
+  },
+  Malaysia: {
+    1: require('../images/continents/asia/malaysia/top5/kualatop.jpg'),
+    2: require('../images/continents/asia/malaysia/top5/sepiloktop.jpg'),
+    3: require('../images/continents/asia/malaysia/top5/penangtop.jpg'),
+    4: require('../images/continents/asia/malaysia/top5/tobtop.jpg'),
+    5: require('../images/continents/asia/malaysia/top5/sipidantop.jpg'),
+  },
 }
 
 export const TOP5BANNER = {
@@ -175,6 +203,13 @@ export const TOP5BANNER = {
     4: require('../images/continents/africa/botswana/top5content/okavango-banner.jpg'),
     5: require('../images/continents/africa/botswana/top5content/tsodilo-banner.jpg'),
   },
+  Cambodia: {
+    1: require('../images/continents/asia/cambodia/top5content/phnom-penh-banner.jpg'),
+    2: require('../images/continents/asia/cambodia/top5content/otres-beach-banner.jpg'),
+    3: require('../images/continents/asia/cambodia/top5content/koh-rong-banner.jpg'),
+    4: require('../images/continents/asia/cambodia/top5content/kampot-banner.jpg'),
+    5: require('../images/continents/asia/cambodia/top5content/angkor-wat-banner.jpg'),
+  },
   Ecuador: {
     1: require('../images/continents/south-america/ecuador/top5content/quito-banner.jpg'),
     2: require('../images/continents/south-america/ecuador/top5content/cuenca-banner.jpg'),
@@ -189,6 +224,13 @@ export const TOP5BANNER = {
     4: require('../images/continents/africa/egypt/top5content/dashur-banner.jpg'),
     5: require('../images/continents/africa/egypt/top5content/abusimbel-banner.jpg'),
   },
+  Indonesia: {
+    1: require('../images/continents/asia/indonesia/top5content/pulau-weh-banner.jpg'),
+    2: require('../images/continents/asia/indonesia/top5content/bukit-lawang-banner.jpg'),
+    3: require('../images/continents/asia/indonesia/top5content/togean-islands-banner.jpg'),
+    4: require('../images/continents/asia/indonesia/top5content/komodo-banner.jpg'),
+    5: require('../images/continents/asia/indonesia/top5content/borobudur-banner.jpg'),
+  },
   Italy: {
     1: require('../images/continents/europe/italy/top5content/puglia-banner.jpg'),
     2: require('../images/continents/europe/italy/top5content/sicily-banner.jpg'),
@@ -196,12 +238,26 @@ export const TOP5BANNER = {
     4: require('../images/continents/europe/italy/top5content/pompeii-banner.jpg'),
     5: require('../images/continents/europe/italy/top5content/alpedisiusi-banner.jpg'),
   },
+  Japan: {
+    1: require('../images/continents/asia/japan/top5content/tokyo-banner.jpg'),
+    2: require('../images/continents/asia/japan/top5content/nagano-banner.jpg'),
+    3: require('../images/continents/asia/japan/top5content/tsurunoyu-banner.jpg'),
+    4: require('../images/continents/asia/japan/top5content/noboribetsu-banner.jpg'),
+    5: require('../images/continents/asia/japan/top5content/yonaguni-banner.jpg'),
+  },
   Kenya: {
     1: require('../images/continents/africa/kenya/top5content/masai-banner.jpg'),
     2: require('../images/continents/africa/kenya/top5content/diani-banner.jpg'),
     3: require('../images/continents/africa/kenya/top5content/kilifi-banner.jpg'),
     4: require('../images/continents/africa/kenya/top5content/meru-banner.jpg'),
     5: require('../images/continents/africa/kenya/top5content/lamu-banner.jpg'),
+  },
+  Malaysia: {
+    1: require('../images/continents/asia/malaysia/top5content/kuala-lumpur-banner.jpg'),
+    2: require('../images/continents/asia/malaysia/top5content/sepilok-banner.jpg'),
+    3: require('../images/continents/asia/malaysia/top5content/penang-banner.jpg'),
+    4: require('../images/continents/asia/malaysia/top5content/tip-of-borneo-banner.jpg'),
+    5: require('../images/continents/asia/malaysia/top5content/sipidan-banner.jpg'),
   },
   Malta: {
     1: require('../images/continents/europe/malta/top5content/mdina-banner.jpg'),
@@ -237,7 +293,7 @@ export const TOP5BANNER = {
     3: require('../images/continents/africa/tanzania/top5content/ngorogoro-banner.jpg'),
     4: require('../images/continents/africa/tanzania/top5content/tanganyika-banner.jpg'),
     5: require('../images/continents/africa/tanzania/top5content/kilimanjaro-banner.jpg'),
-  }
+  },
 }
 
 // export {IMAGES, COUNTRY_BANNERS};

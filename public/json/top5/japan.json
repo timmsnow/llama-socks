@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "Tokyo",
+    "coordinates": {
+      "lng": 139.65,
+      "lat": 35.67
+    },
+    "text": "I'm generally not a huge fan of gigantic mega-cities... but Tokyo is different. Walking through the subway here you can almost hear a pin drop. Everything is immaculately clean (including the public toilets), and well organized. Despite the cramped spaces, somehow, everything stays in it's place. There's an endless supply of incredible eats, and the shopping is so intrinsically joyful and unique, it's impossible not to partake." 
+  },
+  "2": {
+    "location": "Nagano",
+    "coordinates": {
+      "lng": 138.19,
+      "lat": 36.64
+    },
+    "text": "Nagano hosted the winter olympics way back in 1998, and as a result, the city got a huge face-lift. It's extremely well-connected to Tokyo and only takes about an hour to reach by Shinkansen. It's here, in the surrounding mountains that you can visit Japan's famous snow monkeys. Winter is ski season in Nagano. Think: ski, ramen, onsen, sake, repeat." 
+  },
+  "3": {
+    "location": "Tsuru No Yu",
+    "coordinates": {
+      "lng": 140.65,
+      "lat": 39.71
+    },
+    "text": "This ryokan, situated halfway up a mountain, has comanding views of lake Tazawako and is over 300 years old. You can feel the history creaking through the floor-boards. Despite her age, Tsuru No Yu is elegant, refined, and impeccable looked after. It's wonderfully isolated, and the onsen here is the cure for all that ails you." 
+  },
+  "4": {
+    "location": "Noboribetsu",
+    "coordinates": {
+      "lng": 141.10,
+      "lat": 42.41
+    },
+    "text": "Noboribetsu's town mascot is a devil-imp guy who carries a giant mace and walks around looking pretty pleased with himself. The steaming geysers surrounding this little mountain town in Hokkaido are what give the place it's 'hellish' atmosphere. But take a dip in any of the many, MANY onsen in this town and you'll find yourself wondering if this is what heaven looks like." 
+  },
+  "5": {
+    "location": "Yonaguni",
+    "coordinates": {
+      "lng": 122.99,
+      "lat": 24.45
+    },
+    "text": "Little Yonaguni is about as far off the beaten path as you can get in Japan. It isn't easy to get to, but once you're here, you'll be in the presence of perfection. Wild horses roaming the hillsides, secluded beaches with crystal clear water, and underneath it all: the enchanting, enigmatic underwater pyramid of Yonaguni." 
+  }
+}

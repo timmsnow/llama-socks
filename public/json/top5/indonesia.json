@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "Pulau Weh",
+    "coordinates": {
+      "lng": 95.32,
+      "lat": 5.84
+    },
+    "text": "Weh Island is more than just diving, althought this little islet at the northern tip of Sumatra does have some of the most colorful reef in the whole archipelago, not to mention thrilling deep-water wreck-diving and plentiful marine life. There are also hidden waterfalls, mountain hikes, friendly locals, and lots and lots of hammock time on offer. Perfection." 
+  },
+  "2": {
+    "location": "Bukit Lawang",
+    "coordinates": {
+      "lng": 98.14,
+      "lat": 3.55
+    },
+    "text": "Orangutans, gibbons, macaques, and Thomas Leaf monkeys roam the forests of Bukit Lawang. Get up close and personal with these beauties, enjoy the jungle views from a raft on the river, stuff your face with a bowl of perfectly piquant Rendang, then wash it all down with a cold beer while you watch the Sumatran sunset from the comfort of your tree house accommodation. Jungle life is the best life." 
+  },
+  "3": {
+    "location": "Togean Islands",
+    "coordinates": {
+      "lng": 121.92,
+      "lat": -0.39
+    },
+    "text": "OK. The Togean Islands may take 3 days to get to, but after all the planes, buses, boats, delays, walking, and possibly crying, you'll finally come to know the true meaning of paradise. Very few people take the time to make the journey all the way out here, so you know it's gonna be good. Spend a few days, and you'll never look at the color blue the same again." 
+  },
+  "4": {
+    "location": "Komodo",
+    "coordinates": {
+      "lng": 119.44,
+      "lat": -8.58
+    },
+    "text": "Come to Komodo by a way of a three day boat cruise from Lombok, then get ready to meet the dinosaurs. The dragons are ginormous, deadly, and ready to make your acquaintance. Diving in the surrounding marine park is an incredible experience, with schools of giant manta rays making regular appearances." 
+  },
+  "5": {
+    "location": "Borobudur",
+    "coordinates": {
+      "lng": 110.20,
+      "lat": -7.60
+    },
+    "text": "Ancient Borobudur lies in central Java, just outside of Yogyakarta. This temple complex is as grand and spell-binding as they come. Go before sunset to experience the ethereal lighting and sweeping jungle views. Just prepare yourself to take lots and lots of selfies with friendly, if a little over-eager local school children." 
+  }
+}

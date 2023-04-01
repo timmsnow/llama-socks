@@ -27,13 +27,18 @@ const Continent = () => {
         {
           let button = country.replace(" ", "") + "Button"
           let spacedCountry = country.match(/[A-Z][a-z]+/g).join(' ')
+          let backgroundImage = { 
+            backgroundImage: `url(${COUNTRY_BUTTONS[button]})`,
+            backgroundSize: 'contain'
+          }
         return (
           <Col sm="4">
             <Card>
-              <Card.Title className="center padding-top">{spacedCountry}</Card.Title>
-              <Card.Body key={index} className="margin">
+              {/* <Card.Title className="center padding-top">{spacedCountry}</Card.Title> */}
+              <Card.Body key={index} className="margin country-button" style={backgroundImage}>
               <Link to={`/country`} state={{country: country}}>
-                <img src={COUNTRY_BUTTONS[button]} className="continent-picture" alt={country + " button"}/>
+                <h2 className="white-title">{spacedCountry}</h2>
+                {/* <img src={COUNTRY_BUTTONS[button]} className="continent-picture" alt={country + " button"}/> */}
                 </Link>
               </Card.Body>
             </Card>

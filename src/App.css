@@ -148,3 +148,22 @@ img {
 .margin {
   margin-bottom: 3em;
 }
+
+.white-title {
+  color: white;
+  text-shadow: 1px 3px 3px rgb(61, 61, 61); 
+  margin: 25% 0;
+  align-self: start;
+  text-decoration: none;
+}
+
+.a:link {
+  text-decoration: none;
+}
+
+.country-button {
+  height: 300px;
+  width: 300px;
+  margin: auto;
+  display: flex;
+}

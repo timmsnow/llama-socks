@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "Perhentian Islands",
+    "coordinates": {
+      "lng": 102.73,
+      "lat": 5.91
+    },
+    "text": "The Perhentian’s are tropical island perfection set against the gorgeous backdrop of the Gulf of Thailand. Although a little harder to get to then their better known cousin, Tioman Island, the isolation of the Perhentians is what makes them so special. This is an excellent place to try scuba diving, as the sea life is abundant and the prices are cheap. Wifi is limited and ATMs are few and far between, they don’t make ’em like this anymore!" 
+  },
+  "2": {
+    "location": "Langkawi",
+    "coordinates": {
+      "lng": 99.80,
+      "lat": 6.35
+    },
+    "text": "Langkawi is a fascinating island in the Northwest of the peninsula. It’s massive, for one, and exploration can take a bit of time if you’re interested in seeing the whole place. It’s a mountainous beauty and the beaches are picture perfect. There is a wide variety of good food with a night market that moves around the island on a daily basis. The whole island is duty free, if you’re into that kind of thing." 
+  },
+  "3": {
+    "location": "Kuching",
+    "coordinates": {
+      "lng": 110.35,
+      "lat": 1.55
+    },
+    "text": "Kuching, located in Sarawak on the western part of Malaysian Borneo is a city that for some reason has an unbridled obsession with cats. The whole city is dotted with cat statues, murals of cats, and even an impressive (tho not oft visited I think…) Cat Museum… which is an overwhelming display of all things.. CAT. The surrounding area has tons of outdoorsy jungle activities you can partake in including crocodile river cruises and orangutan nature reserves. CAT!" 
+  },
+  "4": {
+    "location": "Malacca",
+    "coordinates": {
+      "lng": 102.25,
+      "lat": 2.18
+    },
+    "text": "One of the oldest sultanates of old Malaya, Malacca is known as the “Historic city”. It was an important port town for centuries due to its strategic location in the Malacca straits, just across from Sumatra. The city is now known for its night market, it’s antique shops, and majestic Chinese temples." 
+  },
+  "5": {
+    "location": "Thaipussam",
+    "coordinates": {
+      "lng": 101.68,
+      "lat": 3.23
+    },
+    "text": "The Thaipussam festival occurs once a year in certain states in Malaysia, most famously in Penang and the Batu Caves, generally lasting for about 2-3 days. Devotees of Murugan (the embodiment of Shiva’s light) pray, fast, and perform elaborate ceremonies for 48 hours in the lead up to the festival. A pilgrimage is then taken along a set route to a final temple where participants can give their offerings (like a pot of milk perhaps) and show their devotion by piercing their tongues or cheeks with skewers or putting hooks through their back. It’s extremely colorful, raucous, and the prettiest display of self-mutilation that I ever did see." 
+  }
+}

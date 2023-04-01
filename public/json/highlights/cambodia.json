@@ -1,0 +1,34 @@
+{
+  "1": {
+    "location": "Battambang",
+    "coordinates": {
+      "lng": 103.20,
+      "lat": 13.09
+    },
+    "text": "The second most populous city in Cambodia, Battambang has a much less frenetic vibe, and a more cosmopolitan air than the capital. It’s laid back, and blends Cambodian small-town charm with the infrastructure of a big city. The surrounding area has lot’s going on and you can easily spend a few days exploring the various wats and caves that dot the countryside. Phnom Sampeu is where you can visit the killing caves of the Khmer Rouge, a sobering experience. At sunset, prepare yourself for the pageantry as a million and a half bats explode from inside the caves putting on an incredible natural display. The boat ride from Siem Reap can be a great way to catch a glimpse of rural Cambodia." 
+  },
+  "2": {
+    "location": "Kep",
+    "coordinates": {
+      "lng": 104.31,
+      "lat": 10.54
+    },
+    "text": "Seaside beach town Kep is just across the river from Kampot and has a similar laid back vibe. In it’s hey-day it was the Sihanoukville of the south. Now it’s quieter, but in a good way." 
+  },
+  "3": {
+    "location": "Prasat Preah Vihear",
+    "coordinates": {
+      "lng": 104.68,
+      "lat": 14.39
+    },
+    "text": "The stunning temple complex of Prah Vihear was built on top of a 525-metre cliff in the Dângrêk Mountains just across from the hotly contested Thai border. It’s an impressive site and the views from the cliff top alone are worth the visit. Take note: it is important not to stray from the marked paths as there is a real danger of land-mines in the area. You will be safe if your stay on the paths." 
+  },
+  "4": {
+    "location": "Tonle Sap Lake",
+    "coordinates": {
+      "lng": 104.05,
+      "lat": 12.92
+    },
+    "text": "You can visit the floating villages or enjoy a peaceful boat ride scouting for the diverse species of turtles, birds, and crocodiles on Southeast Asia’s biggest and most impressive lake." 
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "Phnom Penh",
+    "coordinates": {
+      "lng": 104.92,
+      "lat": 11.55
+    },
+    "text": "Phnom Penh is the BIG, sweaty, beating heart of Cambodia. Her worn and pot-holed roads are the frenetic arteries that will get you in and out of town about as quickly as a snail in a traffic jam. It's a busy city, but to know Phnom Penh is to know the history of the people of Cambodia, and spending a few days here will have you re-evaluating the complexities of the human condition." 
+  },
+  "2": {
+    "location": "Otres Beach",
+    "coordinates": {
+      "lng": 103.55,
+      "lat": 10.57
+    },
+    "text": "Peaceful little Otres is only a few minutes by tuk-tuk from Sihanoukville. It's a quaint little mud road lined with all the banana-pancake backpacker essentials. Cheap food, simple but comfortable accommodation, and killer sunsets abound. If you're looking for an escape from noise, pollution, and well... Sihanoukville, Otres is perfection." 
+  },
+  "3": {
+    "location": "Koh Rong",
+    "coordinates": {
+      "lng": 103.23,
+      "lat": 10.72
+    },
+    "text": "Actually, there are two Koh Rongs. Koh Rong, and Koh Rong Samloem. Both are idyllic little islets off the south west corner of the Cambodian coast. They provide a quieter alternative to flashy, boisterous Sihanoukville, and offer some of the whitest sand in the country. Toes, get ready for a good time." 
+  },
+  "4": {
+    "location": "Kampot",
+    "coordinates": {
+      "lng": 104.16,
+      "lat": 10.59
+    },
+    "text": "Kampot is a sleepy little backwater known for it's peppercorn production. Set right on the muddy Praek Tuek Chhu river, it's a quiet spot and the perfect respite for a road-weary traveler. Rent a motorbike and explore the surrounding caves, lakes, rapids, temples, and villages that 'pepper' (ahem) the surrounding countryside." 
+  },
+  "5": {
+    "location": "Angkor Wat",
+    "coordinates": {
+      "lng": 103.86,
+      "lat": 13.41
+    },
+    "text": "It isn't JUST Angkor Wat. Angkor Archeological Park is over 400 square kilometers, and is as impressive as they get. This place is the number one tourist destination in Cambodia and WILL be swarmed with tons of other tourists. The good news is, while you can't avoid all of them, knowing a few tricks will make your time here all the more enjoyable." 
+  }
+}

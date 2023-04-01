@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "Danau Toba",
+    "coordinates": {
+      "lng": 98.61,
+      "lat": 2.78
+    },
+    "text": "Lake Danau Toba, like everywhere in Sumatra, takes a little time, and a very sturdy gluteus to get to, but as you catch your first glimpse of the gigantic glacial-lake it may feel like you’ve been transported to some kind of Andean Shangri-la… although that may just be the magic mushrooms talking." 
+  },
+  "2": {
+    "location": "Lombok-Flores Boat Trip",
+    "coordinates": {
+      "lng": 116.32,
+      "lat": 8.65
+    },
+    "text": "This boat trip is one of those fabled must-do’s for travel hardy backpackers. There are all different types of boats making the journey from Lombok to Flores, and different variations of similar itineraries along the way. Most include all of your meals, make stops at beautiful uninhabited islands, and allow for a trip to visit the king of them all: Komodo Island. These trips have varying lengths and depending on the boat/company you go with you may be able to score a private “luxury” cabin. A little friendly negotiation is fine, but don’t skimp on safety, and maybe go with a bigger boat. There have been enough incidents of boats sinking to warrant some research and caution here." 
+  },
+  "3": {
+    "location": "Gili Islands",
+    "coordinates": {
+      "lng": 116.08,
+      "lat": 8.35
+    },
+    "text": "TThere are three to choose from. Gone are the days of peaceful beach-lounging, people come here to party. Of the three, Meno is the least volatile. With all that being said, the islands still maintain a quaint and friendly vibe." 
+  },
+  "4": {
+    "location": "Nusa Lembongan & Penida",
+    "coordinates": {
+      "lng": 115.45,
+      "lat": 8.67
+    },
+    "text": "Just off the coast of Bali, this small grouping of islands has a wonderful edge-of-the-world feel. The diving is fantastic, and the spill-over from Bali is minimal. You can catch a ferry from Sanur." 
+  },
+  "5": {
+    "location": "Berastagi",
+    "coordinates": {
+      "lng": 98.50,
+      "lat": 3.18
+    },
+    "text": "This little hamlet, set at a higher altitude than most of the surrounding countryside, provides a nice respite from the sweltering heat of the Sumatran jungle. The skyline is dominated by several volcanoes, and one of which happens to be particularly ummmm, vocal. Hiking to the volcanoes is a rewarding experience, not only for the views, but also for the opportunity to detour at the nearby sulfuric hot springs on the way home." 
+  }
+}
