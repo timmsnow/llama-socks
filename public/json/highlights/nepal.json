@@ -1,0 +1,34 @@
+{
+  "1": {
+    "location": "Everest Base Camp",
+    "coordinates": {
+      "lng": 86.85,
+      "lat": 28.00
+    },
+    "text": "This is the big one. Every year more than 40,000 people make the trek from Lukla regional airport to Everest Base camp. This whopper of a hike takes, on average, about 12 days round trip. 8 days to climb up, with stops for acclimatization, and 4 days to get back down. Prepare to push your body to the limit for this once in a lifetime experience." 
+  },
+  "2": {
+    "location": "Lumbini",
+    "coordinates": {
+      "lng": 82.73,
+      "lat": 27.92
+    },
+    "text": "The fabled birthplace of the Buddha, Lumbini is a Buddhist pilgrimage site. Outfitted with gorgeous temples, stupas, and canals the layout of the newly updated historic site is intended to take you on a spiritual journey. Explore the Monasteries and pagodas by bike, on foot, or by boat." 
+  },
+  "3": {
+    "location": "Chitwan National Park",
+    "coordinates": {
+      "lng": 84.45,
+      "lat": 27.53
+    },
+    "text": "In the southern belt of Nepal the mountains give way to a jungle landscape that is hot, humid, and entirely different than the rest of the country. Jungle Safari’s are whats on offer in Chitwan. You can take a break from mountaineering and spend your days searching for rhino’s, elephants, and the elusive bengal tiger." 
+  },
+  "4": {
+    "location": "Muktinath Temple",
+    "coordinates": {
+      "lng": 83.87,
+      "lat": 28.81
+    },
+    "text": "Extremely isolated, in the far north of Nepal, Muktinath temple is said the be the highest altitude temple in the world. A good deal of time and energy are required to make it out here. According to Hindu and Buddhist traditions, it is said to be where one can find all five elements (fire, water, sky, earth and air) from which all material things in the universe are made. It’s unlikely that you can make it all the way to this remote outpost without at least a modicum of spiritual contemplation." 
+  }
+}

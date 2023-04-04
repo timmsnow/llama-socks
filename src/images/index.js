@@ -75,9 +75,9 @@ export const COUNTRY_BUTTONS = {
   UnitedStatesButton: require('../images/continents/north-america/united-states/united-states-button.jpg'),
   JapanButton: require('../images/continents/asia/japan/japan-button.jpg'),
   MalaysiaButton: require('../images/continents/asia/malaysia/malaysia-button.jpg'),
-  // NepalButton: require('../images/continents/asia/nepal/nepal-button.jpg'),
-  // PhilippinesButton: require('../images/continents/asia/philippines/philippines-button.jpg'),
-  // ThailandButton: require('../images/continents/asia/thailand/thailand-button.jpg'),
+  NepalButton: require('../images/continents/asia/nepal/nepal-button.jpg'),
+  PhilippinesButton: require('../images/continents/asia/philippines/philippines-button.jpg'),
+  ThailandButton: require('../images/continents/asia/thailand/thailand-button.jpg'),
 }
 
 export const TOP5FRONT = {
@@ -186,6 +186,27 @@ export const TOP5FRONT = {
     4: require('../images/continents/asia/malaysia/top5/tobtop.jpg'),
     5: require('../images/continents/asia/malaysia/top5/sipidantop.jpg'),
   },
+  Nepal: {
+    1: require('../images/continents/asia/nepal/top5/kathmandutop.jpg'),
+    2: require('../images/continents/asia/nepal/top5/bandipurtop.jpg'),
+    3: require('../images/continents/asia/nepal/top5/pokharatop.jpg'),
+    4: require('../images/continents/asia/nepal/top5/bhaktapurtop.jpg'),
+    5: require('../images/continents/asia/nepal/top5/annapurnatop.jpg'),
+  },
+  Thailand: {
+    1: require('../images/continents/asia/thailand/top5/angthongtop.jpg'),
+    2: require('../images/continents/asia/thailand/top5/kohphayamtop.jpg'),
+    3: require('../images/continents/asia/thailand/top5/ayutthayatop.jpg'),
+    4: require('../images/continents/asia/thailand/top5/paitop.jpg'),
+    5: require('../images/continents/asia/thailand/top5/railehtop.jpg'),
+  },
+  Philippines: {
+    1: require('../images/continents/asia/philippines/top5/camiguintop.jpg'),
+    2: require('../images/continents/asia/philippines/top5/banauetop.jpg'),
+    3: require('../images/continents/asia/philippines/top5/elnidotop.jpg'),
+    4: require('../images/continents/asia/philippines/top5/corontop.jpg'),
+    5: require('../images/continents/asia/philippines/top5/sanvicentetop.jpg'),
+  },
 }
 
 export const TOP5BANNER = {
@@ -273,6 +294,20 @@ export const TOP5BANNER = {
     4: require('../images/continents/africa/namibia/top5content/etosha-banner.jpg'),
     5: require('../images/continents/africa/namibia/top5content/twyfelfontein-banner.jpg'),
   },
+  Nepal: {
+    1: require('../images/continents/asia/nepal/top5content/kathmandu-banner.jpg'),
+    2: require('../images/continents/asia/nepal/top5content/bandipur-banner.jpg'),
+    3: require('../images/continents/asia/nepal/top5content/pokhara-banner.jpg'),
+    4: require('../images/continents/asia/nepal/top5content/bhaktapur-banner.jpg'),
+    5: require('../images/continents/asia/nepal/top5content/annapurnas-banner.jpg'),
+  },
+  Philippines: {
+    1: require('../images/continents/asia/philippines/top5content/camiguin-banner.jpg'),
+    2: require('../images/continents/asia/philippines/top5content/banaue-banner.jpg'),
+    3: require('../images/continents/asia/philippines/top5content/el-nido-banner.jpg'),
+    4: require('../images/continents/asia/philippines/top5content/coron-banner.jpg'),
+    5: require('../images/continents/asia/philippines/top5content/san-vicente-banner.jpg'),
+  },
   Peru: {
     1: require('../images/continents/south-america/peru/top5content/machupicchu-banner.jpg'),
     2: require('../images/continents/south-america/peru/top5content/amazon-banner.jpg'),
@@ -293,6 +328,13 @@ export const TOP5BANNER = {
     3: require('../images/continents/africa/tanzania/top5content/ngorogoro-banner.jpg'),
     4: require('../images/continents/africa/tanzania/top5content/tanganyika-banner.jpg'),
     5: require('../images/continents/africa/tanzania/top5content/kilimanjaro-banner.jpg'),
+  },
+  Thailand: {
+    1: require('../images/continents/asia/thailand/top5content/ang-thong-banner.jpg'),
+    2: require('../images/continents/asia/thailand/top5content/koh-phayam-banner.jpg'),
+    3: require('../images/continents/asia/thailand/top5content/ayutthaya-banner.jpg'),
+    4: require('../images/continents/asia/thailand/top5content/pai-banner.jpg'),
+    5: require('../images/continents/asia/thailand/top5content/raileh-banner.jpg'),
   },
 }
 

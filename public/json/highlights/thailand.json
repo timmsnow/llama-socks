@@ -1,0 +1,50 @@
+{
+  "1": {
+    "location": "Koh Chang",
+    "coordinates": {
+      "lng": 102.32,
+      "lat": 12.04
+    },
+    "text": "There are actually two Koh Chang’s. One is the very quiet sister island to Koh Phayam, located in the north, near Ranong, while the other is the more famous of the two, a rowdier, though spectacularly beautiful island in the Gulf of Thailand, near the border with Cambodia. THIS Koh Chang has been gaining in popularity for awhile now, so gone are the days of quiet, postcard perfection. There is a lively scene buzzing on the island now, but you can still find some quiet enclaves. The sand is white, the water is crystal clear, and you’ll easily find yourself making excuses to stay. Simply put, this is Thailand beach perfection." 
+  },
+  "2": {
+    "location": "Lopburi",
+    "coordinates": {
+      "lng": 100.89,
+      "lat": 15.05
+    },
+    "text": "Lopburi is only a couple hours north of Bangkok by train and it’s the perfect place to go if you’re looking for a quick escape from the city. The town is famous for it’s monkeys, who are insane, possibly on crystal meth, and literally around every corner and on every power line in the city. There are some excellent day trips in the surrounding area and it’s a great place to stop for a day or so if you are making your way north." 
+  },
+  "3": {
+    "location": "Koh Phangan",
+    "coordinates": {
+      "lng": 100.01,
+      "lat": 9.73
+    },
+    "text": "Mostly known for it’s “full moon party”… and the “half moon party”…. and probably one or two other iterations of the same theme, Koh Phangan is the stuff of Thailand legend. For years I avoided the island because of it’s reputation (shirtless DJ’s on the beach, loud electronic music… etc), but the madness is actually generally contained in the southern portion of the island, particularly Haad Rin beach, and specifically during the time of the various moon parties. If that’s your thing, then well, you know where to go. Otherwise, the rest of the island is a paradisiacal wonderland of placid beaches, rugged jungle hikes, and plunging waterfalls." 
+  },
+  "4": {
+    "location": "Vegetarian Festival, Phuket",
+    "coordinates": {
+      "lng": 98.39,
+      "lat": 7.88
+    },
+    "text": "This extraordinary event takes place once a year during the 9th lunar month, meaning the dates are not fixed, and can range from late September to mid November depending on the cycle. For 9 magical days, the streets of Phuket Town are awash with the blood of hundreds of Taoist devotees, all intent on out-self-mutilating each other. Faces are pierced with swords, hot coals are walked on, and… vegetarian food is eaten." 
+  },
+  "5": {
+    "location": "Bangkok",
+    "coordinates": {
+      "lng": 100.50,
+      "lat": 13.75
+    },
+    "text": "As far as South-East asian capitals are concerned, Bangkok ranks pretty high with me. I can happily spend several days here JUST eating the street food. Shopping isn’t bad either if you need to pick up some supplies for the road. To top it all off there are some pretty impressive temples, palaces, and monuments just about everywhere you go in the city. Get around by train, bus, and the ubiquitous tuk-tuk." 
+  },
+  "6": {
+    "location": "Loi Krathong Festival",
+    "coordinates": {
+      "lng": 98.98,
+      "lat": 18.78
+    },
+    "text": "This is a once a year festival that takes place all over Thailand but feels especially… special in the North. In Chiang Mai celebrations take over the streets for three days and there is a palpable air of excitement. Thousands of sky lanterns are launched into the sky and the hand-built krathongs (floating baskets made of banana leaves and a slice of the buoyant tree trunk) are sent sailing down the river, lighting up the night in an epic display you won’t soon forget." 
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "Camiguin",
+    "coordinates": {
+      "lng": 124.73,
+      "lat": 9.24
+    },
+    "text": "Camiguin is another world for paradise. There is only one flight daily and a ferry once or twice a week, weather permitting, which means this peaceful island isn't on the radar for most travelers, and that's a really really good thing. It's extremely friendly, passionately cared for by the locals, and out-of-this-world beautiful. Bury me on Camiguin." 
+  },
+  "2": {
+    "location": "Banaue",
+    "coordinates": {
+      "lng": 121.10,
+      "lat": 16.94
+    },
+    "text": "Getting to the rice terraces of Banaue is one of those traveler experiences that you look back on and remember fondly as a 'type-2' kind of fun.... The mildly traumatic bus ride from Manila, the unapologetically difficult tourism board of Sagada, and then, finally, the breath-taking expanse of the picture-perfect terraces of Banaue. Embark on a multi-day hike or just day trip it." 
+  },
+  "3": {
+    "location": "El Nido",
+    "coordinates": {
+      "lng": 119.41,
+      "lat": 11.19
+    },
+    "text": "El Nido's popularity is a little unnerving when you first arrive... and on the second day.. and the third... But there is no question about why the hordes are drawn here. These islands are the crown glory of Palawan's limestone-karst kingdom, and she is truly a stunner. You'll think your camera is broken, not to mention your eyes, because the whole place is so fantastic it doesn't look real." 
+  },
+  "4": {
+    "location": "Coron",
+    "coordinates": {
+      "lng": 120.15,
+      "lat": 12.04
+    },
+    "text": "I recommend Coron mostly for the 11 sunken World War 2 ships that can be visited on daily scuba trips. Shocking, terrifying, and unforgettable, you can swim through these Japanese behemoths with a flash light and really give yourself something to think about. If you aren't a diver there are neighboring beaches dying to be explored." 
+  },
+  "5": {
+    "location": "San Vicente",
+    "coordinates": {
+      "lng": 119.25,
+      "lat": 10.53
+    },
+    "text": "The 'longest white sand beach in the Philippines' really is quite long. I know, because I've walked the length and breadth of it carrying all my shit in the heat of the mid-day sun. It's about as remote as a beach in northern Palawan can get, so if you want to get away from everyone, this is the place. Quiet, stunning, and for now at least, totally empty." 
+  }
+}

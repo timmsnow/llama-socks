@@ -9,9 +9,10 @@ const Continents = () => {
     "Asia": ["Cambodia", "Indonesia", "Japan", "Malaysia", "Nepal", "Philippines", "Thailand"],
     "Oceania": ["Australia", "New Zealand"],
     "Europe": ["Italy", "Malta"],
-    "NorthAmerica": ["Belize", "United States", "Mexico"],
+    "NorthAmerica": [],
     "SouthAmerica": ["Bolivia", "Ecuador", "Peru"]
   }
+  // "NorthAmerica": ["Belize", "United States", "Mexico"],
 
   const continents = Object.keys(countryList)
 

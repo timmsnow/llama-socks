@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "Kathmandu",
+    "coordinates": {
+      "lng": 85.32,
+      "lat": 27.71
+    },
+    "text": "Dusty, congested, filled to the brim with humans, and buzzing with activity, Kathmandu is the beating heart of Nepal. Despite over-crowding and some pretty poor air quality, Kathmandu provides a delightful first taste of the magic that this country dishes out in droves. Think: imposing buddhist temples, colorful street markets, delectable cuisine, and in the background, an ever-present resonance of the divine." 
+  },
+  "2": {
+    "location": "Bandipur",
+    "coordinates": {
+      "lng": 84.40,
+      "lat": 27.91
+    },
+    "text": "Tucked away on a mountain, just off the road to Pokhara, friendly little Bandipur makes for a great detour. Days here are spent hiking in the surrounding countryside and taking in the Himalayan views. The nights are cool and quiet and the locals are friendly. It's a perfect respite from time spent in dusty cities." 
+  },
+  "3": {
+    "location": "Pokhara",
+    "coordinates": {
+      "lng": 83.98,
+      "lat": 28.20
+    },
+    "text": "On top of having some of the best local food in Nepal, Pokhara offers great hiking, boating, shopping, nightlife, and adventure sports for the adrenaline junkies out there. Jump off a mountain and paraglide over a pristine glacial lake with an incomprable view of the imposing Annapurna mountain range laid out in front of you. Truly unreal." 
+  },
+  "4": {
+    "location": "Bhaktapur",
+    "coordinates": {
+      "lng": 85.42,
+      "lat": 27.67
+    },
+    "text": "Little Bhaktapur is packed to the brim with charm. The whole town is a Unesco World Heritage Site, and spending a few days navigating the labyrinthine streets will have you feeling like you've stepped back in time. Don't leave town without sampling the juju dhau (buffalo milk yogurt). It's famous in Nepal for being the town's specialty." 
+  },
+  "5": {
+    "location": "The Annapurnas",
+    "coordinates": {
+      "lng": 83.87,
+      "lat": 28.61
+    },
+    "text": "Majestic, imposing, staggeringly beautiful, and surprisingly accessible, the Annapurnas make for a truly memorable hikiing experience. Whether you hire a guide. or plot your own course, these mountains offer something for hikers of all levels of experience. Trek the passes by day and by night swap yak stories with other travelers while you warm up by the fire." 
+  }
+}

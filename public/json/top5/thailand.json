@@ -1,0 +1,42 @@
+{
+  "1": {
+    "location": "Ang Thong",
+    "coordinates": {
+      "lng": 99.67,
+      "lat": 9.63
+    },
+    "text": "Ang Thong National Park is a stunning emerald archipelago set in the Gulf of Thailand. There are a few places in Thailand these days where you can have the beach all to yourself. But if you stay overnight here, this unspoiled paradise is pretty much all yours, with the exception of one or two thousand monkeys." 
+  },
+  "2": {
+    "location": "Koh Phayam",
+    "coordinates": {
+      "lng": 98.40,
+      "lat": 9.73
+    },
+    "text": "Koh Phayam is the physical manifestation of a sigh of relief. Just off the coast of Ranong, in the north-west corner of the Thai peninsula, this island sits quietly, like a cat on it's haunches, ignoring the mainland and bathing itself in sunlight. If it's tranquility you're after, here, it is tranquility you shall have. Don't forget to pack your hammock." 
+  },
+  "3": {
+    "location": "Ayutthaya",
+    "coordinates": {
+      "lng": 100.58,
+      "lat": 14.36
+    },
+    "text": "Just a short train ride from the capital, lies... the capital! Ayutthaya was the capital of the Kingdom of Siam from approximately 1350-1760. These days the old town lies in ruins, but spending a day or two exploring the area on a bicycle is hugely rewarding. Just keep an eye out for those packs of wild dogs roaming the streets after dark..." 
+  },
+  "4": {
+    "location": "Pai",
+    "coordinates": {
+      "lng": 98.44,
+      "lat": 19.35
+    },
+    "text": "Pai is actually pronounced like 'BAI' but you will almost never hear anyone say it properly. Rather than correcting everyone you meet, just smile inwardly and know that YOU know the truth. The mountains here are beautiful, and it has become wildly popular with the backpackers. To get away from the crowds, rent a motorbike and explore." 
+  },
+  "5": {
+    "location": "Rai Leh",
+    "coordinates": {
+      "lng": 98.83,
+      "lat": 8.01
+    },
+    "text": "Rai Led (Railay) Beach is such a magical place that you can almost, *almost* look past the hordes of day-trippers turning the beaches into flip-flop highways. Little Tonsai beach has a vibe that's a bit more mellow, in a magic-mushroom kind of way. The crowds disperse around 4pm, and you can go back to pretending they were never there to begin with." 
+  }
+}
