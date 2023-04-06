@@ -204,3 +204,7 @@ a:hover{
 .hide {
   display: none;
 }
+
+.align-left {
+  text-align: left;
+}

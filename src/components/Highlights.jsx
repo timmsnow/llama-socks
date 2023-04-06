@@ -67,9 +67,9 @@ const Highlights = (props) => {
         Other Highlights
       </h3>
         { jsonData.map((dataSet, index) => {
-          console.log(values[index])
+          // console.log(values[index])
           return(
-            <Card>
+            <Card key={"card_"+ index}>
               <p className="pointer" key={index} onMouseEnter={()=>{showLocationMarker(dataSet.coordinates, index)}} onMouseLeave={() =>{hideLocationMarker(index)}}>
                 {dataSet.location}
               </p>

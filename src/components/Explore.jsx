@@ -10,6 +10,7 @@ const Explore = (props) => {
   const [locationKey, setLocationKey] = useState(0)
   const [locationSelected, setLocationSelected] = useState(false)
   const [center, setCenter] = useState([])
+  const [jsonData, setJsonData] = useState(null)
   
   const handleClick = (e) => {
     setLocationKey(e.target.id)
@@ -33,6 +34,13 @@ const Explore = (props) => {
     getCoordinates();
   }, []);
 
+  useEffect(() => {
+    async function fetchJson() {
+      setJsonData(await (await fetch(`../../json/top5content/${country}.json`)).json());
+    }
+    fetchJson();
+  },[]);
+
   return (
     <div>
       <>
@@ -51,7 +59,7 @@ const Explore = (props) => {
                       {center.length > 0 && <Top5 country={country} center={center} handleClick={handleClick} locationSelected={locationSelected}/>}
                       </Col>
                       <Col sm="9">
-                        <Top5Content country={country} locationKey={locationKey} />
+                        {jsonData && <Top5Content country={country} locationKey={locationKey} jsonData={jsonData}/> }
                       </Col>
                     </Row>
                   </Container>
