@@ -9,20 +9,22 @@ const Top5Content = (props) => {
   const banners = TOP5BANNER[pascalCountry]
 
   return (
-    <div>
-      <Container className="">
+    <div className="user-search-box">
+      <Container className="input-box">
         {banners && <img src={banners[locationKey]} /> }
-        {Object.keys(jsonData[locationKey]).map(section => {
-          console.log(section)
-          return(
-            <div key={"content-" + section}>
-              <h2>
-                {section === "1" ? "" : jsonData[locationKey][section]['header']}
-              </h2>
-                <Top5ContentSection sectionNumber={section} sectionData={jsonData[locationKey][section]}/>
-            </div>
-          )
-        })}
+        <div className="list-item">
+          {Object.keys(jsonData[locationKey]).map(section => {
+            console.log(section)
+            return(
+              <div key={"content-" + section}>
+                <h2>
+                  {section === "1" ? "" : jsonData[locationKey][section]['header']}
+                </h2>
+                  <Top5ContentSection sectionNumber={section} sectionData={jsonData[locationKey][section]}/>
+              </div>
+            )
+          })}
+        </div>
       </Container>
         
     </div>
