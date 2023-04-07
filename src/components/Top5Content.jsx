@@ -10,9 +10,9 @@ const Top5Content = (props) => {
 
   return (
     <div className="user-search-box">
-      <Container className="input-box">
+      <Container className="list-item pe-5">
         {banners && <img src={banners[locationKey]} /> }
-        <div className="list-item">
+        <div>
           {Object.keys(jsonData[locationKey]).map(section => {
             console.log(section)
             return(

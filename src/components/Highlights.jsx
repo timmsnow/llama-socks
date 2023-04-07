@@ -31,22 +31,27 @@ const Highlights = (props) => {
     
     setMarker(marker)
     marker.addTo(map);
-    let object = values[index] = {display: "block"}
-    setValues(...values, ...object)
+    let object = values
+    object[index] = {display: "block"}
+    setValues(object)
   }
   
   const [values, setValues] = useState({})
 
   useEffect(() => {
-    jsonData.forEach((set, index) => {
-      values[index] = {display: "none"}
-      setValues(values)
-    })
-  }, [values]);
+    if (jsonData.length > 0) {
+      jsonData.forEach((set, index) => {
+        values[index] = {display: "none"}
+        setValues(values)
+      })
+    }
+  }, []);
 
   const hideText = (index) => {
-    let object = values[index] = {display: "none"}
-    setValues(...values, ...object)
+    let object = values
+    object[index] = {display: "none"}
+    console.log(object)
+    setValues(object)
   }
 
   const hideLocationMarker = (index) => {
@@ -59,20 +64,18 @@ const Highlights = (props) => {
   }
 
   return (
-    <Container className="body-container">
-
-    <Row className="center">
-    <Col sm="5">
-      <h3 className="center">
-        Other Highlights
-      </h3>
+    <Container>
+    <h3 className="center mb-5 mt-5">
+      Other Highlights
+    </h3>
+    <Row className="body-container">
+    <Col sm="7">
         { jsonData.map((dataSet, index) => {
-          // console.log(values[index])
           return(
-            <Card key={"card_"+ index}>
-              <p className="pointer" key={index} onMouseEnter={()=>{showLocationMarker(dataSet.coordinates, index)}} onMouseLeave={() =>{hideLocationMarker(index)}}>
+            <Card key={"card_"+ index} className="pointer" onMouseEnter={()=>{showLocationMarker(dataSet.coordinates, index)}} onMouseLeave={() =>{hideLocationMarker(index)}}>
+              <h3 className="mt-3 mb-3">
                 {dataSet.location}
-              </p>
+              </h3>
               <Card.Body style={values[index]}>
                 {dataSet.text}
               </Card.Body>
@@ -80,7 +83,7 @@ const Highlights = (props) => {
           )
         })}
     </Col>
-    <Col sm="7">
+    <Col sm="5">
       <Map center={center} handleMarker={handleMarker}/>
     </Col> 
     </Row>
