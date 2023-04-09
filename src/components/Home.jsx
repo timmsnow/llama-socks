@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
-import Carousel from 'react-bootstrap/Carousel';
-import { Card, Container, Row, Col } from "react-bootstrap";
+import { Carousel, Container } from "react-bootstrap";
 import { BANNER_CAROUSEL } from '../images/index.js';
 import Continents from './Continents.jsx';
+import '../Home.css';
+
 
 const Home = () => {
   const [showBanner, setShowBanner] = useState(true)

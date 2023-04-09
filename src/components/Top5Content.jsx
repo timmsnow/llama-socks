@@ -14,7 +14,6 @@ const Top5Content = (props) => {
         {banners && <img src={banners[locationKey]} /> }
         <div>
           {Object.keys(jsonData[locationKey]).map(section => {
-            console.log(section)
             return(
               <div key={"content-" + section}>
                 <h2>

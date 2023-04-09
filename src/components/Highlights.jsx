@@ -50,7 +50,6 @@ const Highlights = (props) => {
   const hideText = (index) => {
     let object = values
     object[index] = {display: "none"}
-    console.log(object)
     setValues(object)
   }
 

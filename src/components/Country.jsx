@@ -1,14 +1,24 @@
 import React, { useState, useEffect } from 'react';
-import { Card, Container, Row, Col, Tab, Tabs } from "react-bootstrap";
+import { Container, Tab, Tabs } from "react-bootstrap";
 import { useLocation } from 'react-router-dom'
 import { COUNTRY_BANNERS } from '../images/index.js';
+import Info from './Info.jsx';
 import Explore from './Explore.jsx';
+import Move from './Move.jsx';
+import Budget from './Budget.jsx';
+import Sleep from './Sleep.jsx';
+import Safety from './Safety.jsx';
 
 const Country = () => {
   const location = useLocation()
   const { country } = location.state
   const banner = country + "Banner"
   const intro = country + "-intro.html"
+  const [infoData, setInfoData] = useState(null)
+  const [moveData, setMoveData] = useState(null)
+  const [budgetData, setBudgetData] = useState(null)
+  const [sleepData, setSleepData] = useState(null)
+  const [safetyData, setSafetyData] = useState(null)
  
   let[introduction, setIntro] = useState("");
 
@@ -16,8 +26,33 @@ const Country = () => {
     setIntro(await (await fetch(`../../documents/countries/${country}/${intro}`)).text());
   }
 
+  async function fetchInfoData() {
+    setInfoData(await (await fetch(`../../json/info/${country}.json`)).json());
+  }
+
+  async function fetchMoveData() {
+    setMoveData(await (await fetch(`../../json/move/${country}.json`)).json());
+  }
+
+  async function fetchBudgetData() {
+    setBudgetData(await (await fetch(`../../json/budget/${country}.json`)).json());
+  }
+
+  async function fetchSleepData() {
+    setSleepData(await (await fetch(`../../json/sleep/${country}.json`)).json());
+  }
+
+  async function fetchSafetyData() {
+    setSafetyData(await (await fetch(`../../json/safety/${country}.json`)).json());
+  }
+
   useEffect(() => {
     fetchHtml();
+    fetchInfoData();
+    fetchMoveData();
+    fetchBudgetData();
+    fetchSleepData();
+    fetchSafetyData();
   }, []);
 
   return (
@@ -37,19 +72,19 @@ const Country = () => {
         <Explore country={country.match(/[A-Z][a-z]+/g).join(' ')} />
       </Tab>
       <Tab eventKey="info" title="Info">
-        HI
+        {infoData && <Info country={country.match(/[A-Z][a-z]+/g).join(' ')} data={infoData} />}
       </Tab>
       <Tab eventKey="move" title="Move">
-        HI
+        {moveData && <Move country={country.match(/[A-Z][a-z]+/g).join(' ')} data={moveData} />}
       </Tab>
       <Tab eventKey="budget" title="Budget">
-        HI
+        {budgetData && <Budget country={country.match(/[A-Z][a-z]+/g).join(' ')} data={budgetData} />}
       </Tab>
       <Tab eventKey="sleep" title="Sleep">
-        HI
+        {sleepData && <Sleep country={country.match(/[A-Z][a-z]+/g).join(' ')} data={sleepData} />}
       </Tab>
       <Tab eventKey="survive" title="Survive">
-        HI
+        {safetyData && <Safety country={country.match(/[A-Z][a-z]+/g).join(' ')} data={safetyData} />}
       </Tab>
     </Tabs>
     </div>
