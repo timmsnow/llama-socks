@@ -1,0 +1,27 @@
+{
+  "1": {
+    "header": "Electricity",
+    "section": ["Voltage", "Plugs and Sockets"],
+    "texts": ["The supply voltage of Bolivia is 220 volts, which is higher than a few western countries (the US uses 110 volts). If you are traveling with appliances that are built to accept lower voltages you may want to get a voltage converter, or buy the appliance new in Bolivia.","Bolivia uses both plug type A and C. Plug type A is the American style plug with flat prongs, however in Bolivia both prongs are the same size, Meaning if you have any appliances with an American-style plug with one prong being slightly larger than the other, you will need an adapter. The type C plug is the style traditionally used in Europe, with two equal round prongs."]
+  },
+  "2": {
+    "header": "Driving",
+    "section": ["Nor Yungas", "Legality"],
+    "texts": ["In the majority of Bolivia, you will drive on the right hand side of the road, EXCEPT when driving on Nor Yungas, where the precipitous drops make driving on the left mandatory, due to better driver visibility when navigating those _extremely_ scary mountain roads.", "You should be at least 21 years of age to drive in Bolivia (though 25 to rent a car), and have a valid drivers license for at least one year. It is recommended to obtain an IDP (international drivers permit) to avoid any problems with authorities."]
+  },
+  "3": {
+    "header": "Visa Information",
+    "section": ["Visa Free", "Pre-arranged Visa (Free)", "ID Card", "US Citizens"],
+    "texts": ["Citizens of the EU, Russia, Australia, New Zealand, Canada, Mexico, Turkey, and several others fall into CATEGORY 1, meaning they can enter Bolivia visa free for a period of 90 days, needing only to show their passports and immigration card at the border.","Citizens from the majority of African and Asian countries are able to get a free visa to enter Bolivia as long as they apply through a consulate office BEFORE arrival. If they turn up at the border, they will be able to get a visa for a fee (US $95).", "South American citizens (excepting Suriname, and the Guyanas) can enter Bolivia visa free with only their ID cards, no passport needed.", "US citizens can obtain their visa either at the border or through a consulate office beforehand, but will be required to show a detailed daily itinerary, hotel reservations, proof of onward travel, a bank statement documenting sufficient funds, and pay the visa fee of a whopping $160 USD. I recommend arranging your visa ahead of time to avoid any last minute border woes, since the process can be quite painful. Allow a whole day for processing. The visa, once granted is valid for multiple entries for 10 years. It’s a reciprocal visa agreement and mirrors the US requirements of Bolivian citizens, so, despite whatever headache this process may bring on, I say, kudos to sticking it to the man BOLIVIA!"]
+  },
+  "4": {
+    "header": "When to Visit",
+    "section": ["High Season", "Wet Season", "Shoulder Season"],
+    "texts": ["The high season for travel to Bolivia tends to coincide with the dry season, which runs from approximately May to October. This is winter in Bolivia however, and while the temperature of the low-lands will remain temperate, the high-altitude areas of the Altiplano will get down-right frigid, with night-time temps going well below freezing. This is good, dry hiking weather, but make sure you pack appropriately if you’re planning to travel during this time.","The wet season can be truly… well, wet, with constant rains disrupting road travel and turning hiking trails in to messy mud-puddles. It really isn’t a good idea to plan hiking trips since a lot of the trails won’t be safe, and may even be closed for the season. Flights and buses get canceled regularly due to bad weather, and the low-lying areas of the country can experience considerable flooding. This is the time of year when you can see the magical “mirror-effect” in the salt flats of Uyuni, but know that only the edges of the flats are accessible during the floods.","My recommendation is to visit Bolivia during April and early into May. With the end of the rainy season, the whole country feels green and renewed, but tourist season has yet to kick into full swing. Temperatures in the highlands are getting colder, but still manageable for those hoping to pack light. This is when most of the country is accessible but still waking up from a sleepy, rainy summer, a magical time to visit Bolivia."]
+  },
+  "5": {
+    "header": "Language",
+    "section": ["Spanish", "English"],
+    "texts": ["While numerous indigenous languages are spoken and serve as the primary language for many Bolivians, Spanish remains the official language of Bolivia and is spoken widely, and should be understood for the most part across the country.", "English is less commonly used in Bolivia than elsewhere in South America and learning some Spanish phrases will be extremely helpful to anyone traveling in Bolivia."]
+  }
+}

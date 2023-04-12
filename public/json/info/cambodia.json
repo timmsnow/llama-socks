@@ -1,0 +1,27 @@
+{
+  "1": {
+    "header": "Electricity",
+    "section": ["Voltage", "Plugs and Sockets"],
+    "texts": ["In Cambodia the standard voltage is 230 V and the frequency is 50 Hz. This is the same as in most of the neighboring countries, so if you’ve purchased any appliances in Thailand or elsewhere you should be good to go. Most appliances are designed for dual voltage, however some bigger appliances like hair dryers may cause issue if they run on 110 V (like American appliances).", "Cambodia keeps you on your toes as you will see the American, European, AND British style power plugs and sockets. (type A, C and G)"]
+  },
+  "2": {
+    "header": "Driving",
+    "section": ["", "Renting a Car"],
+    "texts": ["In Cambodia you will drive on the RIGHT.", "Unfortunately under the new law, foreigners must obtain a Cambodian drivers license as well as a license from their home country. International drivers licenses are not recognized as being sufficient in the eyes of Cambodian law. This means the likelihood of you renting a car in Cambodia is pretty slim.\n\nIf you really want to get around with your own wheels, you’ll need to hire a driver as well as the vehicle."]
+  },
+  "3": {
+    "header": "Visa Information",
+    "section": ["Visa On Arrival", "Check Your Border Crossing"],
+    "texts": ["With the exception of a few Middle Eastern and African nations, citizens of most countries can arrange their visa for Cambodia on arrival at the airport or when crossing the border for $30 USD. Alternatively, if you are someone who likes to check all your boxes before you leave, you can arrange an E-VISA online for approximately $36 USD. These visas are valid for 30 days but can be extended.", "These visas will be accepted at the major airports and most border crossings, but double check your preferred port of entry before you plan your travel if you are crossing overland."]
+  },
+  "4": {
+    "header": "When to Visit",
+    "section": ["The Seasons", "High Season", "Wet/Shoulder Season"],
+    "texts": ["Cambodia is blessed with beautiful (hot) weather year round. There are two seasons, dry and wet, however in Cambodia the wet season is referred to as the “green season” because this is when the countryside vegetation comes to life.", "The dry season is high season for tourists and runs from November-March. Temperatures are at their highest and driest, although it’s still pretty humid, even if a little less wet. This is a good time to go if you are exploring deep in the country since most of the roads should be clear and easy to pass. It is a busy time for tourists so you can expect it to be a bit more crowded and accommodation prices slightly higher.", "The wet season, (approximately May-October) has fewer crowds, lower prices, and is a beautiful time to visit. While it does rain with more frequency during this time of year, it’s generally only for a short time in the afternoon and doesn’t affect your travel experience greatly. Some unpaved roads can get flooded or become harder to pass which can cause significant delays if you are going through more rural areas of the country. This is the best time to visit Tonle Sap Lake since the water levels will be at their highest and most accessible."]
+  },
+  "5": {
+    "header": "Language",
+    "section": ["Spoken Language", "Written Language"],
+    "texts": ["Khmer is the language most spoken in Cambodia. It’s not a particularly easy language to learn, however picking up a few phrases will always get you some brownie points with the locals.\n\nEnglish is the primary language of tourism, although French is also common.", "The Khmer script has its origins in India. It’s a beautiful script that you’re unlikely to master during your time on holiday."]
+  }
+}

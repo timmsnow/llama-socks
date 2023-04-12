@@ -6,7 +6,6 @@ const Highlight = (props) => {
 
   return (
     <div>
-      HI
     </div>
   )
 }

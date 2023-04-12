@@ -1,0 +1,54 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": "Cambodia remains one of the most affordable travel destinations in South East Asia. While it has gained in popularity considerably in the last decade, for the most part, prices have not gone up in the way that they have in neighboring Thailand. Like anywhere, it is easy to spend a lot of money if you want to have the finer things, but if you’re looking for the simple life, you can live pretty well on a small amount of cash. With the US dollar being used as an alternative currency in Cambodia, it can be smart to work out the conversion rates before you pay, there will be times when it is actually cheaper to pay with dollars vs riels, and vice versa. I found it pretty easy to stick to a $25-30 a day budget here."
+  },
+  "2": {
+    "header": "Accommodation",
+    "section": ["Backpackers", "Haggling", "Online", "Budget Rooms"],
+    "texts": ["There are tons, TONS of backpacker hotels in Cambodia. Prices are competitive and it’s quite easy to shop around. Hostels with dorm beds are plentiful, so if you’re traveling solo you won’t find it hard to score a bed for somewhere around $5 USD. That being said, private rooms are easy on the wallet too, $10-15 for a private is pretty much the norm.", "A little light haggling can get you a great rate especially if you are staying in one place for more than a couple days. Hotels with empty beds generally want to see them filled for more than one night. You can use this as bargaining power to secure a lower rate. Just make sure to be polite. Don’t insult the hotel owner by low-balling too much.", "Higher end hotels will have deals online, especially in off-season (May-Oct).", "If you are staying in a budget room you can probably get a better deal by just showing up and asking around. Once you get a feel for the going rate of a standard room, you’ll be able to negotiate a a price with the owner that you’re both happy with. Don’t forget to ask about breakfast."]
+  },
+  "3": {
+    "header": "Activities",
+    "section": ["Diving", "Park Fees"],
+    "texts": ["Scuba Diving is cheap in Cambodia, in places like Koh Rong most dive shops offer multi-dive packages and it’s easy to get the prices down to about $25 per dive. Ask about the details of the package when booking, since you may even be able to get packages including accommodation and even transit. Most things in Cambodia can be tweaked and modified to your specifications, and you can generally have things working out cheaper or more conveniently.", "Entrance to the parks and specifically to Angkor is going to be your biggest expense here. A day pass to visit Angkor is $37, whereas a 3-day pass will run you $62, and a week pass will cost $72. Unless you’re really strapped for time, go for the 3-day pass. Chances are one full day isn’t going to be enough for you. It isn’t cheap, but it’s definitely worth it and you can take your time rather than rushing through.\n\nThe last thing you want to do is buy a one-day pass and then have to go back and buy another one because you weren’t able to see everything you wanted. Trust me, getting back and forth to the ticketing booth is annoying enough as it is."]
+  },
+  "4": {
+    "header": "Food",
+    "section": ["Staples", "Tourist Locales", "Drinks"],
+    "texts": ["In the major metropolitan areas, a nice bowl of Amok curry or a plate of noodles is generally between $1-2 USD. Eating street food in the city markets is the best way to guarantee a cheap meal. This is where the locals eat, and if you’re eating with the locals, you’re paying what the locals pay. You may want to keep an open mind when ordering, since chances are the menu will be in khmer, if there is a menu.", "In tourist areas or islands like Koh Rong the cost of food will go up a bit as options are more limited. These places tend to offer more western style meals as well. Pizza and burgers will cost you a bit more than that spicy bowl of curried noodles. Eating in the markets or wherever the locals are eating is still a good way to keep costs low (and get the best food).", "Beer will run you about $1.50 for a half liter. A coconut near Angkor Wat is $1. Some things, like a can of coca cola will cost you a dollar if you pay in US, but less in riels. Keep both currencies on you, since paying a standard $1 for anything on the menu is a little bit silly."]
+  },
+  "5": {
+    "header": "Transit",
+    "section": ["Local", "Long Distance", "Tourist Shuttles"],
+    "texts": ["The tuk-tuk, that loveable little rumbling hunk of metal will probably be what you use most to get around town locally. They are surprisingly efficient for moving small distances, and typically, very cheap. In instances where you’ve been dropped at the bus station a few kilometers out of town and tuk tuks are the only way to get around, you may find it a little harder to haggle a fair price. It’s up to you how long you want to fight for a few dollars.", "Mostly you will be getting around with the public bus or one of the smaller tourist buses. Public buses will run you ABOUT a dollar an hour depending on the journey. Phnom Penh to Sihanoukville for example, would be about 6 USD for a 5.5 hour journey. These buses are fine for journeys of a few hours.", "If you are taking the tourist buses you probably won’t be spending more than USD $10 for the same ride you’d be taking on a public bus, so maybe a little less than double. The truth is, these tourist shuttles can work out to be extremely convenient, especially if they are picking you up from your hotel and dropping you off at the next one, saving you money on a tuk tuk or onward travel. Not all of them work this way, so make sure to work out the finer points with the booking agency."]
+  },
+  "6": {
+    "header": "Daily Budget Breakdown",
+    "section": ["Budget", "Mid-Range", "Lux"],
+    "texts": [
+      [
+        "street food $5",
+        "tuk tuk to city center $3",
+        "lounging on the beach FREE",
+        "hostel dorm bed $5",
+        "$20 per day"
+      ], 
+      [
+        "street food $5",
+        "tourist shuttle $10",
+        "beer $5",
+        "private room ensuite $12",
+        "$25-40 per day"
+      ],
+      [
+        "western meals $15-20",
+        "taxi only $10-15",
+        "2 tank dive $60",
+        "plush double at a resort (p/p) $40 (+)",
+         "$120+ per day"
+      ]
+    ]
+  }
+}

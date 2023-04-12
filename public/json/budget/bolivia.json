@@ -1,0 +1,32 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": "Bolivia is a country that is extremely friendly to the wallet. Hotels, restaurants, and transportation all tend to be much more affordable here than elsewhere in South America. If you have been traveling in Chile before coming to Bolivia you can pretty much count on slicing your budget in half.\n\nOf course, as with most places in the world, if you’re paying less in cash, you’re probably making up for it by paying with your time. Travel in Bolivia is slow moving, and not without it’s frustrations. You’ll want to consider budgeting more in the way of TIME than money to really enjoy all that this country has to offer."
+  },
+  "2": {
+    "header": "Accommodation",
+    "section": ["La Paz", "Luxury Hotel?", "Breakfast", "Hostels", "Out of the City"],
+    "texts": ["You can find clean, centrally located en-suite double rooms in La Paz for around $18-20 USD easily.","While there are plenty of upscale hotels in the capital that charge exorbitant amounts, finding something comfortable and beautiful between $20-50 US per night should be a cake walk.","There are a good number of B and B’s catering to the budget traveler, and many hotels include breakfast in the price.","Hostels abound in the area around the Plaza Mayor de San Francisco.", "Outside of the cities accommodation is even cheaper. $10-15 USD for a decent double room."]
+  },
+  "3": {
+    "header": "Activities",
+    "section": ["Infrastructure", "Tours?"],
+    "texts": ["As with most countries, it’s the tourist sites that’ll go the farthest in eating away at your savings. Because Bolivia’s infrastructure is, generally speaking, less developed than some of its neighbors, getting around can sometimes be complicated and time consuming. As a result, many people will opt to join tours that iron out all those details rather than navigating the public transit system to get around. Note that this may solve a lot of your planning woes, but it’s going to cost considerably more than if you were to get around on your own.", "In some places, like the Amazon, or Uyuni, joining a guided tour is really the only option, and while you can shop around the different companies to compare the price, at the end of the day the bottom line is the bottom line, and you don’t want to haggle too hard if you’re expecting to have a good experience. Some tour operators cut costs by either underpaying their employees, or cutting corners on safety, either way… NO BUENO. If the price sounds too good to be true, it probably is. Go with your gut when selecting which tour operator to go with, and remember, even if it’s a little more expensive than the guys down the road, you’re eating lunch for $1.50 most days, so you’ll be fine."]
+  },
+  "4": {
+    "header": "Food",
+    "section": ["Food Culture", "Budget Meals", "Western Food?", "Drink"],
+    "texts": ["Food in Bolivia is considered a utilitarian enterprise in most of the country. A typical Bolivian meal will be a rice and beans situation, with quinoa, corn, and potatoes making guest appearances. Meat is less common in the Bolivian diet because of the expense.", "Restaurants serve the basics for very very cheap, and often you’ll find many local spots offering cheap lunch deals. Finding a traditional lunch for as low as $1 USD is common place.", "These days a ton of new, “western-style” or fusion restaurants are popping up all over Bolivia. While they generally cater to the wealthier populace and tend to be more expensive than traditional restaurants, even the fancy restaurants aren’t going to break your budget. A nice, sit down meal can be had for $5-10.", "All booze is cheap. Beer is $1.5 per half liter. But better to buy at a store if you’re sensitive to tobacco smoke, since it’s still legal to smoke in bars here."]
+  },
+  "5": {
+    "header": "Transit",
+    "section": ["Bus Tickets", "How is It?", "Internal Flights", "Cabs"],
+    "texts": ["Bus and Train travel tends to be very cheap here. You can count on about $1 an hour per bus ride, sometimes even less depending on the bus.","If you’re used to the excellent Peruvian buses, you’ll find the Bolivian ones a little bit wanting. Expect crowded aisles, frequent stops, and zero toilet access. The occasional “VIP” bus service can be found if you do a little digging, and are willing to pay extra.","Inter-city flights between regional capitals will cost you around $80 USD each way, while smaller prop planes flying to more remote regions like the Amazon may be $100-150 each way depending on the season and availability.","Taxi’s are cheap. Use them at night, but stick with the Radio Taxi’s."]
+  },
+  "6": {
+    "header": "Daily Budget Breakdown",
+    "section": ["", "Budget", "Mid-Range", "Lux"],
+    "texts": ["It’s fair to say that a budget backpacker who’s traveling mostly by public transit and sleeping in hostels or budget rooms, can reasonably set their budget at around $30/35 USD per day. Daily costs can vary and may be far less, but that’s a good average once you’ve factored in the more expensive days spent site-seeing. For those that want to treat themselves to a nice meal on occasion, want to take a few flights to avoid long bus rides, and plan on doing a good deal of guided touring, $50-60 US per day is more appropriate, depending on the length of the trip.",["eating traditional $8", "public transit only $5", "one activity per day $10", "room with shared bathroom (p/p) $10","$25-35 per day"], ["one fancy meal + cheap lunch $15", "public transit $5-10", "sight-seeing $15+", "double ensuite (p/p) $15", "$50-60 per day"], ["fancy food only $25+", "taxis $15", "tiwanaku tour $25", "plush double (p/p) $40 (+)", "$100+ per day"]]
+  }
+}

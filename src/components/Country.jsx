@@ -75,16 +75,32 @@ const Country = () => {
         {infoData && <Info country={country.match(/[A-Z][a-z]+/g).join(' ')} data={infoData} />}
       </Tab>
       <Tab eventKey="move" title="Move">
-        {moveData && <Move country={country.match(/[A-Z][a-z]+/g).join(' ')} data={moveData} />}
+        {moveData && 
+        <Container>
+          <Move country={country.match(/[A-Z][a-z]+/g).join(' ')} data={moveData} />
+        </Container>
+          }
       </Tab>
       <Tab eventKey="budget" title="Budget">
-        {budgetData && <Budget country={country.match(/[A-Z][a-z]+/g).join(' ')} data={budgetData} />}
+        {budgetData &&
+        <Container>
+          <Budget country={country.match(/[A-Z][a-z]+/g).join(' ')} data={budgetData} />
+        </Container>
+        }
       </Tab>
       <Tab eventKey="sleep" title="Sleep">
-        {sleepData && <Sleep country={country.match(/[A-Z][a-z]+/g).join(' ')} data={sleepData} />}
+        {sleepData && 
+        <Container>
+          <Sleep country={country.match(/[A-Z][a-z]+/g).join(' ')} data={sleepData} />
+        </Container>
+        }
       </Tab>
       <Tab eventKey="survive" title="Survive">
-        {safetyData && <Safety country={country.match(/[A-Z][a-z]+/g).join(' ')} data={safetyData} />}
+        {safetyData && 
+        <Container>
+          <Safety country={country.match(/[A-Z][a-z]+/g).join(' ')} data={safetyData} />
+        </Container>
+        }
       </Tab>
     </Tabs>
     </div>

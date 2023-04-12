@@ -1,0 +1,27 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": ""
+  },
+  "2": {
+    "header": "Plane",
+    "section": ["Major Airports", "Airport Bus", "Airport Train", "Private Transfers"],
+    "texts": ["Phnom Penh, Sihanoukville, and Siem Reap are the major entry points for tourists entering Cambodia by plane. It’s relatively easy to get around by plane here but with road conditions improving, it may not be worth it to fly when bus prices are so cheap and distances are short.", "If you are flying into Phnom Penh, there are several ways to get to the center from the airport. Taking the public bus is the cheapest way. You can catch Line 3 just outside of the airport on the same side of the road. Cost is less than $1 USD.", "Alternatively there is an airport train that takes you directly to the Phnom Penh train station. The journey takes about 30 minutes and costs roughly $2.50 US.", "If you are catching private transit the prices to the center from the airport are fixed and should be posted. You should not pay more than the fixed rates. If you want, you can catch a slightly cheaper tuk tuk by walking out of the airport proper and hailing one on the main road. (about $5-6 USD to city center)"]
+  },
+  "3": {
+    "header": "Drive + Motorbike",
+    "section": ["Legality", "It's Intense", "Rainy Season", "Motorbike Tour"],
+    "texts": ["Technically you need a Cambodian license to operate a vehicle in Cambodia. The international Drivers license will not be enough to (legally) drive in the country. More than likely you could get away with paying a small fine if you were to be stopped, but should you get in an accident, you may have trouble making an insurance claim without the Cambodian license.", "Driving here is intense. Poorly maintained roads, reckless drivers, and corrupt cops are all things to consider before getting behind the wheel. English is rarely spoken outside of the major tourist areas, so if you get yourself into a pickle, make sure you have the Khmer phrases needed to get yourself out.", "During the rainy season some of the more rural roads can get flooded, or become muddy and impassable, making for long delays. That being said, road conditions ARE improving in Cambodia, and more and more of the countries roads are getting paved.", "If you _really_ want to travel by motorbike, you can consider one of the motorbike tour companies to aid you in putting the right itinerary together for you. Cambodia Expeditions is one of the long-standing motorcycle tour operators in the country and contacting them could be a good starting point."]
+  },
+  "4": {
+    "header": "Boat",
+    "section": ["Sihanoukville Ferry", "Siem Reap to Battambang", "Bring Snacks"],
+    "texts": ["Ferries run regularly from Sihanoukville to Koh Rong and the other islands nearby. While exact times and prices can change, you can check this website for more info.", "The boat trip from Siem Reap to Battambang is one of those fabled backpacker journeys where the experience you have is greatly dependent on weather and luck. It is best to attempt the trip during the “wet” season when water levels are at their highest to avoid any delays. The boat is intimate, and seating isn’t particularly comfortable, so bring your favorite makeshift hoody-pillow or whatever your preferred padding for the long ride.", "The whole trip should, in theory take about 8 hours, with a short lunch break about midway through and cost about $20-25 USD. It’s a great way to see more of rural Cambodian life, and could actually be the fastest method of reaching Battambang during the wet season, when the roads are at their most vulnerable. Bring snacks and extra water on this trip. It’s going to be hot and you want to have extra in case of delays."]
+  },
+  "5": {
+    "header": "Bus",
+    "section": ["Bus Companies", "Don't Bus at Night", "Tourist Shuttles"],
+    "texts": ["Buses in Cambodia are the most common method for getting around and there are tons of options when it comes to long distance travel. Both Giant Ibis and PDS Xpress bus services top the list when it comes to comfort and safety in Cambodia, but they tend to be a little pricier than some of the other options. Sorya is a cheaper option, but less comfortable.", "Unfortunately, Cambodia has had some problems in the past with road safety. Crashes with commercial transport vehicles aren’t particularly rare and on occasion there have been some pretty nasty fatal accidents. Because drivers are often paid per trip, speeding can be a big issue. It may be worth it to fork out the extra for the nicer bus companies with better reputations. Avoid taking night buses.", "There are some tourist buses (mini vans) that are designed to take you directly from your hotel to your next destination. These can generally be arranged through your hotel or any other tourist booking service. While not necessarily more comfortable than the public buses, they can cut down on time and, generally speaking, have a good safety record."]
+  }
+}

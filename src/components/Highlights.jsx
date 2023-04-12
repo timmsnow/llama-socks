@@ -86,9 +86,9 @@ const Highlights = (props) => {
       <Map center={center} handleMarker={handleMarker}/>
     </Col> 
     </Row>
-    <Row>
+    {/* <Row>
       <Highlight />
-    </Row>
+    </Row> */}
     </Container>
   )
 }
