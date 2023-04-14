@@ -1,0 +1,54 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": "Ecuador is one of those places that can be hard to pin down, budget-wise. In fact, your budget will vary wildly from place to place and depending on the time of year you want to visit. Traveling in the low season (December to May) can result in lower prices, particularly on accommodation, with the week before and after New Years and Carnival being notable exceptions, as Ecuadorians tend to travel in droves during the holidays and accommodation can become scarce, and expensive. Food costs vary, but expect to pay more for fresh seafood, even on the coast.\n\nThe Galapagos is known to be a budget blower, and while there are some tactics you can use to keep costs down, if you’re going too travel all the way there, give yourself a little wiggle room to truly enjoy all that’s on offer. You may only come here once, it’s worth it to spend the extra cash."
+  },
+  "2": {
+    "header": "Accommodation",
+    "section": ["", "Seasonality", "Booking Ahead", "Costs"],
+    "texts": ["Budget accommodation in Ecuador is plentiful.", "In the off-season months you should see prices drop pretty reliably both on the booking websites as well as if you show up in person. The old “walk and knock” method can work surprisingly well here if you’re hoping for a cheap low-season rate, since most hotels will happily drop their rates if they have low occupancy.", "In high season there’s a little less room for negotiation and you may want to consider your priorities before booking. Do you need an ensuite? Air con? Central location? Things can book up quick and you could be stuck paying a lot more for a lot less, especially in hot-ticket places like Baños.", "Double rooms are easy to find and range in the $15-30 USD range depending on location and amenities. In some cities, like Cuenca, dorm beds and other shared varieties (like hammock-beds) can be found for as little as $3-5 per night. Now THAT’S cheap living."]
+  },
+  "3": {
+    "header": "Activities",
+    "section": ["Hiking", "Galapagos"],
+    "texts": ["There is a good bit of free hiking available in Ecuador, so you don’t necessarily need to blow your budget looking for good mountain views. That being said Ecuador IS something of a destination for outdoor adventure sports and if you want to partake in any zip lining or paragliding it’s going to cost you. Try to balance it out with some free-hikes. Just make sure you’re prepared and don’t skimp on a guide if the trail isn’t clearly marked.", "The Galapagos is EXPENSIVE. period. Two-tank dive trips can cost anywhere from $160-180 per person per day. Multi-day boat cruises range in the thousands of dollars. But you didn’t come all this way to sit at the hotel whinging about the prices right? The BEST way to cut down on the obscene prices here is to A- come during the off-peak months of December-May, and B- DON’T pre-book packages or tours from home. All prices in the Galapagos can be negotiated, everything from multi-day boat trips to local transport on the islands. Generally speaking, tour operators almost always have a few last minute spaces available that they really want to fill. It’s possible to save up to 50% on package tour costs just by booking in person, last minute. Visit my Galapagos Guide for more info.\n\nNow this may mean you need to give yourself a little extra time on the islands, since you’ll need to be more flexible with your tour dates, but really, I doubt you’ll be sad about extra time in one of the most unique and diverse places on the planet. Budget an extra few days and you’ll save thousands. Worth. it."]
+  },
+  "4": {
+    "header": "Food",
+    "section": ["Tourist Restaurants?", "Cheap Lunch", "Seafood"],
+    "texts": ["Local Ecuadorian food is fantastic. Empanadas, Onion soups, Sweet Potatoes, and even that lil’ Guinea Pig are all on offer here for the cheap, but if the menu is in English, you’re probably not getting the best meal OR the best deal. Avoiding the tourist restaurants will go a long way to helping you keep food costs down.", "The “almuerzo” special, or “menu del dia” is a daily menu, usually posted on a board in front of the restaurant with several cheap set menus. These are lunch specials that usually include a starter, a main, a drink of some sort, and occasionally a dessert. Finding these almuerzos are essential in keeping your food costs down. It’ll make a big difference, especially in places like the Galapagos, where the alternative is a $20 plate of pasta. Cities like Cuenca with large student populations are great places to find cheap food deals. It’s easy to find lunch specials for as little as $2.", "Good seafood in Ecuador is not as cheap as one would hope. If you’re on the coast and dying for some fresh shrimp ceviche, expect to pay on average around $10 plate."]
+  },
+  "5": {
+    "header": "Transit",
+    "section": ["Local", "City Taxis", "Long Distance", "Private Car Hire"],
+    "texts": ["Generally speaking getting around with public transit is extremely cheap. City Buses and minivans tend to hover in the $.25 (USD) range. Some bus companies in some cities, like Guayaquil, may require the advance purchase of a transit pass, which may not be worth it in the long run if you’re only sticking around for a day or two.", "Most taxis within the cities are metered. Double check that the meter is running before agreeing to ride in the taxi, or alternatively negotiate a set price. In general local taxi rides are not expensive.", "Long distance buses (and minivans) tend to cost something in the range of about $1 an hour.", "Private car hire is exponentially more expensive and although it depends on your negotiating skills you can expect to pay anywhere from $15-30 an hour in a private taxi. These can also be hired by the day, but you’ll have to come to an understanding you both agree on."]
+  },
+  "6": {
+    "header": "Daily Budget Breakdown",
+    "section": ["Budget", "Mid-Range", "Lux"],
+    "texts": [
+      [
+        "eating almuerzo $4",
+        "teleferico ticket $8.50",
+        "city bus pass $3",
+        "room with shared bathroom (p/p) $10",
+        "$30-35 per day"
+      ], 
+      [
+        "almuerzo and a nice dinner $15",
+        "taxi $5-10",
+        "sight-seeing $15+",
+        "double ensuite (p/p) $15",
+        "$50-60 per day"
+      ],
+      [
+        "no budget meals $30+",
+        "taxi only $25",
+        "bungee jumping in Baños $25",
+        "plush double (p/p) $40 (+)",
+         "$120+ per day"
+      ]
+    ]
+  }
+}

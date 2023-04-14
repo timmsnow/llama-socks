@@ -1,0 +1,27 @@
+{
+  "1": {
+    "header": "Electricity",
+    "section": ["Voltage", "Plugs and Sockets"],
+    "texts": ["In Ecuador the standard voltage is 120 V and the frequency is 60 Hz. This is the same as in the United States, so if you happen to be traveling with appliances from the US, you will not need to use a converter or an adapter in Ecuador.", "Ecuador uses the American-style plug type A (two flat prongs)."]
+  },
+  "2": {
+    "header": "Driving",
+    "section": ["", "Renting a Car", "IDP?"],
+    "texts": ["In Ecuador you will drive on the RIGHT hand side of the road.", "To rent a car in Ecuador you need to be at least 25 years of age, hold a valid driver’s license, and carry an internationally recognized credit card. Visit the safety section of this page to get tips on how to stay safe while driving on the roads of Ecuador.", "It’s never a bad idea to have an IDP (international driver’s permit) when driving in a foreign country."]
+  },
+  "3": {
+    "header": "Visa Information",
+    "section": ["Visa Free", "Proof of Onward Travel", "Insurance?", "Galapagos"],
+    "texts": ["With the exception of a few countries in Africa, Central Asia, North Korea, and Venezuela, citizens of the vast majority of countries around the world can enter Ecuador visa free. This means you can arrive in Ecuador with only a valid passport (6 months validity required).", "Proof of onward travel is also a requirement and some airlines may not let you board the plane if you do not have a return ticket or onward travel. For those wishing to arrive on a one-way ticket this is one of those gray areas. You may arrive and not be asked for any proof of onward travel at all, or you may be denied entry without it. Proceed at your own risk.", "Ecuador also requires proof of insurance. This is most easily demonstrated with travel insurance, which can be bought before you depart. I was not asked to present any proof of insurance, but if you want to be safe, get some. Not a bad thing to have anyway.", "If your travel plans include a trip to the Galapagos, you will need to fill out and process your Transit Control Card at the airport in Quito or Guayaquil before departing. The card is $20 USD to process. In addition you will need to pay $100 USD park entrance fee upon arrival in the islands. It’s a one time fee and everyone must pay to enter Galapagos."]
+  },
+  "4": {
+    "header": "When to Visit",
+    "section": ["", "Dry Season", "'Wet' Season", "The Coast", "Galapagos"],
+    "texts": ["Being that Ecuador is well… on the equator, you can assume that the weather is at least relatively consistent throughout the year. The truth is there is no BAD time to visit Ecuador, it really just depends on what you’re looking for in a vacation.", "The busy season coincides with the “dry” season, which starts at the end of May and lasts until September. This is theoretically the best time for hiking in the highlands since there is less chance of mudslides, and roads being washed out. This is also the time of year that brings the biggest crowds. That means higher prices and a harder time finding accommodation.", "If you’re traveling during the “wetter” months of December-May you may find you’ll get a bit of a discount on your accommodation. Also bear in mind that volcanoes have a tendency to create their own weather patterns, meaning you’ll really only know the conditions once you arrive.", "There coastal area is best visited during the slower season, from January-April. This is when the weather is warmest and the seas are the calmest. While it’s technically “rainy” season, days are still consistently sunny, with some tropical rainfall throughout the day. In the dry season it can get cold and the sun rarely makes an appearance.", "Visiting the Galapagos in the off-peak season of late January-April is the best way to avoid the crowds, as high season tends to run from June-September. Scuba diving from January-April is particularly good with calmer seas, warmer water (26-28° C), consistently good visibility, and the arrival of the schooling hammerheads. August is Manta season, but be prepared for frigid water temperatures (15° C) and poor visibility. The islands are pretty scorching at the beginning of the year so be prepared for some serious heat if you decide to visit off-peak."]
+  },
+  "5": {
+    "header": "Language",
+    "section": ["", "English", "Indigenous Language"],
+    "texts": ["Spanish is the official language of Ecuador and is spoken and understood everywhere across the country.", "While in some tourist areas you will hear English spoken, it will be exceedingly helpful if you pick up a little conversational Spanish, especially if you are getting off the beaten track at all.", "Indigenous languages like Kichwa are still spoken in some areas of Ecuador, although most of the population will have a solid grasp on Spanish regardless of what their primary language is."]
+  }
+}
