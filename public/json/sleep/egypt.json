@@ -1,0 +1,27 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": ["There are tons of great options for sleeping around Egypt, and something for every budget. When backpacking Egypt, keep in mind that depending on the season you may not have to book anything in advance. I visited in May and had no problems securing rooms as I went. This allowed for more freedom in my itinerary and gave me the option to shop around. Here are a couple of recommendations from yours truly on where to lay your noggin."]
+  },
+  "2": {
+    "header": "Cairo",
+    "section": ["1 - Dahab Hostel", "2 - Cleopatra Hotel", " 3 - Kempinski Hotel"],
+    "texts": ["Dahab Hostel is a fantastic option for the budget minded traveler. I stayed here and got a private room with a fan and shared bathroom for about $10. They also have ensuite rooms for a few bucks more. It’s centrally located near the Cairo museum in the heart of Cairo. The super friendly staff offers breakfast, laundry service, airport pickup, and they can arrange affordable tours to the desert or ancient sites like Saqarra. To top it all off, they have a fantastic rooftop terrace with views of the surrounding city streets. Highly recommend.", "If you want something centrally located, and a step above the cheapest options, this place could be for you.", "If you’re looking to splurge, this is the one. There is a rooftop pool, several restaurants serving western cuisine, and 24 hour security (there are metal detectors and bomb security at entrance). The Kempinski is located in the posh “Garden City” district of the city. It ain’t cheap, but if you need a place to wash the desert off of you, this one will do the trick."]
+  },
+  "3": {
+    "header": "Luxor",
+    "section": ["1 - Bob Marley Peace Hotel", "2 - Cleopatra Hotel Luxor", "Other"],
+    "texts": ["Alarmingly, there are two backpacker hotels in Luxor involving Bob Marley. Honestly they look about the same, have a similar vibe, and are both seriously cheap. I stayed at the “Peace Hotel” and found it to be well located, friendly, clean, and quiet. There is a nice (mostly) shaded, airy terrace upstairs. You can check out their website here. The two hotels are often confused for one another, but I think you’d probably be fine staying at either one.", "Apparently Egypt has a shortage when it comes to creative hotel names. The Cleopatra Hotel is perfectly suited for someone hoping for a calm environment. The hotel is tucked away on a quiet street on the WEST bank of the Nile, the opposite side from the city of Luxor itself. This means you will be able to access all the sites of ancient Thebes without having to cross the river. The hotel itself has simple, clean rooms, a restaurant, and it is also affordable.", "There are a million high end hotels to choose from if you want something plush. Honestly with so many affordable cheaper hotel options in the area, I don’t think a five star experience is really worth it, but if you are hell bent on spending money, the Hilton stands out for being, well, a Hilton."]
+  },
+  "4": {
+    "header": "Aswan",
+    "section": ["1 - The Mango Guest House", "2 - Nubian Paradise Guesthouse", "Other"],
+    "texts": ["This little oasis of a hotel is situated on Elephantine Island outside of the city proper. There are very cheap ferries which take you back and forth from the island to the mainland, a nuisance for some, but honestly, who doesn’t want to spend more time sailing on the Nile? The grounds are serene and there is a wonderful garden to relax in after a long day of sight seeing. There is a very kind staff and all the rooms are well kept. The Mango Guest house is very budget friendly, worth the extra ferry time. The hotel doesn’t have a website but here is a link to their Airbnb page.", "This is another budget option also located on Elephantine island. Relaxed, chill environment. They have guest kitchens available but not a ton of cookware. Find out more on their Airbnb page.", "If you’re like me and want something super centrally located and preferably close to the train station (travel backpack + sweltering desert heat = over it…. amirite?), then feel free to just rock up in Aswan and do some hunting. There are TONS of budget accommodations near the center of town, and if you are arriving before dark then you shouldn’t have any problem finding something clean, cheap, and cheerful."]
+  },
+  "5": {
+    "header": "Dahab",
+    "section": ["1 - Oasis Fighting Kangaroo", "2 - Pink Dorms", "Other"],
+    "texts": ["In addition to getting extra points for a good name, this hotel covers all the bases. It’s central, a few blocks from the beach, is clean, and has lot’s of chill out space. The rooms are simple but orderly, the staff is helpful, and it’s a short walk to just about everywhere in town. A single room is cheap as chips. Peep their website here.", "This is a ladies only hotel, which consists of 8 rooms with dorm beds and some spill over rooftop camping options. While I obviously didn’t stay here, I wanted to include this space as I have only heard great things about the atmosphere. Absolutely perfect for someone fed up with the onslaught of toxic masculinity.", "Like Aswan, there are tons of cheap accommodation options in Dahab. If you haven’t booked, or don’t want to book, just try to arrive early in the day. Dahab is walkable, and there is no shortage of hotel rooms of all types."]
+  }
+}

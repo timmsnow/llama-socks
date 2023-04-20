@@ -1,0 +1,54 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": "If you’re thinking about a long trip backpacking Indonesia, paying attention to your budget is essential.\n\nIndonesia is a place that most people traveling from the western world will find very affordable. It is very easy to travel here with a daily budget of around $35 per day and have a comfortable experience. One thing to consider when planning your budget in Indonesia is how you will be traveling. It is a huge country and if you want to see a lot of it, that means traveling by plane. Domestic flights aren’t expensive per se, but they do add up. If you are taking one flight a week, add between $50-150 to your weekly expenses."
+  },
+  "2": {
+    "header": "Accommodation",
+    "section": ["Price Depends on the Island", "Budget Room", "Outer Islands", "Shoulder Season"],
+    "texts": ["Accommodation costs can vary greatly depending on which island you are on and the city or town you are in. Prices in Bali and Java tend to be much higher than elsewhere in the country. On Bali specifically, the price of a hotel room can swing from nearly nothing to the equivalent of a months rent depending on your lifestyle choices.", "It is easy enough to find ensuite double rooms of a decent standard for $20-30 a night. For this price you can expect a decent sized room, with a working fan, and occasionally even AC.", "In places like Sumatra, Sulawesi, Borneo, and even Lombok, along with other, less visited islands, you will score a room for a good deal less. The further off the beaten path you go, the lower the costs of budget rooms. However, the quality tends to go down as well. A lot of places that are less adjusted to tourism may not appreciate the finer points of customer service, so bear that in mind and keep your expectations low.", "It’s always high season SOMEWHERE in Indonesia, so the best way to visit is to travel in shoulder seasons, and hop from one island to the next before their respective busy seasons start. This way you’ll have more options, and generally speaking, a little bit of haggling power when it comes to price."]
+  },
+  "3": {
+    "header": "Activities",
+    "section": ["Flores-Lombok Boat Trip", "Diving", "Park Fees"],
+    "texts": ["One of the most exciting activities on offer in Indonesia is the boat trip between Flores and Lombok, stopping at Komodo Island. The cost for this trip varies greatly depending on the boat, the company, and the cabin you select. As a general rule, when spending extended time on the waters around Indonesia, BIGGER IS BETTER, regardless of price. Don’t skimp on safety. If you opt for a private cabin you’ll likely pay somewhere around $50-70 USD per day, should you sleep on the deck, you may pay as little as $25-30 per day.", "Diving costs depend greatly on where you are. Pulau Weh diving is very affordable, about $25 a tank. The rest of the country averages to about $40 a dive, unless you are heading to crown jewels of the underwater world: Komodo and Rajah Amput, both will set you back considerably, so be prepared for sticker shock.", "Indonesia is full of some incredible historic landmarks. Places like Borobudur and Prambanam are MUST-SEES, but certainly come with a price tag. It’s a good idea to buy combo tickets when applicable, to cut down on entrance fee costs.\n\nKomodo is another place where entrance fees can greatly affect the budget. While certain costs can be cut out (like the snorkeling fee, if you don’t plan to snorkel), unfortunately there is simply no way around the costs if you want to visit the dragons, so you’ll just have to tighten the belt elsewhere in the budget."]
+  },
+  "4": {
+    "header": "Food",
+    "section": ["", "Drinks", "Tipping", "Food Stalls"],
+    "texts": ["There is absolutely no reason to spend a lot of money at expensive restaurants in Indonesia. The food here is wildly diverse, flavorful, exciting, and CHEAP.", "The cost of a half liter of beer is between $2-3 depending on how fancy your digs are. Although in areas with strict laws banning alcohol (like Banda Aceh in northern Sumatra) expect to pay a premium for that sweet smuggled alcohol.", "Tipping is not compulsory or even common in Indonesia, however you’re always welcome to leave a little extra if you’ve felt you’ve had a good experience. If you’re staying in a resort, or spend your time in more touristy areas, you may see a 10% service charge added to the bill. This is only in tourist areas, and even then it’s rare.", "There are street food vendors in most cities and meals will typically set you back between $1-4. Even in the smaller towns you’ll find road-side eateries that specialize in the staples. A plate of Mie Goring is rarely more than $2."]
+  },
+  "5": {
+    "header": "Transit",
+    "section": ["Bus", "Tourist Shuttle", "Flights", "Boats"],
+    "texts": ["Most of your overland travel in Indonesia can be managed with the bus. Buses come in all shapes and flavors here, but if you’re planning on going for a long journey, the bigger the better usually. Paying about $1 USD per hour makes sense for long-distance buses.", "Tourist shuttles can be a life-saver. They are generally priced only marginally higher than the regular public buses, and can save you a whole world of hassle getting from A to B, especially in places like Sumatra where public transit can be a slow, painful grind. Tack on an extra 30-40% for the convenience.", "Internal flights are extremely cheap in Indonesia. It isn’t uncommon to find flights for as low as $30 USD on some routes. Keep in mind these budget airlines are rarely on time, often get canceled, and have strict weight limits. Always read the fine print about baggage allowance, since you’ll be expected to pay extra if you exceed the limit.", "Most ferries are very reasonably priced, however, there is a tendency to over-fill boats to a dangerous degree. If it seems too cheap or too full, maybe look for other travelers and spring for a private boat."]
+  },
+  "6": {
+    "header": "Daily Budget Breakdown",
+    "section": ["Budget", "Mid-Range", "Lux"],
+    "texts": [
+      [
+        "street food $5",
+        "moped rental $10",
+        "sunny day at the beach FREE",
+        "room with shared bathroom (p/p) $10",
+        "$25-30 per day"
+      ], 
+      [
+        "street food $5",
+        "tourist shuttle to Danau Toba $10",
+        "Borobudur entrance fee $25",
+        "double ensuite (p/p) $15",
+        "$45-55 per day"
+      ],
+      [
+        "restaurant dining $10 (+)",
+        "flight to Lombok $30",
+        "two tank dive in Pulau Weh $60",
+        "plush double (p/p) $40 (+)",
+         "$140+ per day"
+      ]
+    ]
+  }
+}

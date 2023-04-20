@@ -1,0 +1,27 @@
+{
+  "1": {
+    "header":"",
+    "section": [],
+    "texts": ["As long as you keep your wits about you and exercise the same good judgment as you would traveling anywhere, there is no reason to feel less safe in Indonesia than anywhere else. Cities tend to have more crime, and treating everyone with respect will get you a lot farther than being an asshat. It is a predominantly muslim culture so try to remember to be respectful and don’t partake in wild displays of PDA. In general Indonesia is a very friendly country."]
+  },
+  "2": {
+    "header": "Boat Safety",
+    "section": ["Sometimes They Sink", "Weather"],
+    "texts": ["Ok, I’ve said it before but it bears repeating: Always exercise caution when embarking on boat travel in Indonesia. The weather here is tropical and can be unpredictable. On top of that, the boats are typically small and often over crowded. Plenty of boats have sunk, and it turns out western tourists die just as easily as Indonesians do when they are underwater. Don’t be afraid to listen to your gut when faced with boat travel. If the boat looks too full, it probably is. Make a note of the exits if you are under the deck, and stay close.", "Weather can change quickly in the tropics, but if you see a darkening sky or feel a change in the air, maybe put your boat trip on hold. The last place you want to be when there is a fast approaching storm is out in the open sea on a boat the size of your dining table with a questionable hull and no sign of safety equipment. Trust me. I’ve been there."]
+  },
+  "3": {
+    "header": "Natural Disasters",
+    "section": ["Ring of Fire", "Volcanoes", "Have a Plan"],
+    "texts": ["Indonesia has an incredibly dynamic natural eco system. It’s located on the pacific ring of fire and is essentially, thousands of volcanoes all waiting for their moment to shine. Volcanoes DO erupt on a regular basis here. Krakatoa famously erupted in the late 1800’s, blocking out the sun for two years, killing crops in EUROPE.\n\nThe epicenter of the boxing day earthquake (and subsequent tsunami) of 2004 was right off the tip of Sumatra.", "Indonesia is a volatile land. When I was in Berastagi, one of the volcanoes was actively spewing ash across the whole town, blanketing everything in a lovely coat of white dust. At the same time Bali’s mount Agung was erupting, grounding planes for several days. It is still erupting, a year and a half later. I’m just saying, this place is the real deal.", "There isn’t a ton you can do during a disaster like that except pay attention, and have some sort of contingency plan in place for when things go wrong. Leave yourself some wiggle room if your plane gets grounded or your plans have to change. Obviously you can’t live your life trying to avoid bad things that might never happen, but don’t be reckless either. It’s a beautiful country, but she gets angry sometimes."]
+  },
+  "4": {
+    "header": "LGBTQ",
+    "section": ["Avoid PDA", "Sharia Law"],
+    "texts": ["For the most part, if you aren’t being openly affectionate in public, LGBT travelers shouldn’t have any issues in Indonesia. You might get a confused look every now and then, or a raised eyebrow if you are sharing a bed with a member of the same sex, but more than likely you won’t face direct harassment.", "There are some areas of Indonesia that are stricter than others in their interpretation of “moral law”. Banda Aceh, in Northern Sumatra is an example of a place that is governed by Sharia Law, and therefore condemns homosexuality and punishes said acts with flogging. There have been incidents of public floggings of gay Indonesians in the past. As per usual, tourists are generally exempt from such punishments, but unless you are planning on campaigning to change the laws, better to not invite the attention, or stir up a scene."]
+  },
+  "5": {
+    "header": "Wild Animals",
+    "section": ["Orangutans", "Leeches"],
+    "texts": ["Ok. Indonesia is an incredible place for interacting with beautiful, unusual, and very much wild creatures of the jungle. Even in places where animals are used to (limited) human exposure in semi-wild locations like Bukkit Lawang, an orangutan is still an orangutan and can smash your head open like a coconut without thinking twice about it.\n\nDon’t tempt them with a good time…. If you happen to go on a hike with a guide, you may see them interacting with the wildlife. Please don’t think that you can imitate their calls and get the same results. Orangutans don’t like to be teased, and with an adult male having the strength of about 10 men combined, you ain’t gonna win that fight.", "Leeches are also a thing in many parts of heavily jungled areas like Sumatra and Borneo. They are disgusting and I hate them. Wear long, THICK, socks over your pants, and try to wear shoes that limit their access. Either way you are more than likely to end up pulling a few of these blood soaked bastards off of your ankles after a day of hiking. Once a leech bites you, the enzimes in their saliva stop your blood from clotting for a short period of time, resulting in a continuous blood flow that looks worse than it really is. Still though, if you have any jungle camping plans, bear all this in mind."]
+  }
+}

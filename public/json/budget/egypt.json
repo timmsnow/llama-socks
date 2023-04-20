@@ -1,0 +1,54 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": "Your daily budget for backpacking Egypt can vary dramatically depending on how much time you have, and the level of comfort you are accustomed to and expecting. With the average cost of a meal range from $.50-$5 depending on what you are craving. The most budget-conscious traveler can easily travel on about $20/$25 a day depending on their activity."
+  },
+  "2": {
+    "header": "Accommodation",
+    "section": ["Budget/Backpackers", "Midrange", "Luxury"],
+    "texts": ["In Cairo, and actually in all the major cities, you’ll find a plethora of low-cost budget hotels. Hostels with brightly painted Bob Marleys and rooftop chill-out areas are not in short supply either. Finding a private room in a centralized location for $10 is more than doable.", "If you prefer something a little more plush, mid range accommodations can be found for around $20-40 a night. These hotels are likely to be geared towards Egyptian business men, and are often lacking in character.", "High end and chain hotels with room service and swimming pools like the Kempinski will generally put you up for around $150-250 depending on season and room type. One thing about luxury hotels in Egypt is that they tend to be isolated from the rest of the city, surrounded by western-style expensive restaurants, and it can be hard to find budget ANYTHING within walking distance. You likely won’t have much access to public transit either. This means fancy sleeping can snowball into fancy everything, which can be a real budget killer.\n\n*also note… if the pool is on the roof…. it’s likely to be a hot dip."]
+  },
+  "3": {
+    "header": "Activities",
+    "section": ["The Pyramids", "Tours etc", "Shop Around"],
+    "texts": ["The pyramids are the most expensive site you will visit in Egypt, and all of the other museums and temples are significantly cheaper (if visited independently). Visiting the pyramids of Giza will set you back 160 EGP ($9) for the site, 360 EGP ($20.50)  to enter the Great Pyramid, or 500 EGP for a combined ticket.\n\nYou can enter the other pyramids as well, and I definitely recommend it. Honestly it is not very much money for a once in a lifetime experience.", "There are all manner of tours and packages available should you decide to go that route. In some cases, like when visiting the Desert, that may be the ONLY route you can go. Tours, of course, range in price depending on whats on offer. A good general rule to remember if you are embarking on a tour, you tend to get what you pay for.", "It may be worth it to shell out a few extra bucks if it means having a guide you can communicate with, and scoring a car with seat belts and a working radiator. That being said, tourism is a huge market in Egypt. There is no reason why you can not ask for a lower price if you feel like you are being sold something above market value. Shop around and go with your gut."]
+  },
+  "4": {
+    "header": "Food",
+    "section": ["General", "Koshari", "Alcohol", "Refridgeration"],
+    "texts": ["Food in Egypt is cheap and cheerful. There are affordable counter service restaurants just about everywhere you go. It’s easy to eat here for about $1-5 USD per meal. There are fantastic juice stands that you can take advantage of as well. Cheap, fresh squeezed juice for pennies.", "Koshari restaurants are ubiquitous in Egypt. These places serve up super cheap variations of the Egyptian staple. A typical plate of Koshari will consist of rice, pasta, lentils, chick peas, garlic and innumerable spices among other ingredients. While somewhat ummm, utilitarian in taste, it certainly gets the job done. You will be fed and happy for between $1-4 depending on how much you decide you want to gorge.", "The cost of a half liter of beer is around $1-2 depending on where you buy it, however do not expect to find many places selling alcohol. Outside of tourist hotels you will only find beer in one or two shops around town, even in a giant city like Cairo.", "Even if you do find your beer don’t expect it to be refrigerated. Ice and refrigeration are sparse here, so plan ahead if you’re embarking on a trip and need to keep your drinks cold. Western places like McDonalds will always have ice, see if you can strike a deal and buy a bag off of them."]
+  },
+  "5": {
+    "header": "Transit",
+    "section": ["Taxi", "Train", "Bus and Minivan"],
+    "texts": ["Taxi’s are reasonably priced although if you are a competent haggler that will come in handy. Don’t count on a meter being used, even if it is operational, chances are you’ll need to agree on the price before you get in. Uber has started operating in Cairo as well, so only time will tell if this is a good option, however if things run smoothly, theoretically it could save you a good deal of energy and headache.", "The trains in Egypt run pretty smooth, and actually aren’t too expensive. A first class sleeper from Cairo to Aswan will cost you $120 USD for a single cabin, or $80 per person for double occupancy. If you’re just looking for a seat, the same train ride will cost about $40 USD. That’s for an 8-hour journey. Not bad at all. It’s even less if you’re willing to ride 2nd class (something like $2 USD per hour).", "Bus and minivan travel is THE cheapest way to get around the country. Most rides won’t cost more than a few Egyptian pounds. If you’re going a long distance the bus is likely to cost you something like $.75 or $1  per hour.\n\nExtremely affordable."]
+  },
+  "6": {
+    "header": "Daily Budget Breakdown",
+    "section": ["Budget", "Mid-Range", "Lux"],
+    "texts": [
+      [
+        "street food $5",
+        "fresh juice $2",
+        "Cairo Museum $7",
+        "backpacker dorm bed $5",
+        "$20 per day"
+      ], 
+      [
+        "street food $5",
+        "taxi to the pyramids $12",
+        "2 warm beers $6",
+        "budget private room $10-15",
+        "$25-40 per day"
+      ],
+      [
+        "western meals $15-30+",
+        "taxi only $10-15+",
+        "entrance to Great Pyramid $21",
+        "plush double at the Kimpinski (p/p) $100 (+)",
+         "$150+ per day"
+      ]
+    ]
+  }
+}

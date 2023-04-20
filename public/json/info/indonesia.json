@@ -1,0 +1,27 @@
+{
+  "2": {
+    "header": "Electricity",
+    "section": ["Voltage", "Plugs and Sockets"],
+    "texts": ["The electricity in Indonesia is 230 volts, 50 hz. This means if you are using some of the more electro-intensive appliances like hair-dryers, you may want to buy them in Indonesia as opposed to bringing them from home, since it is likely they are not compatible with the higher voltage.", "In Indonesia the power plugs and sockets are of the European (round pin) type C and F."]
+  },
+  "3": {
+    "header": "Driving",
+    "section": ["", "Car Rental"],
+    "texts": ["In Indonesia you will drive on the LEFT side of the road.", "In order to rent a car in Indonesia you must be over 23 years of age and have a drivers license from your home country that has been valid for at least one year. An IDP (international drivers permit) is also required in order to be legal.\n\nYou must have a credit card in the name of the primary driver in order to reserve and rent a car.\n\nIt is a very good idea to keep a copy of your passport on you at all times when driving in Indonesia."]
+  },
+  "4": {
+    "header": "Visa Information",
+    "section": ["Visa Free", "You Can't Extend", "In and Out Every 30 Days"],
+    "texts": ["Citizens of MOST countries can gain entry into Indonesia without obtaining a visa as long as their stay is less than 30 days and their passport is valid for atleast 6 months from the time they enter the country. There are a few African and Middle Eastern countries, as well as Colombia, and Israel, whose citizens are required to obtain their visa beforehand from a consulate.", "If you opt for the visa-free option, you are not eligible for an extended stay past 30 days. That means you will be required to leave the country and then come back if you would like to extend. There is a visa on arrival that is eligible for extension which you can obtain upon arrival at the airport. It is also valid for 30 days but can be extended, once at the immigration office for another 30 days.", "It’s entirely up to you which you prefer, but I had no problems with the visa free option and simply explored some neighboring countries for a few weeks in-between my visits to Indonesia. No one seemed to mind that I had been there recently and the cost of my flights were not much more than it would have been to buy the visa and extend it anyway."]
+  },
+  "5": {
+    "header": "When to Visit",
+    "section": ["", "Java/Bali", "Sumatra", "Northern and Eastern Islands"],
+    "texts": ["Indonesia has many separate monsoon seasons depending on where you are geographically.", "The wet season for most of Indonesia ( Java, Bali) is from roughly September to March, however the further south and east you go the later the monsoon starts and ends. and the dry season is from March or June (depending on the area) to September.", "In Sumatra the rainfall is primarily from September to December.", "On the flip side, in areas like West Papua, and on Borneo there aren’t exactly monsoon seasons per se. Kalimantan (Borneo) is hot, and humid, with rainfall throughout the year. If you are planning on visiting these islands just take the rain with the dry. But it is best to work around the monsoon seasons of the other islands as it can greatly affect boat/plane travel."]
+  },
+  "6": {
+    "header": "Language",
+    "section": ["", "Regional"],
+    "texts": ["The official language of Indonesia is Bahasa Indonesia. It is very similar to Malaysian Bahasa. English is the language of tourism, and most people who work directly with the industry will have some working knowledge of English.", "Most Indonesians speak another language in addition to Bahasa, especially in the more rural and isolated areas of the country. There are over 700 local languages spoken regionally, Javanese, Sundanese, and Balinese to name a few."]
+  }
+}

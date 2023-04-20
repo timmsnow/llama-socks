@@ -1,0 +1,27 @@
+{
+  "6": {
+    "header": "Electricity",
+    "section": ["Voltage", "Plugs and Sockets", "Outages"],
+    "texts": ["In Egypt the standard voltage is 230 V and the frequency is 50 Hz. This is the same as in most of the neighboring countries, so if you’ve purchased any appliances in Europe or Africa you should be good to go. Most appliances are designed for dual voltage, however some bigger appliances like hair dryers may cause issue if they run on 110 V (like American appliances).", "Egypt uses European style power plugs and sockets. (type C and F)", "Egypt experiences frequent power outages, so charge up when you can. Black outs can last several hours so you ‘ll want to make sure your camera is charged and ready to go."]
+  },
+  "2": {
+    "header": "Driving",
+    "section": ["", "Legal Requirements", "Things to Know"],
+    "texts": ["In Egypt, you will drive on the RIGHT side of the road.", "In Egypt you must have a full drivers license from your home country as well as an International Drivers Permit. Seatbelts must be worn at all times. It is also mandatory to keep a first aid kit in your vehicle in case of emergency. The speed limit is 60 kmph in cities, and 90 kmph on the motorways unless otherwise listed.", "Driving in Egypt is NO JOKE, especially in cities like Cairo. Seriously, it’s QUITE chaotic. Traffic lights are often not in working order, and road rules are not always adhered to. Traffic accidents are more than common, so be alert at all times if you decide to tackle driving here. Parking is a pain, horns get used A LOT, and people are literally everywhere. Be careful. I don’t recommend driving."]
+  },
+  "3": {
+    "header": "Visa Information",
+    "section": ["", "Visa on Arrival", "Prior to Arrival"],
+    "texts": ["MOST visitors are required to secure a visa in order to visit Egypt.", "That being said, visas are available on arrival at the airport for citizens of many countries including the European Union, United States, UK, Australia and New Zealand, and many Latin American countries. Visas on arrival generally cost $25 USD and are valid for 30 days.", "If you are like me and prefer to get your visas in advance, arrange a visa beforehand with your nearest Egyptian consulate. Not only will you protect yourself from any misunderstandings at the border, the visa’s look spiffier, and you can save yourself time when you land."]
+  },
+  "4": {
+    "header": "When to Visit",
+    "section": ["Peak Season", "Summer", "Shoulder"],
+    "texts": ["October to April marks the peak tourist season, when temperatures are at their lowest. Along the Mediterranean coast during this time of year it can be cool, windy, and humid, with occasional rains.", "The summers in Egypt are brutally hot. This is the desert. Most of the ancient sites will be in areas with very little rain fall. It can be a wearisome time for travelers as temperatures can reach 50 degrees centigrade and the intense summer sun is ever-present.", "I recommend traveling in the shoulder seasons.. (April-May/November-October). You certainly won’t be bundling up from the cold, but you can still expect less crowds at all the sites then in the peak season. Even in May places like the Valley of the Kings and areas with little shade will be extremely hot.\n\nRegardless of when you come, bring lot’s of sun protection and make hydration a priority."]
+  },
+  "5": {
+    "header": "Language",
+    "section": ["Spoken", "Script", "English"],
+    "texts": ["Egyptian Arabic or “Masry” (which literally means Egyptian), is the most commonly spoken language in the country, however in more remote areas you may hear Berber, or even Nubian languages being spoken.", "Arabic script is the primarily written language in Egypt. Some museums will include English lettering as well, but don’t count on it. Arabic numbers are different as well. It can be helpful to learn a few.", "It is relatively easy to navigate the country with English. English is taught in most schools and you can be assured that tour guides and most individuals working in the tourist industry will have some working knowledge of English. And Spanish. And French. And Hungarian. Seriously, they speak everything."]
+  }
+}

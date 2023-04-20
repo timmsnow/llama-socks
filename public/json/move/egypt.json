@@ -1,0 +1,32 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": ""
+  },
+  "2": {
+    "header": "Plane",
+    "section": ["International", "Domestic"],
+    "texts": ["Flying into Cairo is pretty straight forward. Egypt Air is a member of the Star Alliance group (United, Lufthansa, etc) and there are direct flights from many major western cities. The airport has two separate terminals, with free shuttle buses between the two.", "Domestic flights are cheap and quick, rarely lasting more than one hour. A one way flight from Cairo to Luxor can be as cheap as $48. It can be a great time saver to fly especially if you are trying to cover a lot of ground, say from Cairo to Aswan, or if you are heading to the Sinai."]
+  },
+  "3": {
+    "header": "Train",
+    "section": ["", "Approximate Pricing", "Get Tickets in Person"],
+    "texts": ["Egypt’s rail network is a great option. It’s affordable, comfortable, and easy to use (you’re going north or south, that’s about it). The train basically runs parallel to the Nile, making stops in major cities up and down the country.", "A private sleeper cabin for an overnight train from Cairo to Aswan is around $80 per person for two people sharing, or $110 for sole occupancy, although the second and first class recline seats are much cheaper if you want to save a bit of money. Shorter trips are extremely affordable and operate regularly throughout the day.", "Tickets can be bought directly at the train station. It is wise to buy the sleeper tickets a few days in advance if you can as the cabins are limited."]
+  },
+  "4": {
+    "header": "Bus",
+    "section": ["", "Traffic and Safety", "Minivans"],
+    "texts": ["Egypt’s bus network is extensive, with long-distance buses servicing the majority of the country. Some bus companies will allow you to book seats in advance, while others will sell their seats based on last minute availability.", "While the buses are cheap, unless you are heading somewhere not serviced by the Rail line, I would avoid the bus. Traffic in the cities is terrible and there are some safety concerns regarding some of the cheaper bus companies. Police estimate that road accidents kill over 6,000 people in Egypt each year, which is a high rate for the countries population. Other sources estimate an even higher death rate. Dying on a bus in Egypt ranks as one of my least preferred ways to die. Go for the train.", "For short haul trips, between smaller towns, minivans are a fast and efficient means of transit, and sometimes they are the only option. You can wave them down on any main road."]
+  },
+  "5": {
+    "header": "Taxi",
+    "section": ["City Travel", "Uber?"],
+    "texts": ["For travel within Cairo or Alexandria, taxi’s are certainly the quickest way to get around town. I recommend it over trying to navigate the myriad minibus lines that criss-cross Cairo like a stampeding herd of high-impact metal buffalo. It is possible to get around with public transit, but you better know where you are going or be ready to jump off if the bus starts heading in the wrong direction. It can get extremely confusing. Luckily, taxi’s are everywhere in the major cities. Be ready to haggle if you hail one on the street. Hotels can often arrange a taxi for you and get you a fixed price.", "Uber has recently started operating in Cairo, which will save you a good deal of money as well as energy spent on haggling. It may be helpful to learn a few Arabic numbers so you can check the license plate to be ensure you are getting in the correct vehicle. There have been reports of Uber’s canceling or just not showing up, so be prepared for possible longer wait times."]
+  },
+  "6": {
+    "header": "Boat",
+    "section": ["Felucca", "Cruises"],
+    "texts": ["There is nothing like the feeling of taking a multi-day felucca ride down the Nile. Felucca boats are wind-powered vessels that transport you up and down the Nile in much the same fashion as has been done for the last 5000 years. You can charter a boat for a couple hours or for several days depending on your schedule and your destination. The captain (or small crew) will arrange all your food and provide you with bedding on deck so you can sleep under the stars. Group sizes depend on price and availability. Spend a day shopping around to get the best information. Read more about the Felucca’s in the HIGHLIGHTS section under “The Nile”.", "Alternatively there are more luxurious river cruise vessels that include private rooms. Prices range and the travel schedules are a bit more rigid than the do-what-you-want felucca journey."]
+  }
+}

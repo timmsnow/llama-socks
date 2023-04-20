@@ -1,0 +1,27 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": ""
+  },
+  "2": {
+    "header": "Plane",
+    "section": ["Domestic", "International", "It's Cheap"],
+    "texts": ["Indonesia has several major domestic carriers. The Lion Air group consists of Wings Air, Batik air, and, unsurprisingly, Lion Air. This “group” generally flies everywhere and they are all pretty cheap. Flights in Indonesia are often delayed due to weather, or… other reasons I’d rather not think about, but I found Lion Air to be particularly consistent in their delays. Bring a book.", "The Lion Air Group also flies abroad, though mostly just to Malaysia. Garuda Air seems a bit more reliable, and has a good flight record. There are a number of smaller, budget airlines, and you can often find cheap flights on Air Asia as well.\n\nFor long haul flights in and out of Indo, you’ll most likely be arriving in Jakarta or Denpensar, Bali.", "Flying is cheap here, and a necessary evil if you want to see more of the country than just one island. Even small distances can take an exceedingly long time if traveling by land, flying will save you a good deal of headaches."]
+  },
+  "3": {
+    "header": "Taxi",
+    "section": ["Price Check", "Uber?"],
+    "texts": ["Taxi’s exist in many forms in Indonesia. Tuk-tuks, motorbikes, and cabs will get you everywhere you need to go, but make sure to discuss the price first before climbing aboard.", "Uber has operated in some areas in the past but some local areas have banned Uber from operating, or in some instances, local taxi gangs have “convinced” Uber drivers that it isn’t worth their time to work in the area. If you do secure an Uber, you may find them canceling on you in the last minute. Grab is the Indonesian version of Uber, but you need an Indonesian number in order to use it, so consider getting a sim card."]
+  },
+  "4": {
+    "header": "Boat",
+    "section": ["Long-haul Ferries", "Boat Safety", "Remote Areas", "Avoid Bad Weather"],
+    "texts": ["Boats in Indonesia are tricky. There are giant ferries that can take passengers between islands, although most of the routes involve not-so-placid waters and can take a really long time. For not that much cheaper than a flight, it hardly seems worth the trauma.", "Boat safety is not something to be taken lightly here. Boats are often packed to way over capacity, and there are enough occurrences of tourist-filled boats going down mid-journey to warrant some concern. If you are going below deck, make sure you are near an exit and know where the life preservers are. Seriously.", "In some more remote areas, like the Togean islands, the boat “captians” are often local towns-people who have borrowed a boat in order to make a days living. While contributing to the local economy is a wonderful enterprise, double check that this person actually knows how to handle a boat in open water. Extreme poverty can make people take illogical risks.", "Always avoid bad weather. If the sky looks dark, don’t go, regardless of what the skipper has to say."]
+  },
+  "5": {
+    "header": "Bus",
+    "section": ["It Can Take Awhile", "Tourist Shuttles"],
+    "texts": ["Travel by bus in Indonesia is not the most comfortable affair. Anywhere outside of the metropolitan areas, and especially outside of Java, the roads go from pretty crappy to OH NO WE’RE NEVER GOING TO GET THERE. Your butt will be ready for retirement after you’ve spent some time navigating the roads of Northern Sumatra.", "For a little extra money you can generally opt for whats referred to as a “tourist bus”, which is actually either a minivan, or some other 5-6 passenger vehicle. These will transport you from most of the more well known destinations, and tend to leave on a reliably regular schedule. Now do not expect to be comfortable, but they aren’t much more expensive than the regular local transit and you can count on getting there in substantially less time. Afterwards, when you’re exorcizing the demons out of your lower back, you can thank yourself for spending the extra $3."]
+  }
+}

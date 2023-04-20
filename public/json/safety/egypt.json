@@ -1,0 +1,27 @@
+{
+  "1": {
+    "header":"",
+    "section": [],
+    "texts": ["Backpacking Egypt is by no means dangerous. I felt completely safe during my time in Egypt. Cairo is chaotic, road safety is questionable, and terrorist attacks do, (very rarely) happen, but if you keep a few things in mind while you are in Egypt you can help reduce your risk of encountering any major misfortune."]
+  },
+  "2": {
+    "header": "Traffic",
+    "section": ["Cities", "Driving"],
+    "texts": ["Honestly, the most terrifying aspect of travel in Egypt is crossing the street. This is really only a problem in major cities like Cairo and Alexandria, but seriously, it’s a truly hair-raising situation. The traffic in the streets is near continuous and the drivers have zero interest in stopping or slowing for anyone. If you step into the road without looking, you WILL get hit, and you WILL be dead. Don’t do it. Proceed with caution at EVERY intersection, and buckle up every time you’re in a moving vehicle.","If you are self-driving, always make sure you have spare tires and plenty of water. Desert roads are hot, isolated, and often empty. Help might be a long wait away."]
+  },
+  "3": {
+    "header": "Solo Female Travelers",
+    "section": ["Cover", "Basics", "Look For Local Women"],
+    "texts": ["It is such a shame that we live in a world where women have to take extra care wherever they go. Unfortunately Egypt is no different in that regard. While generally safe, in order to avoid unwanted attention and potentially dangerous encounters with angry men, try to keep the skin to a minimum. Long pants and even long sleeves can be a good idea. It is perfectly safe to walk around without a Hijab, however if you wanted to blend in a little more, it wouldn’t hurt to keep one handy.", "If you’re backpacking Egypt by yourself, walking around at night is probably not a good idea. Take a taxi instead, preferably one that you know has been vouched for, maybe by your hotel, or someone you know. Uber operates in Egypt now and can be a good option since the cars are tracked. Avoid tuk-tuks as there have been reports of violent attacks against women from time to time.", "If you feel nervous about someone nearby, try to find local women to walk with or start a conversation with. Nobody understands the plight of a woman more than another woman. Most locals are extremely friendly and accommodating and want to help keep you safe."]
+  },
+  "4": {
+    "header": "LGBTQ",
+    "section": ["", "Legality", "In the Hotel", "Gay Bars", "Come Anyway"],
+    "texts": ["Egypt is not known for being a queer-friendly country.", "Homosexuality is currently illegal. ALWAYS err on the side of caution concerning LGBT matters in Egypt. Do not outwardly show any public affection to a member of the same-sex.", "While high-end hotels will certainly not turn away same-sex couples, it may be a good idea to keep it quiet in the budget hotels. If you take a room with a member of the same-sex, don’t insist on a double bed, push the single beds together later.", "Gay bars and meeting places have been continually targeted and raided over the years. The situation is bad and it doesn’t seem to be getting better. Public sentiment is markedly anti-gay. It’s probably better to shelve any conversations about sexuality for now.", "That being said, I felt 100% safe during my time in Egypt, even when traveling with my same-sex partner. Although it is frowned upon, gay tourists seem to be tolerated. As long as you exercise caution, and stick to the no-PDA policy, you should be able to have a fantastic trip without issue. For more info click here."]
+  },
+  "5": {
+    "header": "Terrorism",
+    "section": ["", "Don't Stress", "Sinai", "Remote Areas"],
+    "texts": ["Everybody’s favorite travel concern….", "Terrorism in Egypt is something that happens, and is something you should be aware of. That being said, the same is true of Paris, London, Tokyo, and just about every movie theater, church, or concert venue in the United States. The likelihood of being affected by an act of terrorism abroad is small, but I get it, it is terrifying, and Egypt is no stranger to the occasional bout of trouble.", "Since 2013 more than 500 people have died as a result of terrorism in Egypt. Groups typically targeted by terrorist organizations include government officials, police, tourists and the Christian minority. Parts of the Sinai peninsula have had waves of attacks throughout the years and as with anywhere it is wise to keep your eyes open when moving around in that part of the country.", "Certain remote desert trips may require you to travel in a convoy with military escort. While this does not necessarily mean the journey is unsafe, this is for your own protection and should not be ignored. I tend to take the US Travel advisories with a grain of salt, but you can read them here if you would like."]
+  }
+}
