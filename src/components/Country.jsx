@@ -58,51 +58,51 @@ const Country = () => {
   return (
     <div>
       <Container fluid className="banner-container">
-        <img src={COUNTRY_BANNERS[banner]} className="App-log" alt={country + " banner"}/>
-      </Container>
-        <Tabs
-      defaultActiveKey="home"
-      id="uncontrolled-tab-example"
-      className="mb-3"
-    >
-      <Tab eventKey="home" title="Home">
-        <div className="intro-container" dangerouslySetInnerHTML={{ __html: introduction }}></div>
-      </Tab>
-      <Tab eventKey="explore" title="Explore">
-        <Explore country={country.match(/[A-Z][a-z]+/g).join(' ')} />
-      </Tab>
-      <Tab eventKey="info" title="Info">
-        {infoData && <Info country={country.match(/[A-Z][a-z]+/g).join(' ')} data={infoData} />}
-      </Tab>
-      <Tab eventKey="move" title="Move">
-        {moveData && 
-        <Container>
-          <Move country={country.match(/[A-Z][a-z]+/g).join(' ')} data={moveData} />
-        </Container>
+      <Tabs
+        defaultActiveKey="home"
+        id="uncontrolled-tab-example"
+        className="mb-3"
+        >
+        <Tab eventKey="home" title="Home">
+          <img src={COUNTRY_BANNERS[banner]} className="App-log" alt={country + " banner"}/>
+          <div className="intro-container" dangerouslySetInnerHTML={{ __html: introduction }}></div>
+        </Tab>
+        <Tab eventKey="explore" title="Explore">
+          <Explore country={country.match(/[A-Z][a-z]+/g).join(' ')} />
+        </Tab>
+        <Tab eventKey="info" title="Info">
+          {infoData && <Info country={country.match(/[A-Z][a-z]+/g).join(' ')} data={infoData} />}
+        </Tab>
+        <Tab eventKey="move" title="Move">
+          {moveData && 
+          <Container>
+            <Move country={country.match(/[A-Z][a-z]+/g).join(' ')} data={moveData} />
+          </Container>
+            }
+        </Tab>
+        <Tab eventKey="budget" title="Budget">
+          {budgetData &&
+          <Container>
+            <Budget country={country.match(/[A-Z][a-z]+/g).join(' ')} data={budgetData} />
+          </Container>
           }
-      </Tab>
-      <Tab eventKey="budget" title="Budget">
-        {budgetData &&
-        <Container>
-          <Budget country={country.match(/[A-Z][a-z]+/g).join(' ')} data={budgetData} />
-        </Container>
-        }
-      </Tab>
-      <Tab eventKey="sleep" title="Sleep">
-        {sleepData && 
-        <Container>
-          <Sleep country={country.match(/[A-Z][a-z]+/g).join(' ')} data={sleepData} />
-        </Container>
-        }
-      </Tab>
-      <Tab eventKey="survive" title="Survive">
-        {safetyData && 
-        <Container>
-          <Safety country={country.match(/[A-Z][a-z]+/g).join(' ')} data={safetyData} />
-        </Container>
-        }
-      </Tab>
-    </Tabs>
+        </Tab>
+        <Tab eventKey="sleep" title="Sleep">
+          {sleepData && 
+          <Container>
+            <Sleep country={country.match(/[A-Z][a-z]+/g).join(' ')} data={sleepData} />
+          </Container>
+          }
+        </Tab>
+        <Tab eventKey="survive" title="Survive">
+          {safetyData && 
+          <Container>
+            <Safety country={country.match(/[A-Z][a-z]+/g).join(' ')} data={safetyData} />
+          </Container>
+          }
+        </Tab>
+      </Tabs>
+      </Container>
     </div>
   );
 }

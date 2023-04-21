@@ -1,0 +1,27 @@
+{
+  "2": {
+    "header": "Electricity",
+    "section": ["Voltage", "Plugs and Sockets"],
+    "texts": ["In Europe the voltage is 220 V with a standard frequency of 50 Hz. If you have an appliance designed to run on 110 V at 60 Hz, (like most standard American appliances) the vast majority will be able to operate just fine using only the European plug adapter.\n\nHowever, double check your appliance as some of them (like hair curlers and hair dryers) will not be able to handle the change in voltage without an actual voltage converter. You should know how your appliance takes electricity before plugging it into a foreign socket to avoid self-destruction.", "The European plug socket is the type F plug.\n\nIt is has two rounded plugs and is typically ungrounded by a third plug."]
+  },
+  "3": {
+    "header": "Driving",
+    "section": ["", "Car Rental", "IDP"],
+    "texts": ["Driving in Italy is done on the RIGHT hand side of the road.", "The legal driving age in Italy is 18, however in order to rent a vehicle you must be in possession of a driver’s license that has been valid for at least one year. There is a strong chance that drivers under the age of 25 will incur an extra “young driver” fee when renting a car from a rental agency.", "Recently, Italy has made it a requirement that all foreign drivers have an IDP (international drivers permit) in addition to their home country license. Your rental agency may not ask you for this when renting you the car, however you are surely at the mercy of the Italian police should you get pulled over and caught without one."]
+  },
+  "4": {
+    "header": "Visa Information",
+    "section": ["", "Schengen Free-Zone", "90 Day Visa"],
+    "texts": ["Italy is part of the EU, as a result all the required permissions for entering a member state of the EU apply here.", "As a part of the EU, Italy participates in the Schengen visa program and is part of the EU free-zone. This means that travel between any other country in the Schengen free-zone TO Italy can be done without border checks.", "The Schengen Visa is valid for a stay of up to 90 days within a six month period. If the entire 90 day period is used, the passport/visa holder is required to exit the Schengen area for a period of at least 3 months (90 days) before they are eligible for re-entry. This means no sneaky border runs to renew your visa!\n\nPeople wishing to stay longer in the Schengen zone will have to apply for a student, work, or residency visa which I’m sure is a lot of fun and not a bureaucratic nightmare at all. Uh huh.\n\nThe visa can take the form of an entry stamp in your passport, or a visa page depending on your nationality."]
+  },
+  "5": {
+    "header": "When to Visit",
+    "section": ["", "High Season", "Ferie", "Shoulder Season", "Winter"],
+    "texts": ["Italy is a country that offers different experiences seasonally and frankly, you can sign me up for a visit any time of year. But with that in mind…..", "The high season is in the summer, when the majority of tourists from around the world flock to the country to take advantage of the HOT weather, the beautiful beaches, and the long, sunny days. It’s pretty busy virtually everywhere you go in Italy from June through September, with August being particularly insufferable at the major tourist hotspots.", "In addition to larger crowds, travelers may find August even more difficult due to the Italian tradition of “Ferragosto”, or “Ferie” for short. This is an un-exact period of time in which Italians shutter their businesses and go on vacation. Some for two weeks, some for a month, some for as long as they freakin’ feel like it. Big businesses and chains are rarely affected by the Ferie, however, many local restaurants, smaller B and B’s, and that one gelato place you’ve been reading about for months might all be closed for an unspecified number of days in August. It can be frustrating any times, but just remember…. there’s a lot of gelato shops in Italy, you’ll be fine.", "The shoulder seasons of May and September-October can be a great time to visit southern Italy and Sicily. In theory, the crowds have begun to disperse, but the weather remains warm and beach-able. However, April/May and October/November are often the wettest months of the calendar year, though you’ll still find plenty of sunshine to balance it out.", "The winter months in Italy are not as cold as say, Central Europe, but it can get frigid, especially in the north and in the higher altitude regions. Ski season gets underway by December and prices go way down in every other part of the country. Some smaller hotels may close up for the season, especially in smaller beach towns and summer holiday destinations."]
+  },
+  "6": {
+    "header": "Language",
+    "section": ["", "English?", "Give it a Shot!"],
+    "texts": ["Italian. It’s a beautiful, lyrical Romance language based in Latin.", "English is spoken in small capacities in major cities and tourist areas, although you shouldn’t count on it , and learning some conversational Italian will go a long way to getting you some respect as well as making new friends.", "Most Italians are extremely friendly and helpful when they hear a foreigner attempting to speak their language and will not hold your ignorance against you as long as you’re giving it your best shot."]
+  }
+}

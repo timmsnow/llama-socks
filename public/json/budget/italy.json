@@ -1,0 +1,54 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": "Italy is not the *cheapest* country in the world, and some of the costs are unavoidable, but like everywhere else, employing a little patience, effort, and strategy will go a long way to regulating your budget. Keep in mind that traveling in Italy is all about the FOOD. Make sacrifices in your accommodation and transit costs in order to make room for some seriously unforgettable meals. If you’re going to splurge on anything, save it for dinner."
+  },
+  "2": {
+    "header": "Accommodation",
+    "section": ["Type", "Nightly Cost", "Airbnb?", "City Tax"],
+    "texts": ["These days, finding decent accommodation in Europe is not a budget travelers game, and Italy is no exception. While there are still youth hostels in most major cities, most of the midrange and budget accommodation comes in the form of B & B’s, shared guesthouses, and small boutique hotels. You can pretty much count on your accommodation taking up a solid third of your daily budget here. That being said,  traveling in the off-season is always rewarding for the wallet, and you’ll see prices start to fall dramatically even in the shoulder seasons.", "The average nightly cost of a double room in a budget hotel is between €50-70. It’s still possible to find hostel dorm beds for upwards of €10, but of course, they vary greatly in quality. A good number of the smaller Hotels will offer ensuite rooms as well as cheaper rooms with shared bathrooms. Saving €10-15 a night on a private bathroom can make a big difference in the long run.", "AIRBNB has become increasingly popular for tourists in Italy. They tend to be cheaper than most hotels, centrally located, and with most rentals including a guest kitchen, it’s an easy way to save a ton of cash on food.", "One thing to note is that in Italy, every city has a nightly city tax applied to each person, which is generally NOT included in the booking fee. The tax can range from €1 pp/pn to upwards of €4 pp/pn. Make sure you factor in this extra cost when planning your accommodation budget."]
+  },
+  "3": {
+    "header": "Activities",
+    "section": ["", "Churches", "Beaches", "Museums/Entry Fees", "Guided Tours?", "Free Day?"],
+    "texts": ["Fortunately there are a great deal of free and/or cheap activities to keep you busy in Italy.", "Every consecrated Christian church in Italy is free for the public to enter. There may be extra charges for gaining access to rooftops, belfrys, basements, and any number of other holy add-ons, but entrance to the main service hall is always free of charge.", "Beaches in Italy are free unless otherwise posted, although beach attendants may try to bully you into paying for a sunbed. Private Lido’s tend to be NOT-so-cheap, with base-rates non-inclusive of drinks or other additionals.", "Museums and entry fees depend heavily on location and popularity, however as a general rule the prices won’t break your budget. (For example, regular access to the Colosseum+Palantine Hill+Forum costs just €16 for an adult). Citizens of the EU aged between 18-25 almost ALWAYS get a discount, so if that’s you, congratulations!. Foreign students no longer receive discounts.", "However, for guided Tours, skip-the-line tickets, and exclusive-area tickets (such as top floor access to the Colosseum), you can expect to shell out a good deal of money. Prices vary based on supplier but for the same Colosseum package tour with special area access, I’ve seen upwards of €90 for one ticket. Choose your tour wisely.", "Many museums and attractions have “free-days” every couple weeks or once a month. This really does mean you can visit the site for free, but you know you won’t be the only one, so be prepared for even LONGER lines than usual."]
+  },
+  "4": {
+    "header": "Food",
+    "section": ["", "Cheap Eats", "Drinks", "Tipping", "Cover?", "Aperitivo"],
+    "texts": ["This is where my budget always falls apart. Not because there aren’t great, cheap options, but because there is SO MUCH GOOD FOOD that I can’t stop myself. And you should absolutely splurge once in awhile. The food in Italy is a huge part of the country’s identity, and generally worth every penny.", "You can pretty much count on every menu offering at least one pasta dish for €8 (or less). Takeaway Pizza sells for €5 a pie, even in the pricier cities. Getting a room with a guest kitchen and stocking up on breakfast food will go a long way to tightening the budget.", "Wine is everywhere, and extremely cheap. You can score a decent bottle for as little as €3, and a GREAT bottle for €10. Beer is the usual €2 per half liter.", "Tipping is not compulsory or even common in Italy, however, leaving a few euros after a nice meal is appreciated, and leaving your change on the coffee bar after a quick macchiato is not a bad way to share the love.", "Most sit-down restaurants will charge a “cuperto” or cover charge, generally in the range of €1-3 range per person. You may want to ask upfront if this is the case. This addition to your bill does not generally go to the waiter, so if you’d like to leave a tip you’ll need to leave more on top of the total. Additionally, some coffeeshops may have different prices for individuals occupying a table instead of the coffee bar. Always ask if there is a difference in price before taking a seat, ESPECIALLY in major tourist areas.", "A GREAT WAY to save on your dinner budget is to seek out the Aperitivo specials that pop up in many a bar in the early evening. This is cocktail hour with a twist. Often bars will serve big buffet platters, included in the price, for customers ordering a drink or two. After your second round of spritz and a few heaping plates from the buffet you may not even need to go to dinner. And the best part is, everybody’s doing it. It’s the Italian way."]
+  },
+  "5": {
+    "header": "Transit",
+    "section": ["Train", "Rail Pass?", "Car Rental", "Metro"],
+    "texts": ["The train network in Italy is extensive and, for the most part, efficient. Most regional trains are priced extremely fair, and booking in advance can, at times, save you a good bit of money. The high-speed rail is exponentially more expensive, but can cut down travel time considerably. So, as with everything in life, you can either pay in time or money.", "Getting a Euro-rail pass can either be helpful or disastrous for your budget depending on your situation. If you decide to get an ITALY rail pass, make sure that you’re taking full advantage by using it for the most expensive trains and routes. Also, keep in mind that most high-speed trains will charge you a €10 seat reservation fee PER train ride, on top of the cost of your pass. The slower trains tend to charge around €3-5 for a seat reservation.", "Renting a car in Italy can be really affordable. Booking online through third party websites can often get you a great deal.  Long term rentals especially are surprisingly cheap. Petrol however, is not exactly a steal. A full tank of gas in an economy vehicle will generally run you about €50-70 each time.", "Most local transit options are cheap compared to other European countries and hover in the €1-2 range per ride. Most cities have multi-day transit passes available, and generally speaking a single-ride ticket will last for between 70-100 minutes of travel time."]
+  },
+  "6": {
+    "header": "Daily Budget Breakdown",
+    "section": ["Budget", "Mid-Range", "Lux"],
+    "texts": [
+      [
+        "aperitivo dinner €10",
+        "public transit only €10",
+        "one activity per day €10-15",
+        "room with shared bathroom (p/p) €25",
+        "€50-60 per day"
+      ], 
+      [
+        "over the counter lunch, sit-down dinner €30",
+        "public transit €10",
+        "combo entry ticket €25",
+        "double ensuite (p/p) €30-40",
+        "€90-110 per day"
+      ],
+      [
+        "dining out, no cooking €60 (+)",
+        "taxis €25+",
+        "guided tour €80",
+        "plush double (p/p) €80 (+)",
+        "€230+ per day"
+      ]
+    ]
+  }
+}

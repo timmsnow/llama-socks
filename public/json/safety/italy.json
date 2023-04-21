@@ -1,0 +1,17 @@
+{
+  "1": {
+    "header":"",
+    "section": [],
+    "texts": ["Italy is a fairly safe country, although petty crime in big cities and major tourist areas can be a thing. You’ll want to follow all the rules of big city living when you’re in places like Rome and Naples. Keep to well lit areas at night and don’t do too much wandering around on your own.\n\nThere are four different types of police in Italy. It’s possible you may be stopped by members of the Police and asked for your passport or papers. This generally happens in and around train stations or airports. Just oblige them, even if you’re running low on time. As long as you haven’t overstayed your visa, the whole process will generally only take about 5-10 minutes."]
+  },
+  "2": {
+    "header": "City Safety",
+    "section": ["", "Crowds", "Train Stations", "Follow the Light", "Drinking"],
+    "texts": ["Compared with other European countries, Italy actually scores pretty high on the safety scale. Violent crime is pretty rare, though incidents can of course happen occasionally.", "The majority of the crime you’ll see in Italy takes place in the major cities and around heavily touristed areas. It’s mostly petty theft and can for the most part be avoided easily by being alert and conscious of the space around you. Crowds are an inevitability, especially on public transit and in popular attractions, so maybe wear your backpack in front of you, or hold your purse in your hands when you’re in crowded spaces.", "Train stations can be particularly chaotic and tend to be hotbeds for opportunistic crime. Keep an eye out for people working in pairs. If you’re approached by someone, keep your guard up and your valuables close.", "Most streets in central areas are well lit and getting around on foot shouldn’t cause you any problems. That being said, if you find yourself lost, in an unfamiliar, sparsely populated, or dimly lit area it’s probably better to arrange a taxi.", "Alcohol consumption can make you a great target, so drink moderately. Women (and everyone really) should not walk by themselves at night, especially if drinking is involved."]
+  },
+  "3": {
+    "header": "Road Safety",
+    "section": ["", "Drive Defensively", "Fast Drivers", "Parking"],
+    "texts": ["By far the scariest part about being in Italy, driving here can be a real challenge.", "In general, the Italian attitude towards driving is “Go FAST, and Go NOW… maybe look later.”This means you should really be on the defensive at all times when driving here, particularly in the south where road safety seems to be even more of a shoulder shrug.", "Very little attention is given to speed limits (which seem to be pretty arbitrary to begin with), and stop signs seem more for decoration than anything else, since on the rare occasion when you might encounter one, it’s generally not somewhere that would ever actually require you to stop and look both ways.\n\nItalians take the passing lane EXTREMELY seriously. If you aren’t passing, get back in right lane, or someone will MAKE you get over shortly.\n\nSome drivers really drive like speeding bullets. Do your best to stay out of their way and yield whenever someone is acting reckless. Cars engulfed in flames on the side of the highway is not as rare a sight as it should be."]
+  }
+}

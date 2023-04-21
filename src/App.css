@@ -225,3 +225,13 @@ a:hover{
   width:100%;
   height: 1300px;
 }
+
+.budget-container {
+  padding: 3%;
+  margin: 2%;
+  border: 1px solid rgb(244, 168, 26);
+}
+
+.budget-intro {
+  margin: 5%;
+}
