@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Container, Row, Col, Tab, Tabs } from "react-bootstrap";
 import Top5 from './Top5.jsx';
 import Top5Content from './Top5Content.jsx';
@@ -42,42 +42,40 @@ const Explore = (props) => {
   },[]);
 
   return (
-    <div>
-      <>
-        <Tabs
-        defaultActiveKey="top_5"
-        id="uncontrolled-tab-example"
-        className="mb-3"
-        >
-          <Tab eventKey="top_5" title="Llama's Top 5">
-            <div>
-              {
-                locationSelected ? 
-                <Container className="body-container">
-                    <Row className="center">
-                      <Col sm="3">
-                      {center.length > 0 && <Top5 country={country} center={center} handleClick={handleClick} locationSelected={locationSelected}/>}
-                      </Col>
-                      <Col sm="9">
-                        {jsonData && <Top5Content country={country} locationKey={locationKey} jsonData={jsonData}/> }
-                      </Col>
-                    </Row>
-                  </Container>
-                :
-                <Container>
-                  <Row>
-                  {center.length > 0 && <Top5 country={country} center={center} handleClick={handleClick} locationSelected={locationSelected}/>}
+    <>
+      <Tabs
+      defaultActiveKey="top_5"
+      id="uncontrolled-tab-example"
+      className="mb-3"
+      >
+        <Tab eventKey="top_5" title="Llama's Top 5">
+          <div>
+            {
+              locationSelected ? 
+              <Container className="body-container">
+                  <Row className="center">
+                    <Col sm="3">
+                    {center.length > 0 && <Top5 country={country} center={center} handleClick={handleClick} locationSelected={locationSelected}/>}
+                    </Col>
+                    <Col sm="9">
+                      {jsonData && <Top5Content country={country} locationKey={locationKey} jsonData={jsonData}/> }
+                    </Col>
                   </Row>
                 </Container>
-              }
-            </div>
-          </Tab>
-          <Tab eventKey="other_highlights" title="Other Highlights">
-          {center.length > 0 && <Highlights country={country} center={center}/>}
-          </Tab>
-        </Tabs>
-      </>
-    </div>
+              :
+              <Container>
+                <Row>
+                {center.length > 0 && <Top5 country={country} center={center} handleClick={handleClick} locationSelected={locationSelected}/>}
+                </Row>
+              </Container>
+            }
+          </div>
+        </Tab>
+        <Tab eventKey="other_highlights" title="Other Highlights">
+        {center.length > 0 && <Highlights country={country} center={center}/>}
+        </Tab>
+      </Tabs>
+    </>
   );
 }
 

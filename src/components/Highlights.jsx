@@ -82,8 +82,8 @@ const Highlights = (props) => {
           )
         })}
     </Col>
-    <Col sm="5">
-      <Map center={center} handleMarker={handleMarker}/>
+    <Col className="full-height" sm="5">
+      <Map className="full-height" center={center} handleMarker={handleMarker}/>
     </Col> 
     </Row>
     {/* <Row>

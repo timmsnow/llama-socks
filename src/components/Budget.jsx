@@ -11,7 +11,6 @@ const Budget = (props) => {
   const budgetTypeKeys = Object.keys(budgetType)
   const lastParagraphHeader = data[keys.slice(-1)]["header"]
   const budgetKeys = keys.slice(1, -1)
-  console.log(lastParagraph[0])
 
   return (
     <>
@@ -39,13 +38,13 @@ const Budget = (props) => {
             </h2>
             {budgetType.map((type, index) => {
               return(
-                <div>
+                <div key={index}>
                   <h4>
                     {type}
                   </h4>
-                    {lastParagraph[index].map(block => {
+                    {lastParagraph[index].map((block, index) => {
                       return (
-                        <p>
+                        <p key={index}>
                           {block}
                         </p>
                         )

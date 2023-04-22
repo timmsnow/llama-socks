@@ -18,10 +18,15 @@ const Continent = () => {
   });
   
   return (
-      <Container fluid className="banner-container">
-        <img src={CONTINENT_BANNERS[banner]} className="App-log" alt={continent + " banner"}/> :
+      <Container fluid className="banner-container container">
+        <div className="banner">
+          <img src={CONTINENT_BANNERS[banner]} className="App-log fade-out" alt={continent + " banner"}/>
+
+        </div>
+        <div className="content">
+
+        <Container className="continents-container">
         <div dangerouslySetInnerHTML={{ __html: htmlFileString }}></div>
-        <Container className="body-container">
 
         <Row className="center">
         {countries.map((country, index) => 
@@ -48,6 +53,7 @@ const Continent = () => {
       }
         </Row>
       </Container>
+        </div>
       </Container>
   );
 }

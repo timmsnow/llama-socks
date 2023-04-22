@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Card, Container, Row } from "react-bootstrap";
+import { Card, Container, Row, Col } from "react-bootstrap";
 import { TOP5FRONT } from '../images/index.js';
 import Map from './Map.jsx';
 import mapboxgl from 'mapbox-gl';
@@ -60,7 +60,7 @@ const Top5 = (props) => {
   return (
     <>
       <Container className="center">
-        <Row>
+        <Row className="mt-3">
         {frontImages && jsonData &&
           top5.map(i => {
             
@@ -86,7 +86,17 @@ const Top5 = (props) => {
       </Row>
       { !locationSelected &&
         (<Row>
-          <Map center={center} handleMarker={handleMarker}/>
+          <Col xs={12} sm={7} lg={5}>
+            <Map center={center} handleMarker={handleMarker}/>
+          </Col>
+          <Col xs={12} sm={5} lg={7}>
+            <h3>
+              Llama's Top 5
+            </h3>
+            <h2>
+              {country}
+            </h2>
+          </Col>
         </Row>)
       }
       </Container>
