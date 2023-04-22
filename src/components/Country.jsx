@@ -63,7 +63,7 @@ const Country = () => {
         id="uncontrolled-tab-example"
         className="mb-3"
         >
-        <Tab eventKey="home" title="Home">
+        <Tab eventKey="home" title="Home" className="banner-container container">
           <img src={COUNTRY_BANNERS[banner]} className="App-log" alt={country + " banner"}/>
           <div className="intro-container" dangerouslySetInnerHTML={{ __html: introduction }}></div>
         </Tab>

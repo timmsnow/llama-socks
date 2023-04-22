@@ -2,8 +2,6 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom'
 import { Carousel, Container } from "react-bootstrap";
 import { BANNER_CAROUSEL } from '../images/index.js';
-import '../Home.css';
-
 
 const Home = () => {
   const BannerCarousel = () => {
@@ -40,7 +38,7 @@ const Home = () => {
     )
   }
   return (
-      <Container fluid className="home-container">
+      <Container fluid className="home-container hide-carousel-controls">
         <Link to={`/continents`}>
           <BannerCarousel /> 
         </Link>

@@ -91,6 +91,14 @@
   display: none !important;
 }
 
+.hide-carousel-controls .carousel-control-prev{
+  display: none !important;
+}
+
+.hide-carousel-controls .carousel-control-next{
+  display: none !important;
+}
+
 img {
   max-width: 100%;
 }
@@ -250,21 +258,6 @@ a:hover{
   height: 100vh;
 }
 
-/* .fade-out {
-  opacity: 1;
-  animation: fadeOut 5s ease-in-out forwards;
-}
-
-@keyframes fadeOut {
-  from {
-    opacity: 1;
-  }
-
-  to {
-    opacity: 0;
-  }
-} */
-
 .container {
   position: relative;
 }
@@ -290,6 +283,12 @@ a:hover{
   opacity: 0;
   animation: fadein 2s forwards, slideup 2s forwards;
   animation-delay: 3s;
+}
+
+.country .content {
+  padding-top: 5rem;
+  color: white;
+  text-shadow: 1px 2px 2px rgb(11, 11, 11); 
 }
 
 @keyframes fadeout {
