@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Container, Row, Col, Tab, Tabs } from "react-bootstrap";
 import Top5 from './Top5.jsx';
 import Top5Content from './Top5Content.jsx';
-import Highlights from './Highlights.jsx';
+// import Highlights from './Highlights.jsx';
 
 const Explore = (props) => {
   const { country } = props
@@ -43,12 +43,12 @@ const Explore = (props) => {
 
   return (
     <>
-      <Tabs
+      {/* <Tabs
       defaultActiveKey="top_5"
       id="uncontrolled-tab-example"
       className="mb-3"
       >
-        <Tab eventKey="top_5" title="Llama's Top 5">
+        <Tab eventKey="top_5" title="Llama's Top 5"> */}
           <div>
             {
               locationSelected ? 
@@ -70,11 +70,11 @@ const Explore = (props) => {
               </Container>
             }
           </div>
-        </Tab>
-        <Tab eventKey="other_highlights" title="Other Highlights">
+        {/* </Tab> */}
+        {/* <Tab eventKey="other_highlights" title="Other Highlights">
         {center.length > 0 && <Highlights country={country} center={center}/>}
-        </Tab>
-      </Tabs>
+        </Tab> */}
+      {/* // </Tabs> */}
     </>
   );
 }

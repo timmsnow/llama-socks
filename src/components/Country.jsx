@@ -3,6 +3,7 @@ import { Container, Tab, Tabs } from "react-bootstrap";
 import { useLocation } from 'react-router-dom'
 import { COUNTRY_BANNERS } from '../images/index.js';
 import Info from './Info.jsx';
+import Highlights from './Highlights.jsx';
 import Explore from './Explore.jsx';
 import Move from './Move.jsx';
 import Budget from './Budget.jsx';
@@ -19,6 +20,25 @@ const Country = () => {
   const [budgetData, setBudgetData] = useState(null)
   const [sleepData, setSleepData] = useState(null)
   const [safetyData, setSafetyData] = useState(null)
+  const MY_ACCESS_TOKEN = process.env.REACT_APP_MAP_BOX_KEY;
+  const [center, setCenter] = useState([])
+
+  const getCoordinates = () => {
+    const endpoint = 'mapbox.places';
+    const search_text = country.replace(" ", "-");
+    fetch(`https://api.mapbox.com/geocoding/v5/${endpoint}/${search_text}.json?access_token=${MY_ACCESS_TOKEN}`)
+    .then(response => response.json().then(data => ({
+      data: data,
+      status: response.status
+    })
+    ).then(res => {
+      setCenter(res.data['features'][0]['center'])
+    }));
+  }
+
+  useEffect(() => {
+    getCoordinates();
+  }, []);
  
   let[introduction, setIntro] = useState("");
 
@@ -61,7 +81,7 @@ const Country = () => {
       <Tabs
         defaultActiveKey="home"
         id="uncontrolled-tab-example"
-        className="mb-3"
+        className="mb-3 country"
         >
         <Tab eventKey="home" title="Home" className="banner-container container">
           <img src={COUNTRY_BANNERS[banner]} className="App-log" alt={country + " banner"}/>
@@ -69,6 +89,9 @@ const Country = () => {
         </Tab>
         <Tab eventKey="explore" title="Explore">
           <Explore country={country.match(/[A-Z][a-z]+/g).join(' ')} />
+        </Tab>
+        <Tab eventKey="other_highlights" title="Other Highlights">
+        {center.length > 0 && <Highlights country={country} center={center}/>}
         </Tab>
         <Tab eventKey="info" title="Info">
           {infoData && <Info country={country.match(/[A-Z][a-z]+/g).join(' ')} data={infoData} />}

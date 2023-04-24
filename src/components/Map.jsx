@@ -6,7 +6,7 @@ mapboxgl.accessToken = process.env.REACT_APP_MAP_BOX_KEY;
 export default function Map({
   handleMarker,
   center,
-  zoom = 3.5,
+  zoom = 3.75,
   width = '100%',
   height = '300px',
   onInit,

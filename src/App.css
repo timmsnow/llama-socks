@@ -77,7 +77,8 @@
 
 .banner-container {
   padding: 1% 0% 3% 0%;
-  border: 1px solid rgb(244, 168, 26);
+  border-top: 1px solid rgb(244, 168, 26);
+  border-bottom: 1px solid rgb(244, 168, 26);
   max-width: 100%;
 }
 
@@ -325,6 +326,14 @@ a:hover{
 
 .no-border {
   border: none;
+}
+
+.country .compact-text {
+  line-height: .5rem;
+}
+
+.inline {
+  display: inline-flex;
 }
 
 .compact-text {
