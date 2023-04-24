@@ -91,12 +91,17 @@
   display: none !important;
 }
 
-.hide-carousel-controls .carousel-control-prev{
+.carousel-control-prev{
   display: none !important;
 }
 
-.hide-carousel-controls .carousel-control-next{
+.carousel-control-next{
   display: none !important;
+}
+
+.carousel-controls {
+  display:inline-flex;
+  justify-content: space-between;
 }
 
 img {
@@ -316,4 +321,12 @@ a:hover{
   to {
     bottom: 0;
   }
+}
+
+.no-border {
+  border: none;
+}
+
+.compact-text {
+  line-height: .5rem;
 }

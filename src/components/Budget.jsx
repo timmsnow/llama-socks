@@ -39,12 +39,12 @@ const Budget = (props) => {
             {budgetType.map((type, index) => {
               return(
                 <div key={index}>
-                  <h4>
+                  <h4 className="mb-3 mt-5">
                     {type}
                   </h4>
                     {lastParagraph[index].map((block, index) => {
                       return (
-                        <p key={index}>
+                        <p className="compact-text" key={index}>
                           {block}
                         </p>
                         )

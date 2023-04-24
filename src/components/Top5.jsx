@@ -68,6 +68,7 @@ const Top5 = (props) => {
             let locationImage = {
               backgroundImage : "url(" + image + ")"  
             };
+            console.log(image)
             let locationImageDark = {
               backgroundImage : "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(" + image + ")"  
             };
