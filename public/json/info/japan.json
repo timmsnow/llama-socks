@@ -1,0 +1,27 @@
+{
+  "2": {
+    "header": "Electricity",
+    "section": ["Voltage", "Plugs and Sockets"],
+    "texts": ["The voltage in Japan is 100 Volt, which is different from North America (120V), Europe (230V) and most other regions of the world. This means it could be difficult to run certain appliances (like hair-dryers) that you’ve brought with you from home. You may need to use a converter, or buy the appliance in Japan. Most appliances should be ok, however it’s best to check with the manufacturer.", "Japanese electrical plugs and outlets resemble North American ones (two flat pins)."]
+  },
+  "3": {
+    "header": "Driving",
+    "section": ["", "Car Rental"],
+    "texts": ["In Japan you will drive on the RIGHT side of the road.", "You must be at least 18 years of age to rent a car in Japan. You should have a valid drivers license issued to you by your home country, and keep a copy of your passport on you at all times. Additionally, make sure you have an IDP (interntaional drivers permit) as it is required for any foreigner driving without a Japanese license."]
+  },
+  "4": {
+    "header": "Visa Information",
+    "section": ["Visit Visa Free", "Who Needs a Visa?", "Working Holiday and Extensions"],
+    "texts": ["Citizens of 68 countries can enter Japan visa free and stay up to 90 days including: Hong Kong, Korea, Singapore, Australia, New Zealand, Canada, USA, UK and almost all European nations.", "All of Africa (excluding Tunisia and Lesotho), most of Asia, and the majority of South Americans will need a visa to visit Japan.", "Citizens of Argentina, Australia, Austria, Canada, Chile, Denmark, France, Germany, Hong Kong, Hungary, Iceland, Ireland, New Zealand, Norway, Poland, Portugal, Republic of Korea, Slovakia, Spain, Taiwan, and the UK: these guys can get up to 6 months at a time with the working holiday visa and can renew for two consecutive periods of 6 months."]
+  },
+  "5": {
+    "header": "When to Visit",
+    "section": ["", "Cherry Blossom Season", "Golden Week", "Ski Season"],
+    "texts": ["As far as I’m concerned it’s always a good time to go to Japan.", "Cherry Blossom season is from mid March to the beginning of May depending on the weather and where you are in the country geographically (the island of Hokkaido in the north has the latest blooms).", "Golden week is a particularly trying time to travel in Japan as almost everyone has the week off. There are four consecutive holidays in a row at the end of April and beginning of May and so train tickets and hotels get sold out way in advance. If you’re going to be in Japan during this time, like I was, make some bookings beforehand and reserve your seats on the train.", "Winter means ski-season in Japan, and it does NOT disappoint. Think Colorado-quality powder, hot bowls of ramen between runs, and surprisingly affordable lift tickets. December-March are the best months for skiing, but in the northern-most parts of the country you can still hit the slopes through April. May is a mixed bag and while you may be able to find some snow if you make it all the way to Hokkaido, most ski outfits will be closing down for the summer season."]
+  },
+  "6": {
+    "header": "Language",
+    "section": ["", "Hiragana", "Katakana", "Kanji", "English"],
+    "texts": ["Japanese is beautiful but it’s extremely complex and nuanced. There are three written alphabets.", "A largely phonetic writing system where each symbol stands for a particular syllable sound, and when you put them together you can sound out words. This is the alphabet you will encounter the most and the one you will benefit the most from learning.", "Based almost entirely on Chinese characters, Katakana is mostly used for transcribing foreign words into Japanese.", "This is the oldest alphabet in Japan, and is extremely difficult to master. It is not a phonetic language but instead a symbolic one, in which each character represents a different noun, verb, adjective, or idea.", "English is not very commonly spoken, although you will be able to navigate most tourists areas with English alone. It can be helpful to learn a few basic Japanese phrases."]
+  }
+}

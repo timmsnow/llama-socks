@@ -1,0 +1,54 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": "I’m not going to lie to you. Japan is not a budget travelers dream come true. One of the reasons it took me so long to make it to Japan was that I knew it would empty my bank account with the speed of a rush hour Shinkansen. Sticking to a budget here is hard, mostly because everything around you is delicious and begging to be bought. There will be times when you realize that you just spent the equivalent of $70 on a sushi dinner, or $10 on a novelty pen. Some restraint must be exercised here if you don’t want to blow all your cash in one go. That being said, if you’re careful, discerning, and think ahead, you can see a ton of the country on a reasonable budget."
+  },
+  "2": {
+    "header": "Accommodation",
+    "section": ["", "Couch Surfing", "Capsule Hotel", "Mid-Range", "Booking Online", "Email + Call"],
+    "texts": ["By far, this will be the most challenging to your budget, but keep in mind rates tend to drop (and sometimes can be negotiated) in off-season.", "Normally when I am in a country with high accommodation costs, I’ll try couch-surfing first. I found that in major cities there was some available, however Japanese homes and bedrooms tend to fall on the smaller side of the spectrum, and it can feel a bit… tight.", "Speaking of tight, capsule hotels, which are essentially Japanese dorm rooms, will run you anywhere from $30-70 per person per night depending on which city you’re in and how splashy the place is. Keep in mind that a lot of the cheaper capsule hotels tend to be in the “entertainment districts” of a city since they are, in part, designed for Japanese businessmen wanting to unwind.", "Minshukus and business hotels will run you about $60-150 for a double room, depending, and Ryokans are typically well over $150 per night (the really nice ones are $300+)", "Japan is a country where using online booking sites will be helpful in finding the hotels themselves. There are deals online and it can be worth it to use them. Haggling isn’t really a thing here. Prices are fixed. It’s disrespectful to try to undercut.", "However, there are a good number of Minshukus and guesthouses that don’t work with online booking agencies. Sometimes the best price can be found by emailing and/or calling instead. (You may need a Japanese-speaking individual to help you out on the phone, ask your hotel.)"]
+  },
+  "3": {
+    "header": "Activities",
+    "section": ["Entrance Fees", "The Onsen", "Skiing", "Diving"],
+    "texts": ["Visiting Temples, castles, and monuments tends to be pretty inexpensive in Japan, expect to pay around $5-15 for entrance fees.", "Onsens and Sentos vary in price, with most public baths costing around $3-5, but fancier ones will run you $10-15. You tend to get what you pay for so the more expensive ones will have multiple styles of baths and plunge pools and typically include a sauna. The cheaper ones are a little more spartan, but are still a step above what most of us would picture a public bath looking like.", "Skiing in Japan is extremely popular, and there are TONS of ski-resorts sprinkled all over the mountainous islands. They tend to be WAY more affordable than European and North American skiing, and the conditions are some of the best int he world. Buying packages can be a good way to get a deal, and most ski outfits will have websites in english that are fairly easy to navigate. I saw prices in Nagano around $100 for lift+rental+accomodation with breakfast included. DOPE.", "Diving in Japan is not _so_ common, but in Okinawa you’ll find dives going for about $50 US per tank. The more remote you go, the more expensive the dive."]
+  },
+  "4": {
+    "header": "Food",
+    "section": ["More Yen Does Not Mean More Better", "Street Markets", "Lunch Specials", "Breakfast", "Tipping"],
+    "texts": ["This is the one that does me in. There are all different levels to Japanese dining ranging from $5 udon to $100+ sushi masterpieces. The truth is, it doesn’t have to cost much to eat well here. Unless you are absolutely DYING to try a certain restaurant, the cheap food does the job just as well.", "Eating in street markets is a great way to get a sampling of all the good stuff for super cheap. Even in places like Tsukiji market in Tokyo you can find delicious sushi for $.50 a piece.", "Lunch specials are almost half the cost of dinner menus, so eat a late lunch and go for a lite dinner. Ramen is a staple and will likely be a big part of a budget travelers diet. $8-10 is the usual asking price and it’s So. Damn. Good.", "Breakfast can be tricky and if you’re looking for western-style, it ain’t cheap. I found myself grabbing the essentials from 7-11 or Friendly Mart, which compared to the convenience stores in the US, might as well be fine dining. A yogurt, some coffee, a banana, and a roll, and your good for $4-5.", "Tipping is not compulsory or even common in Japan, in fact, it could be seen as an insult if you insist on leaving a tip. The truth is, Japanese culture is not a very fluid thing, so it’s better to do as the Japanese do, trust me, the bill will be high enough."]
+  },
+  "5": {
+    "header": "Transit",
+    "section": ["JR Pass", "Unlimited?", "3 Week Pass", "Buses are Cheaper, Not Cheap"],
+    "texts": ["If you want to see more than one or two cities in Japan, do yourself a huge favor and get the JR Pass. Using the train was incredible. It’s accurate and speedy and despite the hefty price tag, worth it.", "The passes only come as unlimited time segments so you have to figure out if you will use it enough to justify the pass versus buying point to point tickets. Using the rail pass really starts to add up the more places you visit. If you only plan on taking one or two long haul train rides, it may not be worth it, however if you’re seeing a lot of Japan, get that pass!", "Having the 3 week rail pass was a life saver for my budget. It was $500 initially, but after adding up the cost of individual point to point tickets and seeing that it would’ve cost $1200 to do the same trip, the numbers speak for themselves.", "Buses are a cheaper way to get around, but they take much much longer, which means you won’t be seeing nearly as much, and they aren’t SO much cheaper that they should be used in lieu of a rail pass. If you are only visiting one or two places during your time in Japan, the bus could be a good option."]
+  },
+  "6": {
+    "header": "Daily Budget Breakdown",
+    "section": ["Budget", "Mid-Range", "Lux"],
+    "texts": [
+      [
+        "couch surfing FREE",
+        "1 day of a 3 day subway pass ¥500 ($5)",
+        "national museum entrance fee ¥6.60 ($6)",
+        "bowl of cheap udon ¥500 ($5)",
+        "$40-50 per day"
+      ], 
+      [
+        "street food ¥ 1500-3000 ($15-30)",
+        "Naoshima ferry ¥ 520 ($5)",
+        "a nice day at the onsen ¥ 850 ($8)",
+        "double ensuite (p/p) ¥ 3500 $35",
+        "$80-100 per day"
+      ],
+      [
+        "restaurant dining ¥ 5,000 ($50) +",
+        "Shinkansen ¥ 8,000 ($75)",
+        "Chichu Museum ¥ 2,100 ($20)",
+        "plush double (p/p) ¥ 1,000 ($100) +",
+        "$250+ per day"
+      ]
+    ]
+  }
+}

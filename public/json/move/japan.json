@@ -1,0 +1,32 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": ""
+  },
+  "2": {
+    "header": "Plane",
+    "section": ["", "Haneda", "Narita", "Transfers"],
+    "texts": ["Tokyo has two major airports. Narita (NRT) and Haneda (HND).", "Haneda is south of the city center and well connected by the monorail as well as the Keikyu train which links up to the Subway system, making it easy to get to and from the city center. While Haneda has historically been a primarily domestic airport, a fourth runway was added along with an international terminal which has led to an increase in international, long-haul flights.", "Narita airport is located about 60 kilometers east of the city center. It is the primary international airport and is more than likely the airport you will be flying into if you are coming into Japan on a long-haul flight. Irritatingly, the train to Narita is a bit on the expensive side. There is a much cheaper bus alternative, however it takes longer and is subject to the whims of Tokyo traffic. Give yourself a little extra time if you plan to take the bus.", "Transfers between the two airports take about 1.5-2 hours. There is a direct “Limousine Bus” service that transfers passengers between the two airports. Alternatively you can take the Narita Express Train into town and then transfer at Shinagawa for onward service to Haneda."]
+  },
+  "3": {
+    "header": "Train",
+    "section": ["Always On Time", "Shinkansen", "Regional Trains", "JR Pass"],
+    "texts": ["Train travel in Japan is a joy. It’s quite possibly the most sophisticated rail network in the world. The Japanese take being on time very seriously, and trains are almost NEVER delayed or canceled. The only time I ever saw a train even a minute behind schedule was during Golden Week, when millions of Japanese take a vacation at the same time.", "The Shinkansen are the high-speed trains that reach speeds up to 320 kilometers an hour and they can get you to just about any region of Japan within a few hours. There are currently 9 Shinkansen lines, and about a billion other rail lines that connect to them. You can feel the G- force, but it’s an extremely smooth ride, with only a gentle hum in the background as you whip past the Japanese country-side. It’s a surreal experience and a sure way to make you feel inadequate about your trains back home.", "To reach the smaller, regional destinations you will more than likely need to transfer from the Shinkansen to a regular train. There are varying degrees of train here (express, local, etc), but even the “regular trains” are pretty quick, and still operate on an exact schedule. Even the subways arrive on time to the second.", "The JR Pass is a great option for foreigners who plan on seeing a lot while they’re in Japan. It’s an unlimited pass that can be purchased for 1 week, 2 weeks, or 3 weeks. While it may seem a bit expensive at first, if you are covering a lot of ground it can save you a ton of money, not to mention the hassle of arranging point to point tickets. I purchased the three-week pass and used it pretty much daily, with a total savings somewhere in the range of $700 USD. The pass can only be used on JR train lines, but that accounts for about 90% of the train travel in Japan. You may need to supplement your journey buy buying a local train ticket every so often if your destination is not on a JR line. These tickets tend to be low-cost however, and the pass is still worth it if you plan on using it a lot. If you are only visiting one or two cities in Japan, check the point to point cost first before spending the money on the pass.\n\nThe pass has to be purchased before you enter Japan as it is for foreigners only. A paper voucher will be sent to you in your home country, and then you must activate it when you land in Japan. It sounds complicated, but it’s relatively straight forward once you arrive."]
+  },
+  "4": {
+    "header": "Car and Taxi",
+    "section": ["Taxis are Expensive", "Road Rules", "Road Signage"],
+    "texts": ["Taxis in Japan are expensive. Like, real expensive. I tried to only take taxis very short distances and only when I absolutely had to. For the most part, the public transit network in the cities is so good you shouldn’t really need to use the taxis, but they are there if you’re in a pinch or staying far away from a transit line.", "Traffic in Japan is on the left-hand side, with the steering wheel on the right hand side of the car. An International Drivers Permit (IDP) is required for foreigners to drive in Japan and can be used for up to one year.", "Most road signs will be posted in Japanese as well as English. The roads are well looked after in Japan."]
+  },
+  "5": {
+    "header": "Boats and Ferries",
+    "section": ["Boat Styles", "Sea Conditions"],
+    "texts": ["Ferries in Japan tend to be muscular, metal behemoths. Even the short-distance ferries I rode on were extremely stable and glided so smoothly across the water you barely knew you were on a boat. Long distance ferries are comfortable and generally have cushioned seats, indoor/outdoor lounge areas, TV’s, and snacks available on board.", "For long haul trips it’s best to do a little research regarding sea conditions during the time of year you want to travel. The four hour trip from Ishigaki to Yonaguni in Okinawa for example, is said to be a somewhat harrowing experience, but I had an extremely enjoyable, smooth ride in both directions traveling at the end of May and with only about 4 passengers in total on the ferry, there was plenty of room to stretch out and relax."]
+  },
+  "6": {
+    "header": "Bus",
+    "section": ["Longer Trips", "Over-night to Save on Accommodation"],
+    "texts": ["With the option to utilize the perfection that is the Japanese Rail network, it seems silly to take the bus. Buses in Japan are still comfortable, operate on reliable schedules, and cover and extensive area, but count on your trip taking much much longer, and having to deal with heavy traffic in the metropolitan areas.", "It is still a great option if you are on a serious budget (I get it, Japan is NOT cheap), or if you need to reach a destination that isn’t covered by train, although this is rare. Willer Express is a leading discount bus operator in Japan and a good place to start if you are planning a multi-region bus trip. There are overnight as well as day-time options so if you want to save on your accommodation this could be a good way to do it."]
+  }
+}
