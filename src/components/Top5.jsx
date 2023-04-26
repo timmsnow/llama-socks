@@ -94,7 +94,7 @@ const Top5 = (props) => {
             { !locationSelected &&
               (
                 <Col xs={10} sm={6} lg={4} className="ml-5 mr-5 mt-5">
-                  <h3>{country}</h3>
+                  <h3>The Llama's Favorites for {country}</h3>
                   <Map center={center} handleMarker={handleMarker}/>
                 </Col>
               )

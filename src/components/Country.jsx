@@ -87,7 +87,7 @@ const Country = () => {
           <img src={COUNTRY_BANNERS[banner]} className="App-log" alt={country + " banner"}/>
           <div className="intro-container" dangerouslySetInnerHTML={{ __html: introduction }}></div>
         </Tab>
-        <Tab eventKey="explore" title="Explore">
+        <Tab eventKey="explore" title="Top 5">
           <Explore country={country.match(/[A-Z][a-z]+/g).join(' ')} />
         </Tab>
         <Tab eventKey="other_highlights" title="Other Highlights">
