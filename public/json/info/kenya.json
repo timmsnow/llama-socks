@@ -1,0 +1,27 @@
+{
+  "2": {
+    "header": "Electricity",
+    "section": ["Voltage", "Plugs and Sockets"],
+    "texts": ["Kenya operates on a 240V supply voltage and 50Hz.", "Kenyan electrical plugs and outlets utilize the British-style, three-prong plug (type G)."]
+  },
+  "3": {
+    "header": "Driving",
+    "section": ["", "Car Rental", "Safety", "Traffic Stops"],
+    "texts": ["As a former British colony, driving in Kenya is done on the left side of the road.", "You can use your home country drivers license as long as it has been valid for two years. It isn’t required, but it doesn’t hurt to have an international drivers license, especially if your home country’s license isn’t in English.", "Driving in Kenya can be dangerous due to crazy traffic and speeding/limited visibility. Take care when driving here. (See the safety section for more information)", "Also note that traffic police operate along the highways here and you may be requested to pull over. Generally you shouldn’t have any problems as long as you’re polite and are following traffic laws."]
+  },
+  "4": {
+    "header": "Visa Information",
+    "section": ["", "Visa on Arrival", "Visa Requirements"],
+    "texts": ["A passport with at least two blank pages, six months’ validity, and a visa are required to enter Kenya.", "Single-entry visas are available online and upon arrival at Kenyan airports for citizens of most western countries; however, Kenyan Immigration plans to end visas upon arrival in the future, and the online visa process doesn’t always seem to be available. It may be worth it to process your visa directly with the consulate beforehand. You can avoid any potential hassles and you get a nice picture.", "The Kenyan Consulate requires a visa application form, two passport sized photos, proof of onward travel (or return ticket), hotel reservations (usually the first couple nights are sufficient),  and the visa fee in the form of a money order or cashiers check ($50 for citizens of most countries)."]
+  },
+  "5": {
+    "header": "When to Visit",
+    "section": ["High Season", "Holidays", "Rainy Season", "Shoulder", "Sunscreen"],
+    "texts": ["Being placed on the equator means there really is no “winter” in Kenya. The high season for tourism is generally June-August when the great migration of the wildebeests from Tanzania occurs. Expect big crowds, higher prices, and definitely reserve some of your accommodation in advance.", "The holiday time between Christmas and the week after New Years can also be pretty busy, and many Kenyans flock to the coast for a beach get-away. The increase of foreign and domestic tourism means you should plan ahead and make some bookings. Expect higher prices as well.", "March, April, and the beginning of May constitute the rainy season. Prices drop significantly and a lot of places actually close up shop for a month or two. This can be a good time to go if you are trying to avoid the crowds, just make sure you have time to navigate the adverse weather and the possibility of Safari cancelations.", "January and February are a fantastic time to go. The weather is great, the animals are out, and the flood of tourists is lacking. This is also calving season, so you can expect a lot of adorable little baby-faces included in your safari.", "Keep in mind that no matter when you go, Nairobi (and other more elevated areas around Mount Kenya) are cooler than the rest of the lowland country. Pack appropriately. Also, just because it feels cooler doesn’t mean you won’t get burned. This is equator territory. If you’re lacking in the melanin department, slip, slap, slop!"]
+  },
+  "6": {
+    "header": "Language",
+    "section": ["", "Swahili", "Other Local Languages"],
+    "texts": ["Bantu-Swahili and English both serve as the official languages of the country and you can move around quite easily using only English.", "Swahili is a fantastic and expressive language that’s worth learning a few words in, especially if you plan on traveling on the coast. It is a sort of amalgam of Bantu and Arabic, with a little Hindi thrown in for good measure. Kuku means chicken. How fun is that? Get you some.", "Most Kenyans will have an additional language, generally falling into the Bantu or Nilotic language families, that they speak locally within their community."]
+  }
+}

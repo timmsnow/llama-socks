@@ -17,7 +17,6 @@ export default function Map({
     // Don't create the map until the ref is connected to the container div.
     // Also don't create the map if it's already been created.
     if (ref.current && !map) {
-      console.log(ref.current)
       const map = new mapboxgl.Map({
         container: ref.current,
         style: 'mapbox://styles/mapbox/streets-v11',

@@ -1,0 +1,54 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": "Traveling in Malaysia is a only a tad more expensive than neighboring south east Asian countries (Singapore not included). There is a noticeable difference in the quality of the infrastructure here and that comes with a cost. Kuala Lumpur is host to gigantic shopping malls with high-end boutiques and designer brands.\n\nBecause Malaysia prides itself on being the up and coming commercial success story of the region, prices lurch steadily upwards, but that doesn’t mean you can’t sleep well, eat great, and plan a good trip here."
+  },
+  "2": {
+    "header": "Accommodation",
+    "section": ["Tourist Tax", "Budget Hotels", "Borneo Is More Expensive"],
+    "texts": ["OK, lets get this out of the way first. Recently, the Malaysian government decided to impose a per-night tourism tax at a flat rate of 10 RM (about $2.50). This tax is charged by your hotel each night that you stay there. That means if you’re spending one month in Malaysia, $75 will go straight from your pocket to the government in increments of $2.50. To be fair it could be worse, and it shouldn’t stop you from visiting, but it’s important that you know about it, since it is almost always collected upon check-in, in addition to their quoted nightly rate.", "Hotels themselves range in price of course, but on the peninsula, it’s easy enough to get a comfortable double room for between $20-30 a night, even in Kuala Lumpur. Budget hotels and hostels are in good supply here, and tend to be pretty good quality.", "Borneo prices can be higher since there are fewer options and the tourists seem to be more of a well-to-do variety as opposed to the grubby backpacker type. But have no shame, live that grub life. You can still find affordable options, just search hard and book in advance when you can. In some places like Sepilok, you may find it harder to stick to your budget. Plan to spend a little more here, and try to make up for it by living cheap on the mainland."]
+  },
+  "3": {
+    "header": "Activities",
+    "section": ["Jungle Trekking", "Diving in Sipidan", "Diving Other Places", "Climbing Kinabalu"],
+    "texts": ["If you’re heading to Borneo then know that most of the jungle trekking is going to cost you. Accessing the interior is not something easily done on your own. There are some fantastic agencies with professional guides that can show you the whats what of the wilds of this crazy place but having all the right equipment means it’s a real budget killer. Come prepared to drop some cash if you want to go deep.", "Diving in Sipidan is notoriously expensive. The remote location means most operators will only sell dive trips packaged with accommodation and food in a bundle. There are good deals, you just gotta find them, and you may need to get out your haggle-hat. It’s not a bad idea to ask about group discounts if there are a few of you traveling together.", "Diving elsewhere, like the Perhentians for example is extremely cheap. Fun dives can go for around $20-25 a dive making it one of the most affordable places in the world to learn, or gain more experience. If you want to log some dives before making your way to Sipidan, this is absolutely the place to do it.", "If you are interested in climbing Mt Kinabalu on Borneo, know that you’ll need to hire a guide, possibly a porter, and get some help with transportation among other things. The whole process isn’t so bad though, and the cost of the climb should end up somewhere between 800-1000 ringgit (about $220 USD)."]
+  },
+  "4": {
+    "header": "Food",
+    "section": ["", "Night Markets", "Drinks", "Tipping", "Food Stalls"],
+    "texts": ["If there is one budget saver in Malaysia it’s the food.", "Almost every where you go there will be a night market. A courtyard full of plastic tables and chairs and a slew of food stalls serving everything from fresh fish (like not-dead-yet-fresh) to spicy noodle soup to mouth-watering dim sum. This is where you can eat to your hearts content, wash it all down with a cold Carlsberg and still have money left over for the coconut ice cream lady.", "A 1/2 liter of beer can be bought from a grocer for about $1-2 USD. Wine is not so common in Malaysia and if you’re in desperate need of a glass you’ll probably find yourself paying a lot more than you’d like to.", "Tipping is not compulsory or even common in Malaysia, however you’re always welcome to leave a little extra if you’ve felt you’ve had a good experience. If you’re staying in a resort, or spend your time in more touristy areas, you may see a 10% service charge added to the bill. This is only in tourist areas, and even then it’s rare.", "Even outside of the night markets the food stalls are wonderfully cheap and delicious. Street food culture is huge here, and some of the best food in the country will be found in a pop-up stall, or prepared out of a moving food cart. Dumplings, hand-pulled noodles, laksa…I dream about the street food in Malaysia. Eat your face off, your wallet won’t mind one bit. Most meals you eat on the street will cost you between $2-4 USD."]
+  },
+  "5": {
+    "header": "Transit",
+    "section": ["The Peninsula", "Borneo", "Flights"],
+    "texts": ["Getting around on the peninsula is quickest by train and cheapest by bus. Ain’t that the way? The distances aren’t super long, so travel can still be affordable, and it will certainly be more comfortable than say, traveling in Indonesia. Most buses are air conditioned, and there has been a TON of investment in the rail networks, so generally speaking things run on a smooth schedule. The 4-5 hour train ride from Kuala Lumpur to Butterworth will set you back 60 Ringgit, (about $15 USD).", "On Borneo local transit gets a little more rugged, but also cheaper (yay!). Travel here requires more patience. Once again, most tourists here are dishing out the coins for private transfers and flights. If you want to schlub it on a budget you absolutely can, just leave some wiggle time. You’ll be getting around by minivan and group taxis, neither of which are comfortable, but both are very affordable. Tickets bought in official stations will be a set price, but you may have to haggle a bit for the group taxi/minivans.", "Kuala Lumpur is Air Asia’s hub city. This means there are a TON of cheap flights in and out of Kuala Lumpur, both domestically and internationally. Flights to Borneo can be found for as cheap as $30 USD. International flights range from $50-200 USD depending on time and destination."]
+  },
+  "6": {
+    "header": "Daily Budget Breakdown",
+    "section": ["Budget", "Mid-Range", "Lux"],
+    "texts": [
+      [
+        "street food $5",
+        "public transit only $2",
+        "entrance fee to the Cat Museum FREE",
+        "room with shared bathroom (p/p) $15",
+        "$25-30 per day"
+      ], 
+      [
+        "street food $5",
+        "train from KL to Penang $15",
+        "Orangutan Rehab Center entrance fee $8",
+        "double ensuite (p/p) $20",
+        "$40-55 per day"
+      ],
+      [
+        "restaurant dining $10 (+)",
+        "taxis $5-10",
+        "two tank dive in Perhentians $60",
+        "plush double (p/p) $50 (+)",
+        "$130 per day"
+      ]
+    ]
+  }
+}

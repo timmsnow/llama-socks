@@ -1,0 +1,27 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": ["Accommodation in Kenya varies greatly based on season. The dry season (June-Oct) brings with it not only the great migration of wildebeests to the Masai Mara from Tanzania, but also hordes of eager tourists ready to witness this natural phenomenon.\n\nNovember to May is considered the wet season, but really only March-May is consistently wet, with some lodges and camps closing up shop for a spell during the bad weather and low turnout.\n\nJanuary can see a spike in tourists especially around the holidays, and it is a good time generally for viewing wildlife, particularly the newborns, and the prices tend to be lower. Below I have included some of my recommended sleeps."]
+  },
+  "2": {
+    "header": "Nairobi",
+    "section": ["1 - Wildebeest Eco Camp", "2 - Karen Garden"],
+    "texts": ["Conveniently situated in the tourist-friendly neighborhood of Langata, Wildebeest Eco Camp feels like an oasis in the chaotic hustle and bustle of Nairobi. The grounds themselves are open and well cared for, the rooms are spotless and comfortable, the on-site restaurant has excellent dinner buffets, and the staff is exceedingly helpful. The wifi works and the prices are low for the quality of what you get. Probably a good idea to book ahead in the high season.", "Another great moderately priced option, Karen Garden is in the Karen neighborhood, on the other side of Langata. The grounds are serene, and the place feels more like a comfortable home than a hotel. There is a pretty garden to relax in and the staff is accommodating. It seems like the grounds are sometimes used for business meetings. The price is very right."]
+  },
+  "3": {
+    "header": "Safari Sleeps",
+    "section": ["1 - Mara Explorers", "2 - Ikweta Safari Camp"],
+    "texts": ["This place is just about perfect. If you’re heading to the Mara and you’re on a budget, or traveling solo, or just want to meet some damn good people, you’re in luck. Safari’s tend to be incredibly expensive, but at Mara Explorers you can join in on a group safari, significantly cutting down on costs. It’s a flat fee regardless of how many people sign up, so there’s a chance you could end up with a private safari for a pittance. The guides are knowledgeable local Masai, wonderful hosts, and pretty damn good cooks. The digs range from basic tent-camping to contained, if a little rustic, ensuite cabins. The location couldn’t be better 2 kilometers outside of the park. There’s a nightly bonfire, where you can spend your post-safari hours staring at the multitude of stars in the wide African sky", "Ikweta calls itself “affordable luxury” and they aren’t wrong. Located a stones throw from the gates of the Meru National Park, the grounds themselves are beautiful and well maintained. There is a semi-wild feeling to the place despite the immaculate and extremely comfortable ensuite safari tents and on-site swimming pool. They really go out of their way to make you feel comfortable here. Coming here means getting off the beaten path, but when you get so much more for so much less, it’s worth the trip."]
+  },
+  "4": {
+    "header": "Lamu",
+    "section": ["1 - Jamala Guesthouse", "2 - Fatuma’s Tower"],
+    "texts": ["This friendly guesthouse is in Lamu town, directly across the channel from the airport. They offer an airport pickup for about $3, paid directly to the boat man who picks you up. You may not need the hand holding, but it can be nice to have help navigating the labyrinthine streets of Lamu town and the scores of “helpful” children itching to walk you to your hotel. The guesthouse is immaculate, the breakfast is included, and price is right.", "This place in Shela Beach is truly a standout. Fatuma’s may be the best place I have ever stayed, EVER. It is a cut above the rest in terms of price, but you truly get what you pay for. This hotel is a 300 year old traditional Swahili tower that was converted into a mansion and now a hotel. The rooms themselves are suites, complete with a bedroom, giant bathroom, living space, and generous balcony. The staff will serve you meals in the garden courtyard, or if you prefer they can bring it up to your room. The architecture is stunning, the atmosphere is peaceful, and a perfect, tropical beach is only a short walk over some sand dunes. You will want to live here forever."]
+  },
+  "5": {
+    "header": "Diani Beach",
+    "section": ["1 - Bidi Badu Resort", "2 - Stilts Tree houses"],
+    "texts": ["Not to be confused with Bidi Badu RESTAURANT, which is about a mile north up the road, this resort is really a one-stop shop. If you are looking for a place to park it on the beach and hide away for a bit, look no further. Bidi Badu is one of the last hotels on the 13 kilometer stretch that is Diani Beach, and it’s placement makes for a quieter, more removed experience. The beach directly in front of the property is *mostly* empty, the restaurant is good, and the staff warm up to you in time. There is a sub shop as well as a kite surfing school directly on the grounds. This is an excellent and affordable mid-range option.", "Stilts is a much more economic option. There are several basic hut tree houses available on these grounds, all with shared bathrooms. At night the bush babies come down from the trees to scope out the dinner scene. Adorable, and cheap. Not a bad option if you’re looking to save some cash and still be close to the beach. Here is a link to their Facebook page."]
+  }
+}

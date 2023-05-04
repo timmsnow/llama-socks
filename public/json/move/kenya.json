@@ -1,0 +1,32 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": ""
+  },
+  "2": {
+    "header": "Plane",
+    "section": ["", "International", "Domestic"],
+    "texts": ["Nairobi has two main airports.", "Jomo Kenyatta is international, and is on the outskirts of the city, but quite close to the Train station. Kenya Airways recently began a non-stop service to New York, and direct flights to multiple cities in Europe operate daily. I won’t lie to you, it’s not my favorite airport. There isn’t much in the way of edible food as it’s mostly of the fast food variety, and the majority of the airport is not air conditioned. Try to avoid spending more than 3 hours here.", "Wilson airport is their domestic air strip, and thats pretty much what it is: an airstrip, and a small collection of buildings. Don’t show up hungry. Domestic flights to bigger cities like Mombasa or Malindi, and even Lamu are extremely affordable and can seriously cut down on African travel fatigue. If you are hoping to fly directly to the national parks, like Masai Mara, be ready to spend some dough, although the views would be incredible. All in all, plane travel is a great option in Kenya, especially if you are on a time crunch."]
+  },
+  "3": {
+    "header": "Train",
+    "section": ["Nairobi to Mombasa", "The Ride", "Tickets"],
+    "texts": ["Currently there is only one passenger rail line in Kenya. It runs from Nairobi to Mombasa, making a few stops along the way (check for the express train). The ride takes 4.5 hours and is brand spankin’ new. The China Road and Bridge Corporation was commissioned to complete the project, which will eventually extend all the way to Kampala. The new train has dramatically cut down the time it takes to travel across the country, but there were some definite corners cut in the construction and I worry that the upgrade may not have been worth the price tag, which has essentially put Kenya in a precarious position in their economic dealings with China.", "There were some questionable choices made when designing the windows as some seats have a sliver of a view compared to others, but there really is nothing like cruising to the coast drinking a can of Tusker beer, just cold enough to not be considered hot, while you stare out the window and watch the Elephants go by, literally.", "It is a good idea to buy your tickets in advance as these trains can fill up, especially first class. It is also recommended that you show up at the train station about 2 hours before departure as the check-in process can be a bit… involved. Get ready for a feel-up."]
+  },
+  "4": {
+    "header": "Matutu",
+    "section": ["", "Comfortable?", "What to Expect"],
+    "texts": ["Oh, the matatu: quintessential vehicle of the Kenyan transit network.", "These little vans and minibuses have room for about 8 people, and operate with nearly double that in tow. I won’t lie to you, there is absolutely nothing comfortable about a matatu except perhaps maybe that they provide shade from the scorching equatorial sun.", "These little guys are cheap, ubiquitous, and are the pumping heart of the Kenyan highway, and they will get you where you need to go. Just be prepared for a long, long, long ride, many stops along the way, and a level of intimacy with your fellow passengers that you may have not prepared for. You can pretty much pick up a matatu anywhere there is a highway. Just give a waive and get your shillings ready. It’s a bumpy ride."]
+  },
+  "5": {
+    "header": "Boats",
+    "section": ["Dhow", "Sail With an Experienced Captain"],
+    "texts": ["All along the Swahili coast, you will see Dhows, the traditional vessel of East Africa. Essentially it is a small, almost canoe shaped boat with a perfect singular triangle of a sail. These boats are still used in the traditional way, wind power baby! You will see scores of fisherman sailing about, just off the beach in the early mornings, and in the afternoons you will be meeting a smattering of sea captains as they offer you their services for a jaunt out on the water.", "Dhow trips can be fun. Meet the right captain, get the right group together, and get ready for a day on the sea, eating coconut rice and snorkeling to your hearts content. Lamu is a wonderful place to explore your dhow dreams as it is often the only way you will get to see some of the more remote islands. Just make sure you are sailing with someone who actually has experience. Shop around and go with your gut."]
+  },
+  "6": {
+    "header": "Drive",
+    "section": ["The Good and the Bad", "Don't Trust GPS Apps", "Overtaking", "In Conclusion..."],
+    "texts": ["Renting a car and driving yourself is one of the more exhilarating options for adventure seekers in Kenya. On the plus side, you get the freedom to go wherever you want, whenever you want, which in Africa is truly a luxury. Self driving can also work out to be a bit cheaper than private cars, or expensive flights. The down side to driving in Kenya is that then you have to drive in Kenya. IF they are paved, many of the roads are in extremely poor condition and you can count on spending a good deal of your time weaving around potholes and slowing to a crawl to surmount the never-ending barrage of speed bumps that appear out of nowhere, unmarked, on the highways in the countryside.", "It’s not a bad idea to have an actual up-to-date, paper map of the area you’re planning to drive in. GPS phone apps can only help you navigate the wilds of the Kenyan countryside to a certain degree. Once you get off the main paved roads, there are no guarantees. What may look like a road on google maps could turn out to be a long pile of rocks (speaking from experience). It’s not a bad idea to request specific directions  from  your hotel or lodge, and print them out to follow when on the road.", "In addition to some pretty abysmal roadways, there tends to be only one lane in each direction, and very little shoulder to work with. This means that in order to get anywhere in under 30 hours you will be overtaking the giant diesel-fueled lorries using the only lane available to you, the oncoming lane. Good thing no one in Kenya speeds or disobeys traffic laws…. except for everyone on the road.", "Driving here can be scary, but if you keep alert, take breaks when you need to, and remember to drive on the LEFT side of the road, you can get to see some parts of Kenya that very few tourists get to, not to mention have the thrill of taking YOURSELF on a safari. Now that’s how you avoid a crowd."]
+  }
+}

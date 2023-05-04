@@ -1,0 +1,27 @@
+{
+  "2": {
+    "header": "Electricity",
+    "section": ["Voltage", "Plugs and Sockets"],
+    "texts": ["The electricity in Malaysia is 240 volts, 50 hz. This means if you are using some of the more electro-intensive appliances like hair-dryers, you may want to buy them in Malaysia as opposed to bringing them from home, since it is likely they are not compatible with the higher voltage.", "As a former colony of Great Britain, Malaysia uses the three pronged British plug G."]
+  },
+  "3": {
+    "header": "Driving",
+    "section": ["", "Car Rental"],
+    "texts": ["In Malaysia you will drive on the LEFT side of the road.", "In order to rent a car in Malaysia you must be over 21 years of age and have a valid drivers license. Having an IDP is also helpful.\n\nYou must have a credit card in the name of the primary driver in order to reserve and rent a car."]
+  },
+  "4": {
+    "header": "Visa Information",
+    "section": ["90 Days Visa Free", "30 Days Visa Free", "Advance Visas"],
+    "texts": ["Quite a bit of the western world can enter Malaysia visa free for a stay of up to 90 days. This includes the entirety of the European Union, the US, Canada, Australia, and South Africa to name a few, although quite a bit of Latin America, Japan, and a good portion of the Middle East are also included.", "30 day visa free entry is available for the majority of south east asia, Russia, numerous African state, Mexico, Central America, and a few South American countries.", "Citizens of Colombia, North Korea, and a smattering of sub-Saharan African countries are required to arrange their visas in advance of their visit."]
+  },
+  "5": {
+    "header": "When to Visit",
+    "section": ["", "East Coast of the Peninsula", "West Coast", "Borneo"],
+    "texts": ["Malaysia has a bit of a multiple personality when it comes to climate. The whole country is hot and humid pretty much year round, so no matter when you go, you can count on sweating, (consider water proof sunscreen).", "The East coast of peninsular Malaysia experiences their monsoon season from roughly November to February. Islands in the Gulf of Thailand like the Perhentians or Tioman are pretty much inaccessible during this time. Many dive shops and hotels shut down for the monsoon and honestly, even if you could get out there, and someone did agree to take you diving, there wouldn’t be much to see due to bad visibility underwater. Mid March things start to clear up and the islands in the gulf become the paradisiacal islets they were born to be.", "Alternatively the west coast has it’s dry season during the Nov-March months, and experiences monsoon rain from April to Oct. These rains are not as severe as the ones in the east and tend to be intense, but short lived.", "Borneo is a freak that does whatever it wants whenever it wants. While it’s pretty much always a sweltering jungle, Borneo weather is extremely localized and can change constantly. The “wetter” season is from November to Feb, but really, anything can happen here. The high tourist season runs from May to September, and it’s advisable to book ahead during this period."]
+  },
+  "6": {
+    "header": "Language",
+    "section": ["", "Bahasa"],
+    "texts": ["There are many languages spoken in Malaysia as it is a very culturally diverse country. Mandarin, Cantonese, English, Hindi, Burmese, among countless others can be heard in and around the major cities in Malaysia.", "The official language of the country is Bahasa Malay, but you will find many people understand and speak English, especially in major cities on the Peninsula. Bahasa is very similar to Indonesian Bahasa and they share a lot of the same vocabulary."]
+  }
+}

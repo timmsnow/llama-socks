@@ -5,9 +5,16 @@ import InfoSection from './InfoSection.jsx';
 import '../Info.css';
 
 const Info = (props) => {
-  const { data } = props
+  const { data, currencyData, baseCurrencies, country } = props
   const dataKeyArray = Object.keys(data);
-  
+  const currencyHeader = "Currency Conversion Rates"
+  const currencySection = {
+    "header": currencyHeader,
+    "section": [`1 ${baseCurrencies[country]}`, "", "", ""],
+    "texts": [`${currencyData["USD"]} USD`, `${currencyData["GBP"]} GBP`, `${currencyData["EUR"]} EUR`, `${currencyData["JPY"]} JPY`]
+  }
+
+  data[9] = currencySection
   const BannerCarousel = () => {
     const [index, setIndex] = useState(0);
     const handleSelect = (selectedIndex, e) => {
@@ -16,7 +23,6 @@ const Info = (props) => {
 
     const handlePrev = () => {
       if (index === 0) {
-        console.log(dataKeyArray.length - 1)
         setIndex(dataKeyArray.length - 1);
       } else {
         setIndex(index - 1);

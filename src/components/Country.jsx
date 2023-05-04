@@ -20,8 +20,37 @@ const Country = () => {
   const [budgetData, setBudgetData] = useState(null)
   const [sleepData, setSleepData] = useState(null)
   const [safetyData, setSafetyData] = useState(null)
+  const [currencyData, setCurrencyData] = useState([])
   const MY_ACCESS_TOKEN = process.env.REACT_APP_MAP_BOX_KEY;
+  const CURRENCY_TOKEN = process.env.CURRENCY_TOKEN;
   const [center, setCenter] = useState([])
+  const baseCurrencies = {
+    "Botswana": "BWP",
+    "Egypt": "EGP",
+    "Kenya": "KES",
+    "Namibia": "NAD",
+    "South Africa": "ZAR",
+    "Bolivia": "BOB",
+    "Tanzania": "TZS",
+    "Ecuador": "USD",
+    "Peru": "PEN",
+    "Italy": "EUR",
+    "Malta": "EUR",
+    "Cambodia": "KHR",
+    "Indonesia": "IDR",
+    "Japan": "JPY",
+    "Malaysia": "MYR",
+    "Nepal": "NPR",
+    "Thailand": "THB",
+    "Philippines": "PHP"
+  }
+
+  const getCurrencyConversions = () => {
+    fetch(`https://v6.exchangerate-api.com/v6/${CURRENCY_TOKEN}/latest/${baseCurrencies[country]}`)
+      .then(response => response.json())
+      .then(data => setCurrencyData(data.conversion_rates))
+      .catch(error => console.error(error));
+  }
 
   const getCoordinates = () => {
     const endpoint = 'mapbox.places';
@@ -38,6 +67,10 @@ const Country = () => {
 
   useEffect(() => {
     getCoordinates();
+  }, []);
+
+  useEffect(() => {
+    getCurrencyConversions();
   }, []);
  
   let[introduction, setIntro] = useState("");
@@ -94,7 +127,7 @@ const Country = () => {
         {center.length > 0 && <Highlights country={country} center={center}/>}
         </Tab>
         <Tab eventKey="info" title="Info">
-          {infoData && <Info country={country.match(/[A-Z][a-z]+/g).join(' ')} data={infoData} />}
+          {infoData && <Info country={country.match(/[A-Z][a-z]+/g).join(' ')} data={infoData} currencyData={currencyData} baseCurrencies={baseCurrencies} country={country}/>}
         </Tab>
         <Tab eventKey="move" title="Move">
           {moveData && 

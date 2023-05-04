@@ -1,0 +1,32 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": ""
+  },
+  "2": {
+    "header": "Plane",
+    "section": ["KLIA 1 + 2", "Airport to the City", "Internal Flights"],
+    "texts": ["Kuala Lumpur airport is HUGE, and if you spend a significant amount of time in south east asia you will more than likely be passing through. This is the hub for Air Asia, and most flights will transit here. The two airport terminals (KLIA and KLIA 2) are conveniently a million miles away from the city center so give yourself some time to get here. They are also not right next to each other, so making sure you have the right terminal is important.", "Getting to and from the airport is annoying. The Kelana Jaya Line LRT goes to Kuala Lumpur city center, a few stops away from KL Sentral. The KLIA Express train (ERL) from the airport to KL Sentral is fast and comfortable, but she ain’t cheap. If you’re on a budget your best option is a bus from the airport to KL Sentral station, but allow yourself up 1.5-2 hours to make the trip depending on traffic.", "For the most part getting around Peninsular Malaysia is easy to do overland. There is no real reason to fly domestically except to/from Borneo, or sometimes internally in Boreno if you are short on time."]
+  },
+  "3": {
+    "header": "Train",
+    "section": ["", "City Transit", "Rail Improvements"],
+    "texts": ["There is a lot of emphasis being put on redeveloping the train system in Peninsular Malaysia, and they have big plans to create a state of the art transit rail network.", "For now, the inter city trains of Kuala Lumpur can whip you around the city pretty quickly, although learning the difference between the myriad train companies: KTM Commuter, KTM intercity, KL Jaya Line, and KL Monorail can be somewhat confusing. The companies are not inter-changeable, so transferring between them means paying again.", "The rail network connects all the major cities and is the most comfortable way to travel long distances. The trains are modern, and work on a regular schedule. The sleeper trains have been discontinued as they have made track improvements that have sped things up. Penang-Kuala Lumpur for example is only about 4 hours."]
+  },
+  "4": {
+    "header": "Car and taxi",
+    "section": ["Uber?", "Metered Taxi", "Borneo"],
+    "texts": ["Uber was available for awhile in metropolitan areas of Malaysia however, after the merger with the S/E Asian ride share company GRAB, they no longer operate. If you want to use the GRAB app you will need a Malaysian number, so a sim card is a good idea. It can be helpful if you don’t know where you are going since it’s operated with GPS.", "Regular metered taxis are pretty easy to come across in the major cities. Double check that they have a meter before you jump in, but most taxi drivers won’t fight you about using it. The price is different at night, so be aware of which setting the driver is using. Generally speaking, they aren’t too expensive.", "In Borneo, shared taxi’s are often utilized for long haul destinations in lieu of a public bus, or just as a “quicker” alternative. While these guys can typically drive faster than a regular bus or minivan, be aware that they will often drive each passenger all the way to their destination meaning there could be some frustrating back-tracking after each drop-off. Don’t plan on getting anywhere quickly here."]
+  },
+  "5": {
+    "header": "Boat",
+    "section": ["", "Penang", "Langkawi", "Perhentian"],
+    "texts": ["Ferries in Malaysia are modern and safety is taken seriously.", "The short boat trip from Penang island to Butterworth on the mainland is free going East. Westbound ferries are 1 ringgit.", "The fast ferry to Langkawi from Penang takes about 3 hours and is typically a smooth ride.", "The ferry from Kuala Besut to the Perhentian Islands takes about 30-45 minutes and leaves every hour from 8 am. The last ferry is at 5:00 pm. For the most part, boats will not run during the monsoon season (November-Feb)."]
+  },
+  "6": {
+    "header": "Bus",
+    "section": ["", "Traffic", "From Singapore"],
+    "texts": ["Buses in Peninsular Malaysia are comfortable by S/E Asian standards. They tend to be air conditioned, have reclining seats, and because the roads are well looked after, pretty quick.", "The worst part about traveling by bus is getting into Kuala Lumpur. The traffic can be pretty bad depending on the time of day. The buses normally make several stops in the metropolitan area and it can take time to get to them all. It may be worth it to hop out at one of the bus stations on the outskirts of the city and take a taxi to your final destination rather than follow the caravan of buses from one bus station to the next.", "If you are taking the bus from Singapore, be aware of the national holidays. DO NOT attempt this border crossing during a holiday. Just crossing the two kilometer bridge between the two countries alone can take hours. You could walk to Kuala Lumpur faster. Seriously."]
+  }
+}
