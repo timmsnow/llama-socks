@@ -22,7 +22,7 @@ const Country = () => {
   const [safetyData, setSafetyData] = useState(null)
   const [currencyData, setCurrencyData] = useState([])
   const MY_ACCESS_TOKEN = process.env.REACT_APP_MAP_BOX_KEY;
-  const CURRENCY_TOKEN = process.env.CURRENCY_TOKEN;
+  const CURRENCY_KEY = process.env.REACT_APP_CURRENCY_TOKEN;
   const [center, setCenter] = useState([])
   const baseCurrencies = {
     "Botswana": "BWP",
@@ -46,7 +46,7 @@ const Country = () => {
   }
 
   const getCurrencyConversions = () => {
-    fetch(`https://v6.exchangerate-api.com/v6/${CURRENCY_TOKEN}/latest/${baseCurrencies[country]}`)
+    fetch(`https://v6.exchangerate-api.com/v6/${CURRENCY_KEY}/latest/${baseCurrencies[country]}`)
       .then(response => response.json())
       .then(data => setCurrencyData(data.conversion_rates))
       .catch(error => console.error(error));

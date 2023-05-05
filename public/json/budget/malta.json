@@ -1,0 +1,54 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": "Malta is a mid-range travelers dream come true. While accommodation may not be particularly budget friendly, and restaurants tend to ere on the expensive side of value-for-money, getting around is cheap, and there is plenty to do on the island for little or no cost out of pocket.\n\nThe infrastructure here is pretty OK, not the best in Europe, but not the worst either, so while your daily food and accommodation budget may be a little higher than other mainland countries like Italy, the low transit costs and ease of getting around tend to balance out the difference."
+  },
+  "2": {
+    "header": "Accommodation",
+    "section": ["Mostly Mid-range", "Seasonal Pricing", "Breakfast?", "Get a Kitchen", "Airbnb"],
+    "texts": ["There really isn’t much in the way of “budget” rooms in Malta, and you can be hard-pressed to find anything decent for less than $60 USD. Most rooms of quality hover in the range of $80-100 per night and it only goes up from there.", "Prices are seasonally-dependent of course, so traveling to Malta in the winter and shoulder seasons can be helpful if you’re trying to save some cash.", "The majority of hotels and B and B’s will include breakfast, so make sure to look for that when you’re booking.", "You may also find it’s worth it to splash out a little more to get a room with a kitchen and ultimately save on food costs.", "Airbnb is increasingly popular on Malta and is typically excellent value. The added benefit of scoring a kitchen will be a huge boost to your budget. The only caveat is that a good portion of these rentals tend to be above bars or on busy, heavily touristic areas, meaning noise can be an issue. Check the reviews, or be ready to roll with it."]
+  },
+  "3": {
+    "header": "Activities",
+    "section": ["Combo Ticket", "Diving", "Boat Tours"],
+    "texts": ["A lot of Malta’s sites have combined ticket pricing. For example, if you’re planning on checking out the Villa Romana near Mdina (€6), you could opt for the combination ticket for €14 and get access to the St Paul’s Catacombs, the National Museum of Natural History and a Sightseeing train tour as well. This combo-ticket scenario seems to be the norm across the island so double check before you buy a single entry ticket.", "Diving is about €40 per dive, but varies from company to company. Add-ons like NITROX and equipment rental can raise the price considerably if they aren’t already included. Keep in mind that cheapest doesn’t always mean best. Count on a €100 day if you’re going on two dives.", "Most tour prices in Malta are set, but if you have a group of a few people you may be able to talk the tour operator into giving you a deal. Most of the boat operators are trying to off-load tickets until the last minute so if you show up on the Sliema waterfront and play it cool, you may be able to snag a great last minute price."]
+  },
+  "4": {
+    "header": "Food",
+    "section": ["Avoid Touristy Areas", "Sit Down Restaurants Are Pricey", "Get That Kitchen", "Go To The Supermarket Early"],
+    "texts": ["Unfortunately, most of Malta IS a heavy tourist area these days. There are a lot of expensive, mediocre, tourist restaurants in Malta and sometimes it can prove difficult to find anything that’s worth forking out the cash for. Not to say that there isn’t good food to be had here, there definitely is, but good local spots can be hard to find.", "Most of the sit-down restaurants you’ll come across generally charge upwards of €15 for an entree, for like… a plate of pasta. YIKES. If you stick to over-the-counter meals, like sandwich shops and cafes, you’ll save a ton.", "Self-catering is THE best way to save money in Malta. It can be really helpful if you find a hotel that has a guest kitchen so you can at least cook one or more of your meals per day.", "However, finding a supermarket can prove tricky as well. Keep in mind that markets close early, especially in places with a high tourist density (like Valletta). Try to get your shopping done before sundown. Don’t expect a huge selection, most of these markets are small, but have the essentials. It’ll help you shave off a ton of money from your daily food budget."]
+  },
+  "5": {
+    "header": "Transit",
+    "section": ["Bus Tickets", "Buy Tickets in Bulk", "Car Rental", "Book Your Cab Online"],
+    "texts": ["Luckily transit costs in Malta aren’t too bad. It’s a small island so the distances can only be so long. The public transit system, though sometimes painfully inconsistent, is cheap. In winter a single bus ride is €1.50, while in the summer it’s €2. These tickets are valid for 100 minutes from the time of validation, so you can get a few rides out of them if they are in quick succession.", "In addition there are some great packages you can buy, like 12 bus rides for €15. This will really help to cut down on travel costs.", "Car Rental’s aren’t as cheap as on the mainland. Expect to pay a goodly bit if you’re wanting to rent a car locally. The same goes for scooters/vespas. Unfortunately, renting a scooter can be just as expensive as a car. Most places charge by the day or by the hour if you’re only looking for a short excursion.", "Taxi’s are affordable and easy to book online. Prices vary depending on traffic etc, but you can expect to pay around €1.50-€2 per kilometer. When you book online you’ll know what you’re paying before you take the trip, so this avoids any nasty surprises."]
+  },
+  "6": {
+    "header": "Daily Budget Breakdown",
+    "section": ["Budget", "Mid-Range", "Lux"],
+    "texts": [
+      [
+        "cooking all meals €10",
+        "public transit only €10",
+        "one activity per day €10",
+        "room with shared bathroom (p/p) €30",
+        "€50-60 per day"
+      ], 
+      [
+        "one sit-down meal+light cooking €30",
+        "one taxi+regular bus travel €20",
+        "combo entry ticket €15",
+        "double ensuite (p/p) €40",
+        "€90-110 per day"
+      ],
+      [
+        "dining out, no cooking €30 (+)",
+        "two taxis + €25",
+        "tour/diving €80",
+        "plush double (p/p) €80 (+)",
+        "€200-250+ per day"
+      ]
+    ]
+  }
+}

@@ -32,27 +32,29 @@ const Budget = (props) => {
             )
           })}
           </Row>
-          <div>
+          <Container>
             <h2 className="budget-intro">
               {lastParagraphHeader}
             </h2>
-            {budgetType.map((type, index) => {
-              return(
-                <div key={index}>
-                  <h4 className="mb-3 mt-5">
-                    {type}
-                  </h4>
-                    {lastParagraph[index].map((block, index) => {
-                      return (
-                        <p className="compact-text" key={index}>
-                          {block}
-                        </p>
-                        )
-                    })}
-                </div>
-              )
-            })}
-          </div>
+            <Row className="budget-row">
+              {budgetType.map((type, index) => {
+                return(
+                  <div key={index}>
+                    <h4 className="mb-3 mt-5">
+                      {type}
+                    </h4>
+                      {lastParagraph[index].map((block, index) => {
+                        return (
+                          <p className="compact-text" key={index}>
+                            {block}
+                          </p>
+                          )
+                      })}
+                  </div>
+                )
+              })}
+            </Row>
+          </Container>
         </Container>
       </>
   );

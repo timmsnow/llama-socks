@@ -339,3 +339,7 @@ a:hover{
 .compact-text {
   line-height: .5rem;
 }
+
+.budget-row {
+  justify-content: space-between;
+}

@@ -1,0 +1,27 @@
+{
+  "2": {
+    "header": "Electricity",
+    "section": ["Voltage", "Plugs and Sockets"],
+    "texts": ["In Europe the voltage is 220 V with a standard frequency of 50 Hz. If you have an appliance designed to run on 110 V at 60 Hz, (like most standard American appliances) the vast majority will be able to operate just fine using only the European plug adapter.\n\nHowever, double check your appliance as some of them (like hair curlers and hair dryers) will not be able to handle the change in voltage without an actual voltage converter. You should know how your appliance takes electricity before plugging it into a foreign socket to avoid self-destruction.", "The European plug socket is the type F plug.\n\nIt is has two rounded plugs and is typically ungrounded by a third plug."]
+  },
+  "3": {
+    "header": "Driving",
+    "section": ["", "Car Rental", "IDP?"],
+    "texts": ["Driving in Malta is done as the British do, on the LEFT hand side of the road.", "While the legal driving age in Malta is 18, you can expect the local rental agencies to only offer cars to those aged 23-25 years or older.", "You must have a valid drivers license from your home country and it’s never a bad idea to keep an IDP (international drivers permit) on hand in your glove box."]
+  },
+  "4": {
+    "header": "Visa Information",
+    "section": ["", "Schengen Free-Zone", "Schengen Visa"],
+    "texts": ["Malta is part of the EU, as a result all the required permissions for entering a member state of the EU apply here.", "As a part of the EU, Malta participates in the Schengen visa program and is part of the EU free-zone. This means that travel between any other country in the Schengen free-zone TO Malta can be done without border checks.", "The Schengen Visa is valid for a stay of up to 90 days within a six month period. If the entire 90 day period is used, the passport/visa holder is required to exit the Schengen area for a period of at least 3 months (90 days) before they are eligible for re-entry. This means no sneaky border runs to renew your visa!\n\nPeople wishing to stay longer in the Schengen zone will have to apply for a student, work, or residency visa which I’m sure is a lot of fun and not a bureaucratic nightmare at all. Uh huh.\n\nThe visa can take the form of an entry stamp in your passport, or a visa page depending on your nationality."]
+  },
+  "5": {
+    "header": "When to Visit",
+    "section": ["Summer", "Shoulder Season", "Spring", "Diving", "Winter"],
+    "texts": ["Well Malta’s summer and it’s HIGH tourism season is from mid June to late August. The islands are the driest during these months, with nary a cloud in the sky and Northern Europeans flock to the beaches in droves in search of a quality tan. Oddly, these months do come with more humidity and, as a result, more bugs. Mozzies can be a real annoyance especially in July and August.", "Tourism in Malta has definitely reached an all time high, and while technically September-October is the “shoulder season”, and one should be able to enjoy the lingering warm weather without the crowds associated with the high season, these days even the shoulder season can feel packed with people. If you aim to get a little off the beaten path however, by spending more time on Gozo, or the quieter sides of Malta, you’ll be able to reclaim some space. Rainfall can be somewhat unpredictable during this time as well, so you can expect a mix of clear and rainy days.", "The BEST months in my opinion for visiting Malta are in spring. During the months of April, May, and even early June, the weather is warm and (mostly) dry, and the tourist machine has yet to really rev its engines.", "The Diving season lasts from May through the end of October. The water temperatures during this time fall on the spectrum between 20-26°.", "In the winter you can expect your visit to be windy and probably a little wet. Prices are sure to be lower during this time of year, and that abysmal traffic a little bit lighter."]
+  },
+  "6": {
+    "header": "Language",
+    "section": ["", "English", "Italian"],
+    "texts": ["Maltese. An extremely interesting amalgam of Romance and Arabic languages.", "A good portion of the population speaks fluent English, especially in the tourist areas.", "There is a large Italian population as well, making Italian the third most spoken language on the islands."]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": ["Good Accommodation in Malta isn’t hard to come by. There is a plethora of budget hotels and B and Bs all over the islands. While the majority of double rooms won’t sell for less than $60 USD, the truth is the nicer places aren’t over-the-top expensive either.\n\nRooms at some of the fanciest places can go for as little as $150 a night. So if you are feeling in the mood for some luxury, Malta isn’t a bad place to try it out. Otherwise, these budget-midrange options do the job just as well."]
+  },
+  "2": {
+    "header": "Mdina/Rabat",
+    "section": ["1 - Maleth Inn", "2 - My Travel House"],
+    "texts": ["This multi-level guesthouse is right across the road from the walled city of Mdina. The rooms are adorable and spacious, with high ceilings, ensuite bathrooms, guest kitchens, and balconies overlooking the street below. There is a real “old world” vibe to the place, without it feeling dingy. The views of the town from the top floor are exceptional. The staff, (although you’ll rarely see them) are friendly and keep the place looking great. The hotel has coded entry for self check in, making it easy to check in whatever time of day you arrive.", "Set right in the center of Rabat, a short walk from Mdina is a little guesthouse called My Travel House. This is a cozy, budget operation and while it’s rooms may not be as spacious as the ones at Maleth Inn, it’s a clean and friendly alternative and a little lighter on the wallet. In some of the rooms the shower is not in the bathroom, but in the main room, meaning you should probably check first if you aren’t a couple. There is a nice, sunny balcony on the roof to relax on after a day of pounding the pavement. See their website here."]
+  },
+  "3": {
+    "header": "Valletta",
+    "section": ["1 - Casa Asti", "2 - Palazzo Sant Ursula"],
+    "texts": ["The beds are comfortable over at the Casa Asti. The rooms are a good size, and there are single rooms in addition to the standard double, making it easier for a solo traveler to find something within their budget. The hotel is set on a quieter side street in Valletta, away from the main drag and the throngs of drinky-drunk tourists. The hotel bar is a delightfully tacky neon, glowing situation. Enjoy.", "This budget hotel has options. Twins and doubles are available with ensuite bathrooms, or if you want to save a little money you can go for the cheaper shared bath option. The building is tucked away on a quiet side street, but still close to all the sites of Valletta. It’s an old building with a lot of character and a social atmosphere. The breakfast is included. One thing to note is that the building lacks decent insulation and in the winter it can be a bit chilly if you aren’t under the covers or running a hot shower. In summer time it’s no problem. The Palazzo can be booked on Hostelworld."]
+  },
+  "4": {
+    "header": "Gozo",
+    "section": ["1 - Pearl of Gozo", "2 - Gozo Spirit B and B"],
+    "texts": ["This immaculate B and B was probably my favorite place that I stayed on the islands. The building itself is beautiful and historic, and the Italian/German owners are former world travelers and exceedingly charming. The property has a wonderful outdoor space with a pool, and each of the rooms is well manicured and comfortable. The breakfast spread is unreal, and you certainly won’t be leaving here hungry. There is an emphasis on relaxation here, and it’s pretty easy to get into the spirit. The hotel is located in IX-XEWKIJA, about a 10 minute walk from the Cathedral.", "Gozo Spirit is a small operation, with four rooms in total divided between the main house and a smaller two floor guesthouse adjacent to the pool. The complex is well looked after and a bargain for the price. Beds are extra comfy. The B and B is located in Nadur, a bit up the road from the port of Gozo."]
+  }
+}

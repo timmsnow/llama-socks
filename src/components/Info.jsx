@@ -10,7 +10,7 @@ const Info = (props) => {
   const currencyHeader = "Currency Conversion Rates"
   const currencySection = {
     "header": currencyHeader,
-    "section": [`1 ${baseCurrencies[country]}`, "", "", ""],
+    "section": [`1 ${baseCurrencies[country]}`, " ", " ", " "],
     "texts": [`${currencyData["USD"]} USD`, `${currencyData["GBP"]} GBP`, `${currencyData["EUR"]} EUR`, `${currencyData["JPY"]} JPY`]
   }
 
