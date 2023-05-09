@@ -1,0 +1,54 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": "It’s almost alarming how much you can see in Namibia with a very small budget. The country is essentially a gigantic national park with free-roaming game just about everywhere you look. It does help to travel in groups here, as throwing in together with other people can drastically reduce your overall costs. The majority of what you will be seeing is free, and if you plan correctly you can get your daily budget down to around $30 US a day pretty easily."
+  },
+  "2": {
+    "header": "Accommodation",
+    "section": ["Remote Lodges", "Tipping", "Split a 4x4", "Camp When Possible", "Sleep Outside the Park"],
+    "texts": ["Finding a good cheap place to stay in the cities is pretty easy. The hotel/hostel scene is well-trodden and prices are competitive here. It’s when you head out to the remote corners that things (predictably) get trickier. Because of the isolation, you pay a premium for the creature comforts when you’re in the desert, or really, anywhere outside of the cities. It makes sense because it isn’t easy to schlep all the amenities hundreds of kilometers across barren landscapes and it costs the hotels money to do it. So if it’s top-of-the-line comfort you are after, be prepared to pay some serious dollars for it.", "If you’re staying at a lodge, tipping USD $10 per day for the staff is highly encouraged (and expected).", "Mid-range accommodation is rare out here. My recommendation to anyone venturing out into the wilderness is to find a couple like-minded travelers and throw-in on a 4×4 with camping capabilities. Most of these vehicles will come with everything you need including bedding, cookware, and camping gear.", "It’s extremely easy to find camping in Namibia, and actual maintained campsites are generally very affordable, should you want to shower or use electricity. This will reduce your accommodation budget considerably. If you spend 10 days camping for cheap, maybe you can splurge on some nice digs one or two nights along the way to clean yourself up.", "In many cases, staying outside of the National park gates (even RIGHT outside) can cut the cost of your campsite or lodge considerably. If it isn’t too inconvenient, you may want to consider the options outside of the park."]
+  },
+  "3": {
+    "header": "Activities",
+    "section": ["National Park Entry", "Vehicle Fees", "Staying Outside the Park", "Tipping", "Other Activities"],
+    "texts": ["In general the main things you will be spending money on are national park entry fees. Luckily in Namibia, for the most part the prices are reasonable. Getting into Sossusvlei for example will run you about N80 per person and N10 per vehicle. Etosha National Park has the same pricing more or less. You can pay your entry fees at the gate upon entering but note that there are opening and closing times that you’ll need to adhere to. If you’re arriving late you might not be able to reach the park.", "In addition, be aware that most parks will have a vehicle fee as well. This is a per-day fee that must be paid per vehicle. It’s generally not expensive, but not completely inconsequential either. Splitting the costs with other travelers will be helpful.", "Park entry is generally based on a 24 hour period so if your accommodation is inside the park gates you will be paying the entry fee for every night of your stay. Lodges and campsites outside of the national parks are generally MUCH cheaper than those inside and by staying outside of the park gates you can avoid any unnecessary park fees.", "Tipping your safari/tour guides is expected and should be factored into your daily budget. USD $10 per day is a good general rule to follow. Throwing in another $5 for any porters or drivers is also encouraged.", "If you’re interested in doing some sand boarding in the Swakopmund area, Alter Action has daily trips for about N500."]
+  },
+  "4": {
+    "header": "Food",
+    "section": ["City Food", "Self Catering", "Groceries", "Lodges"],
+    "texts": ["The restaurants are similarly priced to what you may find in South Africa, and there is a wide variety of options for every budget in the cities, from high end western-style coffee shops to Kentucky Fried Chicken, to good old mielie-pap. Fill up on the good stuff while you’re here, cause you’ll be pretty much on your own once you leave.", "Outside of the cities if you want to keep costs down you should consider self-catering. If you are going the 4×4 route you should include a gas cooker so you can prepare your meals under the stars. Plan simple meals with ingredients that don’t spoil easy. Most 4×4 fridges have enough room for perishables to last about 3 days. Plan on stocking your grocery supply accordingly. Some camp sites may even have Braai pits available to BBQ meat, although different rules apply for sourcing firewood depending on the park or region you are in.", "Groceries and canned goods are affordable, so planning out a budget friendly menu is relatively easy. Supplement your meals with cheap snacks like biltong and peanut butter and you’ll be all set.", "After a week or so on the road, you may want to treat yourself to a meal cooked by someone else. Bear in mind that restaurants in the desert are rare and not always the cheapest, especially at the lodges. If you do want a restaurant meal, get it when you’re passing through a town or city. Save your money for the cold beer."]
+  },
+  "5": {
+    "header": "Transit",
+    "section": ["4x4", "Intercape", "Road Conditions", "Petrol"],
+    "texts": ["In the same vein as accommodation, I recommend getting a 4×4 with other people. If you split the cost four ways, the total for a rental could be as cheap as $30 a day per person… for EVERYTHING. That means you’ll be keeping your accommodation AND your transit costs way down so you can spend a little extra when you need to.", "Bus travel isn’t bad either. An overnight, 20 hour bus from Windhoek to Cape Town is priced around $50 USD. Not bad all things considered. Intercape also runs a bus to Livingstone, Zambia for those wanting to continue on to Victoria Falls.", "The roads in Namibia are pretty impressively maintained. The major highways are sealed, and even the non-tarred roads seem to be in reasonably good shape. You could, in theory, save some money buy renting a non four-wheel-drive vehicle, since a good portion of the country wouldn’t require it. Places like Etosha National Park can be explored in a standard rental vehicle, however, make sure you have mapped out exactly which route you’ll be taking to avoid any surprises along the way. I’d still recommend the 4×4 for anyone camping, but if you’re hopping from lodge to lodge, you might be ok with a cheaper vehicle.", "Gas in Namibia is affordable (about $.90 per liter), but if you’re trying to cover desert ground that means you’ll most likely have a double tank. If thats the case you can budget about $130-150 USD to fill her up, but this will have you fueled for about 1000 kms."]
+  },
+  "6": {
+    "header": "Daily Budget Breakdown",
+    "section": ["Budget", "Mid-Range", "Lux"],
+    "texts": [
+      [
+        "self-catered meal per day (p/p) $5",
+        "two beers $4",
+        "seeing the wild horses of Aus FREE",
+        "dorm bed in Windhoek hostel $15",
+        "$25-35 per day"
+      ], 
+      [
+        "self-catered meals per day (pp) $5",
+        "daily 4×4 rental (pp) $40",
+        "entrance to Etosha $8-10",
+        "gasoline/petrol per liter 13 NAD ($1)",
+        "$50 per day"
+      ],
+      [
+        "restaurant food $30+",
+        "Walvis Bay sandboarding $35",
+        "car rental per day (p/p) $40",
+        "double room in lodge OUTSIDE park $150",
+        "$250+ per day"
+      ]
+    ]
+  }
+}

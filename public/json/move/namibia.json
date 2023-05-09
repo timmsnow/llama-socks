@@ -1,0 +1,22 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": ""
+  },
+  "2": {
+    "header": "Plane",
+    "section": ["International", "Get to the City Center", "Scenic Flights"],
+    "texts": ["Hosea Kutako International Airport is about 45 minutes outside of Windhoek. Air Namibia, Kulula, and South Africa Airways are the major airlines servicing the airport.", "There isn’t a public bus service operating from the airport so taking a cab (about N300) is the quickest way to get into the city. Alternatively you can try your hand at hitch-hiking if you have the time, but my recommendation would be to reach out to your hostel or hotel and see if they happen to have a shuttle service available as it will likely be cheaper than a taxi and quicker than hitch-hiking.", "If you want to see the vastness of the country from the air, Scenic Air has a fleet of cessnas that can ferry passengers to all the major destinations in the country."]
+  },
+  "3": {
+    "header": "Self-drive",
+    "section": ["Rental Companies", "4x4", "Be Prepared", "Highways", "Roadblocks + Stops"],
+    "texts": ["The great joy of renting vehicles abroad! The good news is that because there is so little in the way of public transit here, they have the rental process down to a science. Most of the rental companies will be in Swakopmund or Windhoek, and prices are competitive. Depending on the time of year, and how long you will have the rental for, you should be able to negotiate with your rental agency, although I don’t recommend haggling so hard as to piss them off. These are the people outfitting you on your multi-day journey through the desert, be nice. There are a ton of them, so read some reviews and go with your gut, but ultimately it shouldn’t be hard to find a good price (1000-2000 NAD per day, depending on vehicle type) and a reliable vehicle.", "I highly recommend going with a 4×4 as opposed to a regular car or truck. Namibia is like 50 countries in one and the terrain changes quick and often. You will be driving in mud, sand, gravel, and who knows what else. Be ready for it.", "Do yourself a favor and pay extra for a small fridge and a gas cooker. Being able to self cater is crucial. Obviously make sure you have a spare tire, and water. Lot’s and lot’s of water (between 5-8 liters per person per day). There could be times when you go 20 hours without seeing another person. Do not count on help from other people if you have a problem. Make sure you have everything you need to keep yourself going in case of emergency.", "The roads that are paved are fantastic. Most of the roads, especially in the south, are flat and empty. You will be able to cover a good bit of ground quickly while the roads are paved. Keep an eye out for animals, they can spook easy and hitting a leaping gazelle is not out of the realm of possibility.", "Every so often you will encounter roadblocks and your car may be searched. Typically these are routine stops and shouldn’t hold you up much. It’s possible they may ask you to throw out any meats or eggs as a precaution for the spread of foot-and-mouth disease."]
+  },
+  "4": {
+    "header": "Bus",
+    "section": ["", "Intercape"],
+    "texts": ["The bus in Namibia only reliably operates along a few select routes. I wouldn’t count on it to travel independently outside of the major cities. That being said, international bus travel here is GREAT by African standards.", "Intercape, the same bus network that operates all over South Africa has comfortable coaches at really reasonable prices. The buses are all air-conditioned, have reclining seats, and make pit stops for food etc regularly. The entertainment is a little JESUS-Y (like, BAD, made for TV christian movies…), and the constant reminders to pray to the one true god are a little grating, but hey, this is the top of the line when it comes to African bus travel, and you won’t find this kind of comfort on ANY buses if you are heading north of the border, so enjoy it while you can. The 20-somthing hour journey from Cape Town to Windhoek is a smooth ride with some epic desert views. They also have connections to Livingstone in Zambia."]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": ""
+  },
+  "2": {
+    "header": "Plane",
+    "section": ["It Can Be Scary", "They Aren't Cheap"],
+    "texts": ["When your destination is already in the clouds, flights can be a somewhat harrowing experience. Traveling by plane in Nepal is notoriously nerve-wracking and Kathmandu airport is known as one of the more dangerous runways in the world. Between the high altitudes, smaller aircraft, and the unpredictable weather, periodic crashes do occur in the Himalayas and plane safety is not to be taken lightly. But damn thems some incredible views though!\n\nThis is not meant to scare you, as the likelihood of anything happening to your plane is really very very tiny.", "Plane’s aren’t cheap either. The 25 minute flight from Kathmandu to Lukla comes in around $180 per person. Kathmandu to Pokhara is about $125 each way, so figure that into your expenses if you are limited on time and can’t travel overland.\n\nSome destinations can be reached by helicopter as well. It SOUNDS incredible. Look it up if you are a recent lottery winner or a trust fund baby."]
+  },
+  "3": {
+    "header": "Taxi",
+    "section": ["", "Agree on Price", "Long-distance Taxi"],
+    "texts": ["Taxi’s can be a great option if you A) need to get somewhere quickly, B) don’t have a super long way to go, or C) missed the bus and have no choice.", "Around town in cities like Kathmandu you can try to ask for the meter, but generally you will want to agree upon a price before getting in the cab. It is fair to say you should be able to get most places in Kathmandu for between $4-6. Getting around Thamel should be much cheaper.", "Taking a private car to Bhaktupur will run you about $10-15, and getting to Nagarkot something like $20/25 if you haggle hard. There are private cars that will take you to Pokhara, but for that price you may as well fly."]
+  },
+  "4": {
+    "header": "Bus",
+    "section": ["What to Expect", "Bus Stations and Baggage"],
+    "texts": ["Public buses in Nepal are cheap, and you will get what you pay for. The roads are ALWAYS congested and even a rough estimate of your total travel time can be way off. The road conditions in Nepal are terrible and there are frequent accidents. Rock-slides and collapses are common occurrences as well and can lead to road blocks that take ages to clear. If you are traveling by bus, practice a little morning meditation before you board.", "The bus stations can be a bit chaotic, but you shouldn’t have any problems finding the right bus if you just ask around. Depending on the size and layout of the bus traveling with oversized bags can be difficult. Short distance commuter buses are often filled to the brim, so if you aren’t prepared to become one with your belongings for an hour or so, you may want to opt for a private taxi to get the job done. Long distance buses generally have room for baggage and make stops for meals and use of the toilet. Ohhhh the Nepalese bus-stop toilet."]
+  }
+}

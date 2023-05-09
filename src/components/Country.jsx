@@ -70,7 +70,7 @@ const Country = () => {
   }, []);
 
   useEffect(() => {
-    getCurrencyConversions();
+    // getCurrencyConversions();
   }, []);
  
   let[introduction, setIntro] = useState("");
@@ -127,7 +127,7 @@ const Country = () => {
         {center.length > 0 && <Highlights country={country} center={center}/>}
         </Tab>
         <Tab eventKey="info" title="Info">
-          {infoData && <Info country={country.match(/[A-Z][a-z]+/g).join(' ')} data={infoData} currencyData={currencyData} baseCurrencies={baseCurrencies} country={country}/>}
+          {/* {infoData && <Info country={country.match(/[A-Z][a-z]+/g).join(' ')} data={infoData} currencyData={currencyData} baseCurrencies={baseCurrencies} country={country}/>} */}
         </Tab>
         <Tab eventKey="move" title="Move">
           {moveData && 

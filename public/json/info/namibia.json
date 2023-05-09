@@ -1,0 +1,27 @@
+{
+  "2": {
+    "header": "Electricity",
+    "section": ["Voltage", "Plugs and Sockets"],
+    "texts": ["In Namibia the standard voltage is 230 V and the frequency is 50 Hz. This is the same as in most of the neighboring countries, so if you’ve purchased any appliances in South Africa or elsewhere you should be good to go. Most appliances are designed for dual voltage, however some bigger appliances like hair dryers may cause issue if they run on 110 V (like American appliances).", "The plugs are type D and M, the same as in South Africa. They have three round pins."]
+  },
+  "3": {
+    "header": "Driving",
+    "section": ["", "Car Rental", "Road Rules", "Night Driving"],
+    "texts": ["In Namibia you will drive on the left.", "You can use your home country’s drivers license, but if it is not in English you may want to consider getting an international license to avoid trouble.  Drivers must be 21 years of age and have had a valid license for at least one year.", "Everyone in the car is required to wear a seatbelt. Headlights should be turned on while driving in Namibia, no matter what time of day.", "It’s a good idea to avoid night-time driving since visibility is difficult and animals are literally everywhere."]
+  },
+  "4": {
+    "header": "Visa Information",
+    "section": ["Visa Free", "Check Your Consulate", "Yellow Fever Certificate"],
+    "texts": ["Citizens of the US, Canada, Brazil, most of western Europe, and a good deal of Africa are able to enter Namibia visa free for a stay of up to 3 months as long as their passport is valid for 6 months upon entry.\n\nEventually all countries in Africa will be awarded visa-free entry, but that is probably a few years away.", "For those citizens of countries who are required to obtain a visa, it is advisable to check with the local consulate regarding exact documentation requirements. Generally you can expect a single entry visa to cost about £60, while a multiple entry visa will run you £90.", "It may be a good idea to bring your yellow fever certificate here as proof of vaccination. Namibia may require you to show your proof of vaccination if you are coming from any country with a high prevalence of Yellow Fever (countries in the Yellow Fever belt of Africa and South America). There is a 10 day incubation period after receiving the vaccination, so validity begins 10 days after you’ve taken the vaccine. Certificates are valid for 10 years from the time of issue."]
+  },
+  "5": {
+    "header": "When to Visit",
+    "section": ["Dry Season", "Wet Season", "January", "Shoulder Seasons"],
+    "texts": ["The dry season runs from May to September and is generally considered to be the best time to visit Namibia. This is mainly due to the fact that animals in the National Parks may be easier to spot due to dry conditions making the watering holes their main lifeline. In the wet season animals are able to get their water from elsewhere and so are less concentrated. The weather also tends to be cooler and so more tourists seem to prefer to travel during this time.", "In the wet season, (November-March) it can be extremely hot, and even humid in some parts of the country. “Wet” is a strong word in Namibia as the country is about 90% desert. Rainfall is infrequent even during these months, although flash floods can happen and are something to be aware of when camping as they can be extremely  quick and dangerous.", "I traveled in January, which is said to be the “worst time” to see animals in Namibia, but they were literally everywhere I turned. Everywhere I went I found a friendly snout or a family of wagging trunks. If you’re someone like me who relishes the hot weather, this is a wonderful time to go. There are less tourists, and still plenty of wildlife to take in.", "In Etosha, I arrived just before the big rains started, so this helped a bit, but traveling during the shoulder seasons and the off season is a great way to save some money and give yourself some bargaining power. If you do want to travel in the off-season, try to time it before the big rains start, err on the early side like December or early January. Some resorts do close down for the low season so check before arrival. Because less people tend to visit in the low season it may be more difficult to find other travelers to share a camper with, but if you start your trip in Windhoek and have time to hang out for a few days you should be able to meet up with people at backpacker hubs like Chameleon."]
+  },
+  "6": {
+    "header": "Language",
+    "section": ["", "Afrikaans", "Other Languages"],
+    "texts": ["English is the official language of Namibia, however, Oshiwambo is the language most widely spoken.", "About 10% of the country speaks Afrikaans (guess which ones!)", "The Khoekhoe language is the second most popularly spoken indigenous language of Namibia and is spoken by about 11% of the population. There are numerous other regional languages and you can expect to hear a variety of dialects as you move across the country."]
+  }
+}

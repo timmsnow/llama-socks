@@ -1,0 +1,27 @@
+{
+  "2": {
+    "header": "Electricity",
+    "section": ["Voltage", "Plugs and Sockets"],
+    "texts": ["In Nepal the standard voltage is 230 V and the frequency is 50 Hz. This is the same as in most of the neighboring countries, so if you’ve purchased any appliances in Asia you should be good to go. Most appliances are designed for dual voltage, however some bigger appliances like hair dryers may cause issue if they run on 110 V (like American appliances).", "Nepal uses the European style (2 round pins) plug type C, as well as types D and M, which have three round pins."]
+  },
+  "3": {
+    "header": "Driving",
+    "section": ["", "Car Rental"],
+    "texts": ["In Nepal, you will be driving on the left side of the road.", "Technically, all drivers are required to have a Nepalese drivers license in order to legally be on the road. This means, as a short term visitor, it’s unlikely you’ll be getting behind the wheel. Most care rental companies offer the services of a driver along with the vehicle. This is actually probably for the best, since driving in Nepal is uncomfortable at best and without a doubt a bit hazardous."]
+  },
+  "4": {
+    "header": "Visa Information",
+    "section": ["Visa On Arrival", "Requirements", "No VOA", "Visa Renewal"],
+    "texts": ["For citizens of most countries, a visa for Nepal can be obtained on arrival at the Tribhuvan International Airport, Kathmandu and at border entry points in Kakadvitta, Birgunj, Bhairahawa, Nepalgunj, Gaddachowki on the Nepal-India border and Kodari on the Nepal-China border.", "A valid passport and one passport -size photo with a light background are required to obtain the visa, and payments must be made in cash with any of the following currencies: Euro, Swiss Franc, Pound Sterling, US Dollar, Australian Dollar, Canadian Dollar, Hong Kong Dollar, Singapore Dollar and Japanese Yen.\n\n15 day visa = $25 USD · 30 day visa = $40 USD · 90 day visa = $100 USD", "Nationals from Nigeria, Ghana, Zimbabwe, Swaziland, Cameroon, Somalia, Liberia, Ethiopia, Iraq, Palestine and Afghanistan will need to obtain visa from Nepal Embassies or Diplomatic Missions in their respective countries, they can not get their visa on arrival.", "To renew a Visa you can go to the Department of Immigration, Kalikasthan, Kathmandu. You can stay for a maximum of 150 days in a visa year (Jan 1 to Dec 31)."]
+  },
+  "5": {
+    "header": "When to Visit",
+    "section": ["Summer is Messy", "Winter: Clear and Cold", "Should Season", "Weather Can Be Crazy"],
+    "texts": ["Nepal is a country with a wide range of climates and can be visited any time of the year. The summer months (June-August) are when the monsoon rains come. This can make mountaineering a pretty uncomfortable experience and the already sweltering lowlands become downright swampy.", "The winter months of December-February create conditions for clear skies and consequently, the best views of the Himalayas. These months can make for some cold hiking though, so you will want to pack appropriately.", "The shoulder seasons have a happy medium. Warmer weather means more comfortable hiking, and although the mountain peaks can, at times, be obscured by cloud cover, the clouds will generally break at various points throughout the day giving you intermittent glimpses of the majestic peaks. Mornings are typically clearer than afternoons. In April the rhododendrons bloom and the pathways along the Annapurnas become a blanketed in crimson flower petals.", "At all times of the year weather in the mountains can be unpredictable. In a matter of seconds the weather can change from extremely pleasant to downright terrifying. Always bring the correct gear for any given weather. More than anything, staying dry will go a long way to making your experience a good one."]
+  },
+  "6": {
+    "header": "Language",
+    "section": ["Spoken", "Written"],
+    "texts": ["Known as Devanagari, Gorkhali, or Parbatiya, the Nepalese language is a sub-branch of Eastern-Pahari, and Indo-Aryan language with roots in India.", "The Nepalese is a beautiful script that’s similar in appearance to what you might find in India. It is written with the Devanāgarī alphabet, which developed from the Brahmi script (India) in the 11th century AD."]
+  }
+}

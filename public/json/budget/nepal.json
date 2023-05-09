@@ -1,0 +1,54 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": "Nepal is extremely easy on the wallet. Everyday expenses such as food and accommodation are easy to find for the budget conscious traveler. Chances are, your biggest expenses in Nepal will be park permits, and any other associated hiking costs such as hiring a Sherpa, or getting the right water-proof clothing. Because everything else is so affordable, don’t skimp on the important stuff."
+  },
+  "2": {
+    "header": "Accommodation",
+    "section": ["", "Thamel", "Hot Water", "Breakfast"],
+    "texts": ["There is so much good, cheap accommodation in Nepal and the biggest challenge will be deciding where, out of all the great options, you should lay your head.", "In Kathmandu you can expect to pay between $15-30 for a clean, well located, en-suite double room in Thamel. This is the backpacker, tourist center of Nepal, and pretty much every foray into the country will start from here. While it may feel a little contrived, the truth is it’s an extremely convenient place to stock up on supplies, eat some great food, and sleep for CHEAP.", "Hot water is _generally_ included in most accommodation in the cities, but not always reliable. It may be a good idea to ask upfront when you’re booking the room if you can expect hot water, so theres no confusion when you’re upset about the tap running cold. In the mountains you may need to pay a small premium (generally about $.50-$1) to get them to heat up the taps, which, after a long hike up a cold mountain, is rupee well spent.", "Unless you’re staying somewhere fancy, breakfast is not typically included. Many budget hotels will have an onsite restaurant, and expect you to eat breakfast there, even though it’s not free. This is a small way in which the proprietor can earn a little more money, and while you aren’t beholden to them, it’s a nice gesture to spend your money with them, especially given how cheap the rooms (generally) are."]
+  },
+  "3": {
+    "header": "Activities",
+    "section": ["Everest", "Annapurnas"],
+    "texts": ["If you are planning on going all the way to the top of Everest, the peak permit is $11,000! Less ambitious hikers can get a permit to reach Base Camp for about $30. A TIMS card will also be required which will set you back about $20, or half that if you are doing your hike with a registered agency. Generally speaking, if you are going to Base Camp with an agency you will be getting everything in a bundle. That means, your permits, domestic flight to Lukla, accommodation, and meals will all be one set price ranging from about $2000-5000 depending on which agency you go with and the level of comfort you are expecting. If you are going for the summit, your total costs can easily reach $50,000.", "Hiking in other parts of Nepal is less regulated and generally cheaper. If you want to do the Annapurna circuit (12-13 day trek) and you buy a bundle from an agency you are looking at spending around $1000-1200 for everything (flight to Pokhara, porter, accommodation, meals, etc). While having a guide and someone to carry your stuff may seem like what all the cool kids are doing, it’s definitely not required. You can hike the Annapurnas for little more than the cost of your permit (approx $20 USD) and TIMS card (approx $10 USD). If you pack light (store your big bag in your hotel in Pokhara and just take a light day bag), you will not need a porter. The circuit is pretty well marked and well-trodden, so having a guide isn’t mandatory. Accommodation costs will run you about $3 a night on average and food costs generally don’t go higher than $5 a meal for most of the trek. Prices do get higher as you go up, but if you decide to hike without an agency you can save a ton of money. This depends on your comfort level of course, but the circuit, for the most part is easy going. You should be fit and healthy, but with tea houses every few kilometers, you can take as many breaks as you want and go your own speed. Free as the wh-oiiind!"]
+  },
+  "4": {
+    "header": "Food",
+    "section": ["Nepalese", "Fancy Pants", "Drink", "Mountain Prices"],
+    "texts": ["There is so much delicious food to be had in Nepal. If you are eating local-style you’ll be paying anywhere from $2-5 a meal. Momo’s (dumplings) are ubiquitous and cheap.", "In cities like Pokhara and Kathmandu, there are tons of restaurants that cater to the western palate (no thanks!), but should you choose to put on your fancy pants there are plenty of fine dining options where you can shell out $20 for a meal should you decide to do so. The cheap stuff is probably better anyway.", "A half liter of beer is rarely more than $3. Make sure you give the local libations a try, Tongba, Chyang, and Raksi can be found easily in Nepal. Each of them has it’s own interesting characteristics, and none of them will set you back much.", "One thing to note about food prices in Nepal: as you go further up the mountain prices will increase, especially once you leave the roads behind you. Once in mountain territory, the food must be carried by donkey, and for that a premium must be paid. Also, give those donkey’s the right of way on the trail! They’re working hard for you."]
+  },
+  "5": {
+    "header": "Transit",
+    "section": ["Long Distance", "Tourist Buses", "Flights", "Taxis"],
+    "texts": ["Long-distance transit is super affordable. Regular public buses will cost you about $1 an hour. So Kathmandu-Pokhara shouldn’t be more than $8. Sometimes you can find cheaper, but the comfort level will probably decline as well.", "They have “tourist buses” which tend to give you a bit more space, make fewer stops, and sometimes even include air con! You’ll pay a few bucks more for that but it won’t break the bank.", "Domestic flights aren’t particularly cheap, but aren’t crazy expensive unless you’re flying in a small prop plane into the mountains… if you want the views, you’re gonna pay for them! The Kathmandu-Pokhara flight generally sells for around $100 USD one way. If you have the time, travel by land.", "Private taxi’s can be arranged if you need to get somewhere and feel a little stressed for time. It definitely a more comfortable option than the public bus, but be ready to haggle. The taxi drivers in Kathmandu rarely go for the meter."]
+  },
+  "6": {
+    "header": "Daily Budget Breakdown",
+    "section": ["Budget", "Mid-Range", "Lux"],
+    "texts": [
+      [
+        "momos $3",
+        "public bus to Bandipur $8",
+        "hiking $FREE",
+        "single room $6",
+        "$20 per day"
+      ], 
+      [
+        "street food $8",
+        "public bus to Bhaktapur $.25",
+        "entrance into UNESCO Bhaktapur $13",
+        "private room ensuite $12",
+        "$25-40 per day"
+      ],
+      [
+        "western meals $15-20",
+        "taxi only $15+",
+        "Durbar Square entrance $9",
+        "plush double at a nice hotel (p/p) $40 (+)",
+        "$100+ per day"
+      ]
+    ]
+  }
+}
