@@ -1,0 +1,54 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": "The Philippines is a place where you can travel with a very small budget, however, there are times, when it may be critical for morale to spend the extra dough and NOT take another 7 hour jeepney ride. Unfortunately the more expensive options tend to be, well, expensive. It’s a balancing act, but with patience and an open mind, you can travel here for pretty cheap."
+  },
+  "2": {
+    "header": "Accommodation",
+    "section": ["Room Costs?", "Big-name Islands", "Village vs BeachFront", "Staying in the Cities"],
+    "texts": ["For the most part accommodation is not the budget killer here. Most beach-hut style doubles will set you back around $10-20 for a good double room with a bathroom. There are absolutely cheaper options if you want to forgo some comforts, or are open to less convenient locations. Most budget room rates are negotiable, depending on season and availability.", "Places like Boracay and these days, Panglao, and even El Nido are getting considerably more expensive than they used to be. Traveling off the beaten track will see your accommodation budget drop considerably.", "A lot of towns in the Philippines have a similar set up, with one long strip of tourist accommodation on the beach front backed by a working village. Some Philippinos offer homestays for foreigners looking for a deal. Rooms “in the village” will always be considerably less than those on the beach, and they may be just as comfortable, however, it’s wise to bring earplugs.", "Hotel rooms in larger cities like Manila are a little more expensive and it’s worth it to splash out a little bit there. Manila is a place where you may find yourself craving a little solace, so make room in your budget for a nicer hotel, maybe with air conditioning as opening the window is probably a bad idea."]
+  },
+  "3": {
+    "header": "Activities",
+    "section": ["Diving", "Moped Rental", "Haggling"],
+    "texts": ["I spent a good chunk of my budget on diving in the Philippines, but not because it was expensive, rather because theres some truly epic fun to be had underwater here. The dives are for the most part, really reasonable. In places like Malapascua and Coron, you can average about $25-30 a dive. It’s a bit more expensive in places like Panglao island near Bohol. Moalboal has really great and inexpensive dive courses for those just getting started. You get a lot of bang for your peso here, so go for it.", "Getting a moped in the Philippines can be really helpful if you’re trying to cover distances in short amounts of time. On some islands where there is little in the way of reliable transit, it could make sense to rent a moped at the port when you arrive, and utilize it the whole time you’re on island, returning it when you’re ready to move on. Mopeds typically can be found for between $10-15 USD a day. On islands like Boracay, you can triple that.", "Nearly every activity I participated in during my time on the islands came with a certain level of bargaining. Almost no prices are fixed and so you can get widely ranging price quotes from different guides, retailers, and rentals. It’s never a good idea to haggle so hard you underbid and consequently offend the person you’re doing business with, but it is fair to say doing a little research and shopping around can save you a good bit of money in the long run. Be respectful, but find a price that you are both happy with."]
+  },
+  "4": {
+    "header": "Food",
+    "section": ["Food Costs", "Fast Food", "Kinilaw", "Booze"],
+    "texts": ["Food is not expensive in the Philippines. Food in restaurants tends to be affordable. $5 a plate is pretty standard.", "There is a high concentration of fast food establishments in the Philippines which means unfortunately, the closest restaurant to you is most likely one of a greasy burger and fry variety. Mcdonalds, Pizza Hut, and Jollibee all offer the culinary standard you can expect worldwide. It’s hard to avoid it here, but… do your best.", "Fresh caught fish, marinated in ginger and lime, lightly cooked by the citric acid and served in heaping spoonfuls to be consumed beachside with a cold beer. Honestly, if you ask me, the best of the best of Philippino cuisine. Generally something like $4 USD will get you a whopping portion of the stuff.", "San Miguel goes down easy and it about $1 a beer. For some reason San Miguel light is always a little bit more expensive than the regular beer. Coconuts are 50-75 cents. Hooray!"]
+  },
+  "5": {
+    "header": "Transit",
+    "section": ["", "Internal Flights", "The Four Hour Rule", "Jeepney", "Bus"],
+    "texts": ["If you want to travel like a local you will move around the country for so cheap it will barely be a consideration. That being said, most locals aren’t trying to see the entire country in one short trip. It’s the eternal trade-off here, time or money? Keep a little extra wiggle room in your budget for emergency I-CAN’T-TAKE-IT-ANYMORE funds in case you need to jump in a taxi after the third Jeepney breaks down.", "Domestic flights in the Philippines are a must. Traveling here can be extremely time consuming, with multiple legs involved in the journey. Fortunately flights aren’t too expensive. Most puddle-jumpers can be taken for $50-80 USD, however make sure you check the fine print about baggage costs before you buy as most of these planes have strict weight restrictions.", "A good rule to follow is if you are traveling for 4 hours or less, do it as cheaply as possible. Take Jeepneys and the local bus when going short distances, but if it’s a choice between a 10 hour boat ride and a plane, do yourself a favor and fly. Travel in the Philippines usually means multiple leg-journeys which in planning look much shorter than in reality. You could find yourself spending multiple days spending WAY longer getting from A to B than you bargained for.", "These little rumbling wonders are by far the most economical option for getting around the country. If you want you can pretty much travel anywhere overland in a Jeepney for pocket change. You can even ride on the roof if you’re so inclined. They aren’t the most comfortable, but if you do a little this and a little that, it can help extend your transit budget significantly.", "Buses in the Philippines are affordable, and not particularly luxurious."]
+  },
+  "6": {
+    "header": "Daily Budget Breakdown",
+    "section": ["Budget", "Mid-Range", "Lux"],
+    "texts": [
+      [
+        "street/fast food $10",
+        "3 San Miguels $5",
+        "3 hour Jeepney Ride $2",
+        "room with shared bathroom (p/p) $6",
+        "$22-30 per day"
+      ], 
+      [
+        "tourist restaurants $15",
+        "moped rental $12",
+        "drag show at the “Library” $10",
+        "double ensuite (p/p) $8-10",
+        "$45-50 per day"
+      ],
+      [
+        "tourist restauarnts $15+",
+        "taxi only $15+",
+        "2-tank scuba dive $60",
+        "plush double (p/p) $30 (+)",
+        "$120+ per day"
+      ]
+    ]
+  }
+}

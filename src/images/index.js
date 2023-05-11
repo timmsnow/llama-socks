@@ -338,4 +338,12 @@ export const TOP5BANNER = {
   },
 }
 
+export const ABOUT = {
+  "timmBanaue": require('../images/about/timmbanaue.jpg'),
+  "timmBorobudur": require('../images/about/timmborobudur.jpg'),
+  "timmDiveIndo": require('../images/about/timmdiveindo.jpg'),
+  "timmOnsen": require('../images/about/timmonsen.jpg'),
+  "timmSaxayhuaman": require('../images/about/timmsaxayhuaman.jpg'),
+}
+
 // export {IMAGES, COUNTRY_BANNERS};

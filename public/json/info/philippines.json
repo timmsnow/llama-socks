@@ -1,0 +1,27 @@
+{
+  "2": {
+    "header": "Electricity",
+    "section": ["Voltage", "Plugs and Sockets"],
+    "texts": ["The electricity in the Philippines is 220 volts, 50 hz. This means if you are using some of the more electro-intensive appliances like hair-dryers, you may want to buy them in the Philippines as opposed to bringing them from home, since it is likely they are not compatible with the higher voltage.", "In the Philippines the power plugs and sockets are the North American style type A, B (flat pins) and also the European style type C (round pins)."]
+  },
+  "3": {
+    "header": "Driving",
+    "section": ["", "Car Rental"],
+    "texts": ["Most likely due to the long and somewhat heavy-handing footprint left by the US, in the Philippines, you will drive on the RIGHT side of the road.", "If you are interested in renting a car here, you must be 21 years of age, and have held a valid drivers license for at least two years, without any major endorsements."]
+  },
+  "4": {
+    "header": "Visa Information",
+    "section": ["Visa Free", "Visa Required", "Proof of Onward Travel"],
+    "texts": ["The vast majority of the world will get visa-free entry into the Philippines for a period of 30 days. If you would like to extend your time, you can add another 30 days at one of the immigration offices in a major city, such as Manila or Cebu City (Cebu was faster).\n\nBoth Brazil and Israel are allotted 59 days of visa free travel.", "Visas are required and should be obtained prior to arriving in the Philippines for citizens in several countries in the middle East, Saharan Africa, India, China, and a few others in Asia and Europe.", "Note that if you should have proof of onward travel or a return ticket if you are planning on visiting the Philippines. In some cases the airline may not let you board the plane if you do not have proof of a flight out of the Philippines."]
+  },
+  "5": {
+    "header": "When to Visit",
+    "section": ["Dry Season", "Tourism Boom"],
+    "texts": ["The dry season in the Philippines is from roughly November to April, meaning that seas are calmer and the whole of the country is a lot more accessible, especially remote areas that may be cut off during the wetter months. Temperatures are more moderate from March and April are the hotter months of the dry season so December to February are considered the most comfortable time for holidaying here.", "The Philippines is enjoying a heightened level of tourism of late and traveling during peak time means that a lot of accommodation will be booked in advance and the prices will be higher. Keep that in mind when planning your trip and either plan/book ahead, or consider traveling in the shoulder season. (November/April)"]
+  },
+  "6": {
+    "header": "Language",
+    "section": ["", "Tagalog"],
+    "texts": ["“Filipino” is the standardized version of Tagalog that is considered to be the official language along side English. You will hear both all across the Philippines.", "Tagalog is a Austronesian language with many words rooted in Bahasa (Indonesia, Malaysia), and some borrowed Spanish and English as well. There was no single language spoken in the Philippines for centuries as they different regions have different dialects, but once the Spanish colonized the archipelago and made Manila the capital, the Tagalog speaking region grew to have dominance over the other languages in commerce."]
+  }
+}

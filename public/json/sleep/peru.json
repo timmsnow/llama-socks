@@ -1,0 +1,27 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": ["Peru has some fantastic budget accommodation. It also has some seriously drab, scary, less-than-desirable budget accommodation.\n\nBig cities like Cuzco and Lima has TONS of budget options. The most important factor in the big cities is safety, so even if your bathroom faucet leaks or your room smells a little funny, prioritize the location over the paint-job. These are a few places that I enjoyed and can happily recommend."]
+  },
+  "2": {
+    "header": "Lima",
+    "section": ["", "The Lighthouse Bed and Breakfast, Miraflores"],
+    "texts": ["Lima is absolutely filled to the brim with budget hostels and low-cost double rooms, and they are all mostly varying shades of drab, or loud, or lacking in cleanliness. The truth is Lima is a city where you get what you pay for. If you are here to party, there is excellent opportunity for that in one of the MANY cheap hostels surrounding Kennedy Park. If you want something a little more refined, or at least quiet, this is my big recommendation:", "The lighthouse is a breath of fresh air among the myriad budget hostels and blah 2 star hotels that abound in the tourist friendly area of Miraflores. While slightly more expensive than the bottom line, the double rooms are immaculately clean and well looked after, and the attention to detail gives the whole place a vibrant and warm feel. All rooms come with cable TV, wifi, and the breakfast is included.\n\nThere is also an airport shuttle available for those looking for an automatic pick-up on arrival."]
+  },
+  "3": {
+    "header": "Beaches",
+    "section": ["1 - Hostal Nylamp, Huanchaco", "2 - Guacamayo Bed and Breakfast, Mancora"],
+    "texts": ["In a town with a ton of budget friendly, beachfront options, Nylamp stands out big time. Set at the northern end, on the quiet side of town, the beach, directly in front of the hostel, is noticeably more peaceful here. The sprawling complex houses comfortable rooms with plenty of “relax” areas outfitted with hammocks and lawn-chairs. The breakfast menu is one of the best in the area, and they don’t slack on keeping the beers cold and stocked behind the reception desk. Watching the blindingly beautiful sunsets from the expansive rooftop fast becomes a nightly ritual.", "Guacamayo may not be the fanciest place in Mancora, but it’s excellently located, close to the beach on the quieter side of town, and the grounds themselves provide a nice, green escape from the dust and heat of the surrounding neighborhood streets. One of the cheaper places on the block, Guacamayo has ensuite rooms for a very reasonable price and a small plunge pool for those wanting a break from the pounding waves of the Pacific. What really makes this place stand out are the exceedingly friendly owners who go out of their way to make sure your stay is as comfortable as possible. A good vibe goes a long way."]
+  },
+  "4": {
+    "header": "Amazon",
+    "section": ["1 - Golondrina’s Hospedaje, Iquitos", "2 - Hotel Jungle House, Iquitos"],
+    "texts": ["Golondrina’s is about a 10 minute walk from the main square in the city center of Iquitos. The exterior may look a little bit worse for wear, but inside it’s a warm and welcoming hostel with a large guest kitchen, on-site tour operator, and a well maintained swimming pool. The rooms are simple, but clean, and the price is very, very right. The friendly people at Jungle Wolf Expeditions are on hand to walk you through some options for exploring deeper into the Amazon. They’re helpful, without being pushy, making Golondrina’s a one-stop shop.", "If you’ve just come back from a few days in the Amazon and really need to wash the jungle off you, Hotel Jungle House is a step above the other budget options, while not being too swanky or expensive. There’s an on-site pool, good breakfast, and the whole place is clean clean clean. A welcome relief after a few days of getting eaten alive by mosquitos in the largest rainforest in the world."]
+  },
+  "5": {
+    "header": "Sacred Valley",
+    "section": ["1 - Comarca Hostales, Cusco", "2 - The Upcycled Hostel, Ollantaytambo"],
+    "texts": ["The people over at Comarca are a super friendly bunch who run a tight ship and a clean hostel. It’s one of the cheaper hotels in the historic San Blas neighborhood and is excellently located on a quieter side street so no need to worry about noise at night.", "This adorable little operation in the center of town gets high marks for being so dang attractive. The decor is well… upcycled, and the whole place has a very earthy vibe without being overwhelmingly… hippie-dippie. It’s centrally located and the views of the ruins on the surrounding mountains are wonderful. It’s not the cheapest place in town but the cost of a double room is still within the budget range and the style is leaps and bounds above the competition, not to mention the breakfast is included. It’s a top pick for sure."]
+  }
+}

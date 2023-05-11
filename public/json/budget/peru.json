@@ -1,0 +1,54 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": "Peru is a fantastic country to visit for budget travelers. Daily costs here are, on the whole pretty cheap by the standards of the developed world. The biggest expenses come from activities involving hired guides, park/site entry, or, if needed, private transportation costs (like in the Amazon perhaps).\n\nWhile the price tag might seem steep to visit Machu Picchu or to fly over the Nazca lines, remember that these are the experiences that make coming to Peru the unforgettable experience that it is. There is a lot to be seen here. Don’t short change yourself on experiences."
+  },
+  "2": {
+    "header": "Accommodation",
+    "section": ["Budget Hotel", "Air Con?", "Hostels", "Advanced Booking?"],
+    "texts": ["Budget hotel rooms in Peru come pretty cheap. Even in the major urban centers like Lima and Cuzco it isn’t hard to find an ensuite double room with air-con for $30-40 USD per night.", "If you forego the air-con and the private bathroom you may find it for even less. In high altitude destinations it’s highly unlikely you’ll need air-con, and even in the hotter places along the coast you should be ok with a fan and an open window.", "Peru does have a healthy number of dorm accommodations for single travelers wanting to stay on the cheap. Finding a bed for as low as $5 USD is not impossible, although the quality varies greatly. Most hostels in Peru tend to be a little bit rowdy, and the private rooms tend to be over-priced for what you get. Generally, budget hotels will offer more value for your sol.", "Booking in advance during the high season isn’t a bad idea if you want to secure a good price and location, especially in Cuzco and the Sacred Valley, where prices tend to be higher and rooms are in high demand."]
+  },
+  "3": {
+    "header": "Activities",
+    "section": ["", "Hiking", "Ancient Sites"],
+    "texts": ["This is where the budget hiccups happen. Big ticket items like Machu Picchu, the train to Aguas Calientes, flights over Nazca etc can set you back considerably when it comes to your daily expenses. While you may be able to negotiate some rates, like guided hikes, group tours etc, a good number of your activities will be set prices. Just try your best to equal things out with a few days of cheap eating and you should be able to get back on track.", "If you aren’t joining a guided hike like the Inca Trail, you can still take advantage of some pretty fantastic day hikes around the Sacred Valley for free, or at most, for the cost of your boleto touristico. Most day trips won’t require a guide and are sign posted, making it cheap and easy to see the sights. Just make sure you know what you’re getting into and stay on the main trails.\n\nHiking around Colca Canyon can be done without a guide as well, but keep in mind that many of the trails here are not well sign-posted and it could be easy to follow the wrong path. Having a guide could save you a whole lot of headache.", "Entry fees for most of Peru’s ancient archeological sites like Chan Chan, or the Moche Pyramids tend to hover in the $4 range. The biggest cost could come in the form of transportation to and from the sites. While some can be accessed with cheap public transit, others may require a taxi, and you may have to pay the driver to wait for you while you explore the site. The cost of this would need to be negotiated, but 20-30 soles for an hour of waiting is pretty standard."]
+  },
+  "4": {
+    "header": "Food",
+    "section": ["", "Treat Yourself... with Caution", "Cheap Lunch", "Dinner Costs"],
+    "texts": ["As a general rule, the food in Peru is excellent, probably the best and most varied cuisine in all of South America.", "There is a lot of opportunity to eat well for very cheap in Peru. In places like Lima and Cuzco, where the foodie scene is really starting to take off, it’s also easy to drop a TON of cash if you need to go to the flashy new hot spots.", "The “almuerzo” special, or “menu del dia” is a set menu, usually posted on a board in front of the restaurant with several cheap set menus. These are lunch specials that usually include a starter, a main, a drink of some sort, and occasionally a desert. Finding these almuerzos are essential in keeping your food costs down. It’ll make a big difference, especially in the larger cities like Lima and Cuzco.\n\nYou can usually find an almuerzo for about $4 USD.", "Fantastic dinners can be had for under $10 even in tourist locations, and a big ol’ beer shouldn’t cost more than $2-3 USD per 1/2 liter."]
+  },
+  "5": {
+    "header": "Transit",
+    "section": ["Internal Flights", "City Taxis", "Long Distance Transit"],
+    "texts": ["Getting around Peru by Plane is not as expensive as you might think, and while it’s probably good to reserve air travel for the real long distances (Lima to Cusco for example), you can find one way flights for less than $100 USD, even on major airlines like Avianca, and even last minute.\n\nIt is generally cheaper to book Peruvian flights IN Peru rather than outside of it. So if your dates are flexible you can save some money. Booking directly with an airline agency in Lima is a good way to avoid any potential confusion using the local Peruvian websites.", "Most taxis within the cities are metered. There may be different pricing for taxis traveling at night as opposed to during the day.\n\nIn Lima, the starting rate is 7 soles, and approximately 5 soles per every kilometer after that. The official airport taxis charge between 50 and 60 soles each way from the airport to Miraflores.", "Bus travel is the number one mode of transit in Peru, meaning that there is an extensive network of long distance buses plying the roads and highways all across the country. Because of the high density of long distance travelers in Peru there have been great strides made in creating comfortable bus travel at affordable prices.\n\nAn 8 hour bus trip on a budget line will run you around $10 USD, while a luxury night bus with fully reclining seats is more like $30-50 depending on the route."]
+  },
+  "6": {
+    "header": "Daily Budget Breakdown",
+    "section": ["Budget", "Mid-Range", "Lux"],
+    "texts": [
+      [
+        "eating almuerzo $4",
+        "Chan Chan entrance ticket $4",
+        "bus ticket to Chan Chan $.50",
+        "room with shared bathroom (p/p) $13",
+        "$25-30 per day"
+      ], 
+      [
+        "almuerzo and a nice dinner $15",
+        "taxi $5-10",
+        "sight-seeing $15+",
+        "double ensuite (p/p) $15",
+        "$50-60 per day"
+      ],
+      [
+        "no budget meals $50+",
+        "taxi only $25",
+        "guided hike in Colca Canyon $30",
+        "plush double (p/p) $50 (+)",
+        "$160+ per day"
+      ]
+    ]
+  }
+}
