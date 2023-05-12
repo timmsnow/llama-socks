@@ -44,6 +44,7 @@ const Country = () => {
     "Thailand": "THB",
     "Philippines": "PHP"
   }
+  const downCaseCountry = country.replace(/[A-Z]/g, (letter) => `_${letter.toLowerCase()}`).slice(1)
 
   const getCurrencyConversions = () => {
     fetch(`https://v6.exchangerate-api.com/v6/${CURRENCY_KEY}/latest/${baseCurrencies[country]}`)
@@ -54,7 +55,8 @@ const Country = () => {
 
   const getCoordinates = () => {
     const endpoint = 'mapbox.places';
-    const search_text = country.replace(" ", "-");
+    const search_text = downCaseCountry.replace(" ", "-");
+    console.log(search_text)
     fetch(`https://api.mapbox.com/geocoding/v5/${endpoint}/${search_text}.json?access_token=${MY_ACCESS_TOKEN}`)
     .then(response => response.json().then(data => ({
       data: data,
@@ -80,23 +82,23 @@ const Country = () => {
   }
 
   async function fetchInfoData() {
-    setInfoData(await (await fetch(`../../json/info/${country}.json`)).json());
+    setInfoData(await (await fetch(`../../json/info/${downCaseCountry}.json`)).json());
   }
 
   async function fetchMoveData() {
-    setMoveData(await (await fetch(`../../json/move/${country}.json`)).json());
+    setMoveData(await (await fetch(`../../json/move/${downCaseCountry}.json`)).json());
   }
 
   async function fetchBudgetData() {
-    setBudgetData(await (await fetch(`../../json/budget/${country}.json`)).json());
+    setBudgetData(await (await fetch(`../../json/budget/${downCaseCountry}.json`)).json());
   }
 
   async function fetchSleepData() {
-    setSleepData(await (await fetch(`../../json/sleep/${country}.json`)).json());
+    setSleepData(await (await fetch(`../../json/sleep/${downCaseCountry}.json`)).json());
   }
 
   async function fetchSafetyData() {
-    setSafetyData(await (await fetch(`../../json/safety/${country}.json`)).json());
+    setSafetyData(await (await fetch(`../../json/safety/${downCaseCountry}.json`)).json());
   }
 
   useEffect(() => {
@@ -124,7 +126,7 @@ const Country = () => {
           <Explore country={country.match(/[A-Z][a-z]+/g).join(' ')} />
         </Tab>
         <Tab eventKey="other_highlights" title="Other Highlights">
-        {center.length > 0 && <Highlights country={country} center={center}/>}
+        {center.length > 0 && <Highlights country={downCaseCountry} center={center}/>}
         </Tab>
         <Tab eventKey="info" title="Info">
           {/* {infoData && <Info country={country.match(/[A-Z][a-z]+/g).join(' ')} data={infoData} currencyData={currencyData} baseCurrencies={baseCurrencies} country={country}/>} */}

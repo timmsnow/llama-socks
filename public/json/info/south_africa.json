@@ -1,0 +1,27 @@
+{
+  "2": {
+    "header": "Electricity",
+    "section": ["Voltage", "Plugs and Sockets"],
+    "texts": ["In South Africa the standard voltage is 230 V and the frequency is 50 Hz. This is the same as in most of the neighboring countries, so if you’ve purchased any appliances in Namibia or elsewhere you should be good to go. Most appliances are designed for dual voltage, however some bigger appliances like hair dryers may cause issue if they run on 110 V (like American appliances).", "The plugs are type D and M, the same as in Namibia. They have three round pins."]
+  },
+  "3": {
+    "header": "Driving",
+    "section": ["", "Driving Requirements", "Road Rules"],
+    "texts": ["In South Africa, because it’s a former British colony, you will drive on the left.", "To rent a car in South Africa you must be at least 18 years old and have held a valid drivers license for at least a year. An international drivers permit isn’t required as long as you have the drivers license of your country of residence. All passengers are required to wear seat belts at all times.", "All signs will be posted in English. You can expect a few cop stops now and then if you’re traveling any considerable distance. Informal roadblocks are usually positioned near highway on/off ramps and are designed to catch drunk drivers. Your vehicle is not subject to search here without a warrant, however, K78 roadblocks are sanctioned by the National Police Commissioner and if they deem you suspect, any cop can search your vehicle legally. With that in mind, as long as you’re obeying the laws and aren’t stashing anything illegal in your car you should have no problems."]
+  },
+  "4": {
+    "header": "Visa Information",
+    "section": ["Who Needs a Visa?", "Visa Free", "Entry Requirements"],
+    "texts": ["Most of Equatorial Africa, the Middle East, and South East Asia, along with a few other select countries are required to have a visa to enter South Africa.", "The majority of European citizens, North and South Americans, and Australians, along with Chinese, Indian, and neighboring south African countries can enter for periods of 30-90 days (depending) visa free.", "Everyone should travel with proof of yellow fever vaccination, regardless of where you are traveling from and your proximity to the illness. It is a requirement for travelers coming from certain areas, and different countries are added and subtracted from the list every now and then so it’s better to have it and be safe, otherwise you could be denied entry without it. Depending on your port of Entry, proof of onward travel may also be requested. Depending on your luck with the immigration officer, it may not be enough to buy a cheap ticket to a neighboring country in this case, so if at all possible arrange your onward travel or return ticket in advance, as you could be held up at the border until you can supply proper proof. This is generally more of an issue at airports, but it can happen at land border crossings as well, where there is no wifi, and you could be on the next bus back from where you came. If there is a next bus."]
+  },
+  "5": {
+    "header": "When to Visit",
+    "section": ["", "Summertime", "Safari", "Mountains", "Whales"],
+    "texts": ["With a great temperate climate, and different regions providing different activities year round, you can really visit South Africa any time, depending on what is is you’re after.", "Summer time in South Africa is roughly November to March, with April bringing a chill in the mountains and on the coast. This is definitely high season for the southern region and you’ll find you’re not the only one itching to explore the beaches and coastline of this beautiful country. Prepare for crowds along the coast and book ahead if moving into popular areas. Meanwhile in the North, along the rivers it can get quite rainy in summertime.", "Game viewing tends to be best from May to September, and Kruger can get super busy during this time of year.", "The Drakensburgs are always relatively chilly, but it can get down right cold and snow falls here in the winter.", "Whale watching really ramps up from July-November."]
+  },
+  "6": {
+    "header": "Language",
+    "section": ["", "Top Languages", "English"],
+    "texts": ["There are a TON of languages spoken in South Africa. Pretty much everyone is bilingual in some capacity.", "While Zulu and Xhosa (a beautiful language with clicks!) are the most widely spoken first languages, Afrikaans and English place 3rd and 4th respectively.", "As a tourist you shouldn’t have any problems getting around with English. Generally speaking, English is taught in the schools and most people in the country have a good handle on it even if it isn’t their first language."]
+  }
+}

@@ -7,7 +7,6 @@ import Highlight from './Highlight.jsx';
 
 mapboxgl.accessToken = process.env.REACT_APP_MAP_BOX_KEY
 
-
 const Highlights = (props) => {
   const { country, center } = props
   const [jsonData, setJsonData] = useState([]);

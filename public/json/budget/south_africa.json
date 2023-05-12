@@ -1,0 +1,54 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": "For a country with as good of an infrastructure as South Africa has, one would generally expect it to be more expensive than it is. Of course there are different budget expectations for everyone, but if you are looking for a lower-costing itinerary, I think giving yourself a budget of between $40-50 per day should allow you to travel pretty comfortably here. Could you go cheaper? Maybe, but remember not to skimp on safety. If you need to take a cab, or pay a little extra to stay in a safer area, do it. Here’s how the budget breaks down."
+  },
+  "2": {
+    "header": "Accommodation",
+    "section": ["Hostels", "Doubles", "Couchsurfing", "Airbnb"],
+    "texts": ["Because of a thriving backpacker scene, there are tons of hostels and guesthouses offering budget rates and dorm beds all across the country. The Garden Route is something of a backpacker mecca, and many travelers will spend their time here hopping from one budget hostel to the next, staying in dorm beds and using the communal kitchen. It’s easy to find a dorm bed for about $14 US (or less) per night in places like Cape Town and the Garden Route.", "If you’re looking for a double room R700 (about $45 US) is a logical expectation. In most of the cities you can expect a plethora of mid-range options. Ensuite bathrooms and air conditioning are extras that could end up costing you a little bit more, so if you think you could handle a shared bathroom, you could stand to save a bit.", "Couchsurfing is alive and well in South Africa. It’s actually a fantastic country to stay with a local, since the cities can sometimes feel intimidating to a first time visitor. Having someone with intimate knowledge of the area will go a long way to helping you navigate safely. Note that LGBT travelers should probably stick to staying with vetted LGBT hosts, just in case.", "Airbnb is ever-increasing in popularity. Finding an apartment with a guest kitchen can go a long way to shaving some rands off your budget. Just be sure to do a little research into the area around your sublet. Ask the host if there is anything you should know about the neighborhood and the transit lines getting in and out."]
+  },
+  "3": {
+    "header": "Activities",
+    "section": ["", "Adventure Sports", "Cage Diving", "National Parks"],
+    "texts": ["Depending on what you want to get yourself into, this could be what ultimately kills your budget.", "There are a ton of adventure sport activities to partake in here, like river tubing, zip-lining, and quad biking to name a few. Skydiving in Durban will set you back about ZAR 2250, or US $150.", "Cage diving with the Great Whites in Gansbaai costs about ZAR 2050 (US $140) per adult, and that’s not even with a guarantee of seeing any sharks! Remember that nature likes to do what it likes to do, so nothing can be promised. You could end up hanging out on a boat for 6 hours with little more than a mild case of motion sickness to show for your $140. If you do decide to spring for a cage dive, keep an upbeat attitude and an open mind.", "Entry into Kruger National Park is actually quite reasonable at about ZAR 372 or US $25. Guided safaris range in price depending on where they are booked and how many people are involved. Gecko Lodge in Hazyview is a good place to meet other travelers and organize group safari’s into Kruger. This will for sure cut down on the cost of a game drive."]
+  },
+  "4": {
+    "header": "Food",
+    "section": ["Trendy Spots", "Snacks", "Local Eats", "Drinks"],
+    "texts": ["There are tons of trendy eateries in cities like Cape Town and JoBurg where you can watch your money evaporate into kale dust and smoothie powder. The food is good and it absolutely makes sense to treat yourself once in awhile, especially if you get the opportunity to go to a braai (South African BBQ). They are meat heavy smorgasbords and are well worth splurging for.", "Picking up some snack food like BILTONG (dried game meat) can go a long way in cutting your food budget down, especially if you’re planning to partake in any long bus rides.", "There are some great local eateries and food stalls that make for some good cheap cooking as well if you’re up for the adventure. Having a gatsby (gigantic multi-filling sandwich), burger, or a cheap buffet lunch will save you some rand, since you can generally find cheap meals at around ZAR 65 ($4.5 USD). All in all there’s no reason why you shouldn’t be able to get by budgeting $10-20 per day for food, depending on your level of indulgence.", "You can generally find a .5 liter bottle of beer for around ZAR 15. Just over a dollar. Beautiful."]
+  },
+  "5": {
+    "header": "Transit",
+    "section": ["Train", "Bus", "Plane"],
+    "texts": ["Local rail travel around the Cape is very affordable. There are first class and second class tickets, I would recommend springing for 1st class as it isn’t much in the way of price difference and is more likely to get you an actual seat. In Cape Town you may notice a good number of people crowding onto the first class cars. The majority of people riding do not actually have first class tickets, which can lead to some pretty interesting interactions between the interlopers and transit security. Make sure you buy the correct ticket.", "Intercity bus travel on a 1st class, comfortable company like Intercape is also affordable for what you get. A ticket from Cape Town to Johannesburg on their Sleepliner class will run you about ZAR 680 ($45 US). Strangely, some of the shorter hauls, like Port Elizabeth to Cape Town will still cost around ZAR 580 ($40 US). Have a look at the time tables to see what works best for you.\n\nThere are other bus companies that operate as well, and most of them will be cheaper than Intercape, however, given that Intercape only operates in South Africa and a few select routes in the surrounding countries, you may want to take advantage of the assigned seating and comfort level while you have the chance.", "Planes flying into the national parks are almost always crazy expensive. Regular domestic services can be found for under $100 USD one way. This is great for getting around a gnarly 20 hour bus ride on your return trip."]
+  },
+  "6": {
+    "header": "Daily Budget Breakdown",
+    "section": ["Budget", "Mid-Range", "Lux"],
+    "texts": [
+      [
+        "local eats $5",
+        "minivan travel around town $3",
+        "lounging on the beach FREE",
+        "hostel dorm bed $14",
+        "$25-30 per day"
+      ], 
+      [
+        "local eats $8",
+        "train to Stellenbosch $3",
+        "a night on the town $20",
+        "private double ensuite (p/p) $22",
+        "$50-60 per day"
+      ],
+      [
+        "BBQ Brai $15-20",
+        "taxi only $10-15",
+        "shark dive $60",
+        "plush double (p/p) $50 (+)",
+        "$150+ per day"
+      ]
+    ]
+  }
+}
