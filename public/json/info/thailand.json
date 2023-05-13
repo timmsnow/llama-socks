@@ -1,0 +1,27 @@
+{
+  "2": {
+    "header": "Electricity",
+    "section": ["Voltage", "Plugs and Sockets"],
+    "texts": ["The electricity in Thailand is 220 volts, 50 hz. This means if you are using some of the more electro-intensive appliances like hair-dryers, you may want to buy them in Thailand as opposed to bringing them from home, since it is likely they are not compatible with the higher voltage.", "Depending on where you are in the country you may encounter the American-style plug type A (flat pins), or the European style plug type C (round pins)."]
+  },
+  "3": {
+    "header": "Driving",
+    "section": ["To the Left, to the Left", "Renting"],
+    "texts": ["While never directly under the thumb of the British Empire, Thailand did have a close working relationship with them and as a result, driving in Thailand is done on the LEFT hand side of the road.", "You must be 21 years of age to rent a car in Thailand and you will need an IDP (international drivers permit) in addition to your regular valid drivers license from your home country."]
+  },
+  "4": {
+    "header": "Visa Information",
+    "section": ["", "90 Days", "30 Day Visa Waiver", "30 Days", "Visa Required"],
+    "texts": ["Citizens of most countries can visit Thailand visa-free.", "Citizens of Argentina, Peru, South Korea, Chile, and Brazil get 90 days visa free in Thailand upon entry.", "Citizens of Hong Kong, Russia, Vietnam, Laos, Macao, and Mongolia can stay for 30 days at a time with their visa waiver", "Many western nations, including the majority of Europe, the US, Australia, South Africa, and New Zealand can enter Thailand Visa free for a period of up to 30 days. After 30 days it is required to either extend your stay in a immigration office, or leave the country and re-enter. It is a good idea to plan on spending a few days out of the country before attempting re-entry as they have cracked down on same-day visa runs in the past. The extension is granted at most 2 times in a calendar year if crossing overland, but is unlimited if you are flying.", "Most African nationals, the majority of the middle east, select Latin Americans, and a few European countries will need to apply for a visa in advance. There may also be a yellow fever vaccination requirement for citizens of these countries. A yellow fever card is typically valid for 10 years."]
+  },
+  "5": {
+    "header": "When to Visit",
+    "section": ["Rainy Season", "Festivals"],
+    "texts": ["For most of Thailand the rainy season is roughly May-October. In the Gulf coast area (and islands of the Gulf), the monsoons will continue through November and December.\n\nThat being said, any time is a good time to visit Thailand. Even during the rainy season the torrential downpour can come fast and leave just as quickly. If you are hoping to get some discounts and a little more personal space, traveling during the monsoon can be a good way to get it.", "Festivals like the Vegetarian Festival in Phuket and Loi Krathong in the north are generally held in the months between September and November. They are based on the lunar calendar and so the dates are not fixed, however you can count on them occurring during this loose time frame. Both are incredible and worth making the effort to see."]
+  },
+  "6": {
+    "header": "Language",
+    "section": ["Thai", "English"],
+    "texts": ["Thai is, unsurprisingly, the official language of Thailand. It’s an extremely complex and nuanced tonal language that can be quite difficult to learn, but ultimately extremely rewarding should you make the attempt.\n\nKnowing a few words here and there can put you in a much better position when negotiating prices, and is likely to garner a few toothy smiles, (if not some looks of  confusion) from the locals.", "Despite being accustomed to tourists, with most people in the tourism industry having a handle on at least rudimentary english, most Thai people will warm up to you quicker if you at least try to speak in their native tongue."]
+  }
+}

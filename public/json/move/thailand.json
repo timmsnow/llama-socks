@@ -1,0 +1,32 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": ""
+  },
+  "2": {
+    "header": "Plane",
+    "section": ["Airports", "Internal Flights"],
+    "texts": ["Bangkok has two major airports, Suvarnabhumi Airport (BKK) and Don Mueang Airport (DMK). If you are flying on a long haul flight from another continent, then you will more than likely be using the former. DMK is a smaller airport used for domestic travel and some short haul international flights to neighboring countries. BKK is connected to the city’s train network which makes it easy to access the city when you land.", "Domestic flights in Thailand are incredibly cheap. Airlines like NOK air and Thai Smile fly regularly all over the country. I’ve seen flights for $30 in some cases.\n\nAir Asia is another wonderfully cheap discount airline that connects hubs all over Asia. Don’t expect any frills or in some cases, even free water. These planes are cheap which means they get creative in their money-making strategies.\n\nRead the fine print, particularly when it comes to baggage allowance."]
+  },
+  "3": {
+    "header": "Train",
+    "section": ["", "Overnight", "HuaLamphong"],
+    "texts": ["I love the Thai Rail network. It’s super affordable, and pretty extensive. A six hour journey from Bangkok to Cambodia can cost as little as $4, depending on your class of service. It’s smoother than the bus and there are plenty of vendors selling snacks that pass through the train cars should you be inclined.", "If you are interested in taking an overnight train, which I highly recommend since they are comfortable, reasonably priced, and efficient, plan on booking ahead. It’s worth it to get your tickets a couple days in advance to be sure that you have a spot as beds are limited and sell out often. Otherwise, you’ll be riding in the regular cars, meaning your night train just got a whole lot more experiential.", "Bangkoks Hualamphong station is the country’s main train station. It’s located in the city center in the Pathum Wan district. Everyone in the city knows where it is and can direct you to the station. Good luck pronouncing the name correctly, but after a few tries you should be able to get your point across."]
+  },
+  "4": {
+    "header": "Tuk tuk",
+    "section": ["", "Get Price in Advance", "Moto-taxis"],
+    "texts": ["Tuk-tuks are the metal mascot of Thailand. They are literally everywhere and everyone uses them as a regular means of getting around. They usually don’t cost more than $1 depending on how far you want to go and are perfect for short distance travel. They are hardy, durable machines and can make it through a surprisingly wide array of obstacles like cobblestone walkways, heavily pot-holed side streets, and washed out mud paths to name a few.", "Always agree on the price in advance, and pay upon completing the journey. This will help to reduce any confusion at the end since tuk tuks are not metered.", "Motor-bike taxis can also be found pretty much everywhere and are a good alternative to the tuk-tuk if the weathers nice and you want to feel the wind in your hair. They are generally a few cents cheaper than a tuk-tuk and can navigate their way through a traffic jam if you’re in a hurry. I don’t recommend sitting more than 2 to a bike, but I’ve seen as many as 4 adults commuting in this way before."]
+  },
+  "5": {
+    "header": "Boats/Ferries",
+    "section": ["", "Long-tail Boat"],
+    "texts": ["For inter-island travel, generally speaking, you will find the ferries are of a decent size and fit a good number of people. Unlike in some other South East Asian countries, safety is fortunately, something taken relatively seriously in Thailand and most ferries have life vests which they may or may not require you to wear during your journey.", "In some places, like Railay beach for example, the long-tail boat is the primary means of transport. These little guys normally seat about 6-10 people depending on their size and have one wee little turret-like pole with a propeller on the end, that extends down behind the boat to allow for steering and propulsion. The boats are powered by a regular car engine, which often require some maintenance.\n\nThese guys are cute and fun, but I wouldn’t want to be stuck in one during a storm… or a light wind. They are primarily used if you are sticking closer to the land and not for long distance travel."]
+  },
+  "6": {
+    "header": "Bus",
+    "section": ["Bus Stations", "Classifications"],
+    "texts": ["Bus travel in Thailand is extensive. Typically you will find two bus stations in any given city. One is for more local/short-haul travel, while the other is for long-haul destinations. The long-haul bus station is almost always a bit out of town and means you will need to take a tuk-tuk or a local bus to get there. Once you are in the terminal it’s pretty straight forward.", "the prices based on a per-kilometer rate with the price of petrol taken into account.\n\nVIP24 – This is the highest level of bus, and the most comfortable. It’s a 24 seat bus, with three passengers seated in a row, sometimes including a personal entertainment system. (whuuut?)\n\nVIP – This one has 32 seats, still maintains some comfort but is a bit cheaper than the VIP24\n\nExpress bus – This one is the next tier down and probably the last option you would want to consider for a long-haul.  They can contain anywhere from 40-56 seats and often make a lot more stops for passenger pick up than the other two.\n\nAll of these buses are air conditioned with a toilet on board. Most will claim to have wifi, only some actually do. Most tickets will include a snack and maybe a soft drink and they will all stop for a stretch break or two along the way."]
+  }
+}

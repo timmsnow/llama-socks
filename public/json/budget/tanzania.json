@@ -1,0 +1,54 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": "There really are only two ways to travel in Tanzania. There’s Luxury tourism, i.e.. getting ferried from place to place in private shuttles and small commuter planes, with pre-arranged airport pickups and personal guides who escort you through the country without you needing to so much as use a squat toilet…. OR, you travel like an African, on the bus, for 18 hours at a time, picking the chicken bones so thoughtfully left for you by your neighbor out of your rucksack.\n\nI’ll tell you right now that luxury tourism in Africa is out-of-this-world expensive. It’s also a good way to shield yourself from ever learning anything about the real Tanzania and her people. If you want to really see Africa, here’s what you can expect to pay on a budget. National Parks and activities aside, It’s easy to travel in Tanzania for as low as $20-25 US a day. If you have $50 or more to spend here per day, you can really live well."
+  },
+  "2": {
+    "header": "Accommodation",
+    "section": ["Cities", "Rural", "Safari", "Off Season"],
+    "texts": ["In most major cities and tourist destinations you’ll find a good mix of luxury and budget options. While there aren’t a TON of hostels, or back-packer specific hotels, they do exist, and it’s pretty easy to score a private room for between $10-15 USD. $20 will get you a step above budget, and may include hot water.", "Outside of cities and tourist areas, you will likely be staying in budget hotels designed with the traveling African businessman in mind. These are cheap, rarely cheerful, and often lack western comforts like toilet seats… or toilets for that matter. Expect to squat, and possibly to shower with a bucket. Rooms normally range from $5-10 USD.", "Then of course there are the safari lodges. These for the most part are exorbitantly expensive and typically booked with a safari package. Most of the lodges located INSIDE the national parks will cost you hundreds of dollars per person per night and usually include full board. There are some gems, typically located just outside the national parks, that are more inline with a midrange budget, but for the most part safari lodges are HIGH cost accommodations.", "No matter what type of accommodation you’re looking to book, know that traveling in the off-season can literally cut prices in half. But if you’re set on seeing the great migration you can count on some fantastically high costs to match the equally impressive crowds."]
+  },
+  "3": {
+    "header": "Activities",
+    "section": ["Safari", "Kilimanjaro", "Gombe", "Book on Arrival"],
+    "texts": ["And here’s where they get you. Entrance to both the Serengeti and Ngorogoro crater will run you about $70 USD for each park, per person (including taxes) for a 24 hour period of time. If you are actually descending into the crater itself at Ngorogoro, you will need to pay an additional US $295 per VEHICLE. This means everyone in the car will need to split this cost. If you organized your safari in Arusha, most likely the amount will be calculated and included in the overall tour cost.", "Kilimanjaro national park entry comes to around $80 US. Climbing the mountain can cost you anywhere from $1000-4000 USD. But don’t go with the cheapest as it’s almost assuredly unsafe. $2000 is a good starting point.", "Gombe national park fee is $118 USD per 24 hour period. If you are doing a multi-day hike, this will add up quick. Not to mention the money required to pay for your guide(s) and porter(s).", "If you have a little bit of time to play with you may want to consider waiting to book or arrange your safari until you arrive in Africa. Dealing directly with the African tour operators will save you TONS (as much as half!), as opposed to going through a western third party agency. While you may need to be a little more flexible with your dates during high season, the money you’ll save on commissions will pay for a few extra nights stay and then some. You’ll also have the added bonus of meeting your guide(s) and getting a feel for the whole operation before making a commitment."]
+  },
+  "4": {
+    "header": "Food",
+    "section": ["Street Eats", "Restaurants", "Western Food", "Drinks"],
+    "texts": ["Eating locally means eating CHEAP. You can find someone selling something edible just about everywhere you go. Fruit, especially bananas cost almost nothing and are easy to get. Buying a few hardboiled eggs and some bread in the market will get you breakfast for about $.75.", "Even meals in local restaurants rarely cost more than a few dollars. Budgeting $3-5 a meal will be more than enough here, which will get you a solid plate of ugali, some barbecued kookoo (chicken) and some greens. Perfect.", "If you’re eating at a western establishment, in which case all bets are off. Finding a western meal means you’re for sure in a tourist area, and you’ll be paying a premium for it. Coffee shops in Moshi for example will serve you a cappuccino, and you’ll pay the European price for the European experience.", "Water and beer range in price depending on where you are but paying more than $1 for a 1.5 liter bottle of water is rare. Beer usually tops out around $2."]
+  },
+  "5": {
+    "header": "Transit",
+    "section": ["Bus", "Flights", "Train"],
+    "texts": ["By far the cheapest way to travel in Tanzania. If you’re going by bus you can expect to pay about $1 an hour. Hardly a budget killer. Bus tickets should always be bought from a ticket window when possible since touts will often charge extra. There are often “tourist buses” or “luxury buses” advertised on laminated pieces of paper that make all kinds of claims from “AC ONBOARD” to “WIFI”. Let me tell you right now… there ain’t no AC, and there ain’t no wifi. If the price is significantly higher, don’t buy it.", "One way flights between major cities or places of interest can be between $100-300 USD depending on the route. Small cessna safari planes are typically expensive. Like $300 (ish) per direction. But what a view!", "Train travel is cheap. A first class ticket in a cabin on the Tazara train will run you about $100 USD, thats three days of train travel, two nights sleep, and all meals included. NOT bad. The 2nd and 3rd class train tickets are way cheaper, however it’s really worth it to spend the extra on first class. These train rides are long, and hot. Do yourself a favor and pay for the extra cabin space, and the door that shuts."]
+  },
+  "6": {
+    "header": "Daily Budget Breakdown",
+    "section": ["Budget", "Mid-Range", "Lux"],
+    "texts": [
+      [
+        "market meals $3",
+        "city public transit only $2",
+        "bus from Dar to Arusha $12",
+        "room in local African hotel $10",
+        "$25-30 per day"
+      ], 
+      [
+        "ugali dinner $5",
+        "ferry to zanzibar $35",
+        "dhow snorkeling tour $10-15",
+        "double ensuite (p/p) $25",
+        "$50-75 per day"
+      ],
+      [
+        "western meals $20 (+)",
+        "taxis $15",
+        "guided safari $100-200",
+        "plush double (p/p) $80 (+)",
+        "$250+ per day"
+      ]
+    ]
+  }
+}

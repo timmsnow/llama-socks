@@ -1,0 +1,54 @@
+{
+  "1": {
+    "header":"Intro",
+    "section": [],
+    "texts": "Thailand remains a country that is splendidly affordable."
+  },
+  "2": {
+    "header": "Accommodation",
+    "section": ["Room Type", "Big-Name Islands", "Hostels", "Budget Room"],
+    "texts": ["Thailand has everything. From simple beach-hut bungalows to all inclusive luxury resorts. Typical budget accommodation in the cities comes in the form of budget hotels, or family-run guesthouses. While it’s true that the more  famous islands are transitioning from backpacker to flash-packer to downright crazy fucking expensive, generally speaking you will be able to find something in your budget everywhere you go.", "Places like Phuket and Koh Samui offer insane resort-style accommodation with some rooms going for over $400 a night. It’s laughable since you can find similar, perhaps slightly, less luxurious, but still 4 star accommodation on the same islands for $50-80. The internet can be a deceiving place.", "Dorm beds are a thing that have become more common in recent years, so if you’re really trying to save, the wonders of room-sharing are now available to you.", "If you’re like me and prefer a private room but want to keep a tight budget, you should have no problem finding a double room with a fan for between $10-20, depending on where you are. Air con and other extras will get that price heading skyward."]
+  },
+  "3": {
+    "header": "Activities",
+    "section": ["", "Diving", "Moped Rental", "Drag Cabaret"],
+    "texts": ["This is the most relative aspect of Thai travel. For the most part you can count out your budget based on food, accommodation, and transit expenses. But the wild card will always be the activities. If you’re traveling on the cheap, you could easily spend nothing by just hanging out on the beach, hiking, and lazing in a hammock. Of course, then you’d miss out on all the great diving, rock-climbing, boat trips, and island hopping that’s on offer. And that would be an absolute shame.", "Thai diving costs depend on where you’re diving exactly, but in dive school factories like Koh Tao, you can expect to pay about $30 USD per dive, including equipment. Some dive shops will offer multi-day dive packages which can greatly reduce costs. In protected marine parks, or more isolated places you can expect to pay something more in the $40 dive range.", "All over Thailand, but particularly in places like Pai, Koh Phangan, and Koh Phayam, having a moped can really elevate your trip to the next level. Finding a reliable, reputable moped shop is important, so remember that cheapest isn’t always the best. That being said, you shouldn’t struggle to find a good bike for between $10-15 USD per day.", "If you’re in Bangkok or Koh Samui and find yourself in the mood for some proper entertainment, a night out with the ladies won’t set you back too much. Expect to pay something around 250 baht ($8 USD) to see the show, with a free drink included in the entry price. Worth it."]
+  },
+  "4": {
+    "header": "Food",
+    "section": ["Eat Well and Often", "Street Food", "Mukratha", "Booze"],
+    "texts": ["Food is not going to be the cause of a blown budget in Thailand. And that’s great news for you because it’s really, stupidly, incredibly delicious. I eat about 6 meals a day when I am in Thailand because I can’t help myself.", "If you’re dining street-side, you can expect to pay between $1-3 a meal. Thailand is famous for it’s street food. The vendors are skilled and you will experience some of the best meals of your life sitting in a broken plastic chair next to the train station, or in a back alleyway behind the mall. My general rule in Thailand is that the best food is served in places with no doors. If it’s open air, it’s probably cheap, cheerful, and delicious.", "My favorite, Mukratha (pronounce Moo-kata), is all-you-can-eat, buffet-style thai bbq and it’ll knock your socks off for a cool $5. Think, marinated meats, an endless supply of soupy rice noodles, and all the veggies and spices you could hope for. Not to mention the requisite ice-cream at the end.", "If you’re drinking local you’ll find it’s very affordable. Drinks made with the local “Samsong whiskey” shouldn’t cost more than $1 or $2. In western-style establishments expect to pay a high premium for familiar labels. Beer is fantastically cheap. 1/2 liters go for around $2."]
+  },
+  "5": {
+    "header": "Transit",
+    "section": ["Internal Flights", "City Taxis", "Train", "Bus"],
+    "texts": ["Domestic flights in Thailand can be very cheap thanks to airlines like Nok Air and Air Asia. Don’t expect any frills on board, but if you’re trying to turn a 12 hour overnight bus into a 2 hour flight, you’ll be pretty pleased with the outcome. One way flights can go for as little as $25 USD.", "Tuk-tuks are ubiquitous in Thailand. They tend to be very cheap, and an excellent way to move through cities choked with traffic. Agree on the fare before getting in the cab. Moto-taxi’s are another great option if you’re flying solo, as they are generally about half the price of a tuk tuk.", "Train travel is a wonderful way to get around Thailand. If you are going short distances, the third class tickets are literally pennies. For longer travel, sleeper cars are available, and you won’t have to pay more than $40/50 for your bed if you’re going between Bangkok and Chiang Mai for example. You’ll want to book any overnights a few days in advance.", "Buses are even cheaper, and range in comfort. It’s generally worth the extra couple bucks to get a nicer bus, and there are tons of companies offering “tourist shuttles” from here to there that are generally excellent quality, have aircon, and can save you the hassle of navigating the public bus station."]
+  },
+  "6": {
+    "header": "Daily Budget Breakdown",
+    "section": ["Budget", "Mid-Range", "Lux"],
+    "texts": [
+      [
+        "ONLY street food $5",
+        "Ayutthaya temple pass $7",
+        "train ticket to Ayutthaya $1",
+        "room with shared bathroom (p/p) $7",
+        "$25-30 per day"
+      ], 
+      [
+        "mostly street food $10",
+        "moped rental $12",
+        "drag show $8",
+        "double ensuite (p/p) $10",
+        "$45-60 per day"
+      ],
+      [
+        "no street food $15+",
+        "taxi only $15+",
+        "2-tank scuba dive $70",
+        "plush double (p/p) $30 (+)",
+        "$100+ per day"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1": {
+    "header":"",
+    "section": [],
+    "texts": ["Thailand is a relatively safe country. You can walk around at night without really having to worry about much happening. (Unfortunately, solo female travelers are the exception here. I am not encouraging anyone to take long walks alone in the dark, I’m simply stating that for the most part, it’s a pretty safe place).\n\nThere are definitely occurrences of theft and occasionally a violent crime will happen, so do your part in preventing this by not walking around with valuables exposed, sticking to well lit areas, and taking taxis late at night.\n\nIn more remote areas packs of wild dogs can become a concern. It can be a good idea to carry a stick and/or a rock that you can threaten the dogs with. That’s usually enough to scare them off."]
+  },
+  "2": {
+    "header": "Road Safety",
+    "section": ["", "Motorbikes", "Check the Bike", "Wear a Helmet"],
+    "texts": ["For the most part, Thailand’s roads are actually pretty well maintained. Bus drivers have a pretty good safety record, and aside from people making poor choices in heavy traffic, accidents aren’t insanely common.", "Renting motorbikes in Thailand is like Disney World in Florida, at some point, whether you want to or not, you’re gonna do it. Exercise extreme caution when driving one of these bad boys. If you aren’t familiar with how it works, don’t try to learn in a busy area.", "These bikes are getting rented out on a daily basis so check and make sure the brakes are in good condition and that the headlights work before driving away. Always take pictures of the body before you drive away so that you have a record of how the bike looked BEFORE you rented it, in case the rental company tries to charge you for previous damages.", "Always, ALWAYS wear a helmet. All around Thailand you will see previously over-eager farang sporting arm casts or serious cement burns. Ask them if they’re glad they wore a helmet. Accidents happen ALL. THE. TIME."]
+  },
+  "3": {
+    "header": "Party Safe",
+    "section": ["", "Solo Females", "Drugs"],
+    "texts": ["Partying in Thailand is an every night occurrence. If you are going to partake, especially in the rowdy full-moon party situations, please use good judgement. Khao San road is another place where people let loose and forget that they are in a foreign fucking country and have no support network here. Don’t rely on others to take care of you, and maybe don’t drink that third bucket of thai whiskey and red bull.", "Solo females should take special care, as violent attacks on the beach can occur. Don’t take a long walk down the beach alone at night. Especially when you’re hammered.", "Drugs are very illegal in Thailand. With the exception of the magic mushrooms on Tonsai beach, they should be avoided like the plague. Brokedown Palace anyone? That roach crawled right up INTO HER EAR. No, thank you."]
+  },
+  "4": {
+    "header": "Illness",
+    "section": ["See the Dr", "Street Food is Fine", "Malaria? ..or Dehydration?"],
+    "texts": ["When you are eating as much as I do in Thailand, it is an inevitability that some food poisoning situation should occur. At the very least you will suffer occasional bouts of diarrhea, and sometimes it can be much worse. If you aren’t feeling right for a few days in a row and OTC meds aren’t helping, go to the dr. It’s cheap, pretty painless, and they will be able to get you medicine right away.", "You are just as likely to get food poisoning from a 5 star resort as you are from the street food vendor. In fact, most street food is cooked to order, meaning the majority of the bacteria is cooked away right before you eat it.  Do you know when that buffet at the resort was cooked? So don’t shy away from a good time, just be ready to do what you gotta do to bounce back.", "Cases of malaria in Thailand are rare. It is only really present in the heavily forested border regions and even then the chances of you getting it are slim. More than likely you are heat-sick and dehydrated. Drinking a coconut or two ought to sort that out for you."]
+  },
+  "5": {
+    "header": "Politics",
+    "section": ["The Coups", "The Royals"],
+    "texts": ["Thailand has, since 1932, experienced 12 successful military coups, and many more unsuccessful attempts. Coups tend to happen in mixed-regime countries, where the government is partially autocratic and partially democratic. There is a level of freedom of expression and a bit of subversion as well. Once the ball gets rolling it can become a self-fulfilling prophecy as politicians left afloat in the wake of a coup may not trust each other as easily. The Thai coups rarely affect tourists really, although you wouldn’t necessarily want to be present to watch it happen as violence can occur in the street.", "Never ever ever ever ever ever speak ill of any member of the royal family. Like, just don’t. Avoid the topic completely if you can. If you’ve ever seen a Thai face change color at the mention of the King, you know what I’m talking about. It’s spooky."]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "2": {
+    "header": "Electricity",
+    "section": ["Voltage", "Plugs and Sockets"],
+    "texts": ["The standard voltage in Tanzania is 230 V and the standard frequency is 50 Hz.", "Power plugs here are type D and G. Type G is the British style plug with 3 large square-ish pegs, while type D is a rare type of plug, similar to the British style, but with round pegs. Most commonly seen in India, Nepal, and parts of Africa.\n\nYou will mostly encounter the type G, British plug."]
+  },
+  "3": {
+    "header": "Driving",
+    "section": ["", "Your License", "14 Days"],
+    "texts": ["Driving in Tanzania is on the LEFT side of the road. You must be at least 21 years of age to rent a vehicle in Tanzania", "You can drive in Tanzania legally with your home-country license as long as the license is in the Roman alphabet. It may be smart to bring an international drivers license just in case, in fact, in Zanzibar and IDP is required to rent a vehicle.", "Vehicles brought into Tanzania from outside of the country are legal for 14 days, but this can be extended for a period of up to 3 months."]
+  },
+  "4": {
+    "header": "Visa Information",
+    "section": ["Visa Required", "Euros and Dollars Preferred", "Yellow Fever"],
+    "texts": ["Visas are required for just about everyone who is traveling to Tanzania. Most visitors will get their visas on arrival when crossing the border, or at one of the international airports. Make sure you have the correct amount of cash ($50 or $100) depending on the country.\n\nIf you want to breathe easier and not worry about it, you can get your visa in advance from your nearest consulate office.", "I got my visa at the embassy in Zambia before crossing over. It was pretty painless and only took a day and a half. They prefer US dollars, but took my Zambian Kwacha all the same.", "Depending on where you are coming from you may be required to show your Yellow Fever Vaccination card. This is a good thing to have across the board if you are traveling in places like Africa. The certificate is valid for ten years, so get it done and keep it with your passport just in case."]
+  },
+  "5": {
+    "header": "When to Visit",
+    "section": ["", "High and Dry Season", "Da Babies", "Wet Season", "Whales"],
+    "texts": ["Tanzania is hot year round, so weather-wise it’s always a good time to visit.", "The dry season (June to October) is generally thought of as being the best time to view wildlife in national parks like the Serengeti, with June and July being the optimal Great Migration months. This is busy-season however, so prepare for EVERYTHING to be more expensive, and crowded.", "December and January are when the calving season takes place so if you’re into baby animals… and I mean really, who isn’t?.. this could be a good time to go.", "March and April mark the peak of the wet season, which mostly affects southern Tanzania. This means some roads become impassable and I HIGHLY recommend you don’t attempt a land-border crossing into Mozambique during this time. It’ll be a mess and you’re likely to spend days to weeks trying to navigate the muddy highways back to civilization. Getting around any un-paved areas is tough during this time of year so keep that in mind if you want to visit in this low-season period. The northern parks are largely unaffected, and you can expect lower prices and fewer peeps."]
+  },
+  "6": {
+    "header": "Language",
+    "section": ["", "Kiswahili", "English"],
+    "texts": ["Language in Tanzania is complex. There are about a bazillion regional dialects, most of which are of Bantu origin, and most Tanzanians are fluent in at least two languages, if not more.", "KiSwahili is the go-to in the major cities, and is for all intents and purposes, the official language of the country.", "English is spoken pretty widely in tourist areas and is taught, at least to a degree, in schools around the country. You will be hearing a good deal of “give me my t-shirt” and “give me my chicken!”, from village children who are eager to practice their English… and hopefully acquire a chicken while they’re at it…"]
+  }
+}
