@@ -39,7 +39,7 @@ const Budget = (props) => {
             <Row className="budget-row">
               {budgetType.map((type, index) => {
                 return(
-                  <div key={index}>
+                  <Col lg="4" sm="6" xs="10" className="mx-auto" key={index}>
                     <h4 className="mb-3 mt-5">
                       {type}
                     </h4>
@@ -50,7 +50,7 @@ const Budget = (props) => {
                           </p>
                           )
                       })}
-                  </div>
+                  </Col>
                 )
               })}
             </Row>
@@ -61,3 +61,6 @@ const Budget = (props) => {
 }
 
 export default Budget;
+
+
+// bolivia budget text ["It’s fair to say that a budget backpacker who’s traveling mostly by public transit and sleeping in hostels or budget rooms, can reasonably set their budget at around $30/35 USD per day. Daily costs can vary and may be far less, but that’s a good average once you’ve factored in the more expensive days spent site-seeing. For those that want to treat themselves to a nice meal on occasion, want to take a few flights to avoid long bus rides, and plan on doing a good deal of guided touring, $50-60 US per day is more appropriate, depending on the length of the trip."],

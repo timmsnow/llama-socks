@@ -26,7 +26,7 @@
   },
   "6": {
     "header": "Daily Budget Breakdown",
-    "section": ["", "Budget", "Mid-Range", "Lux"],
-    "texts": ["It’s fair to say that a budget backpacker who’s traveling mostly by public transit and sleeping in hostels or budget rooms, can reasonably set their budget at around $30/35 USD per day. Daily costs can vary and may be far less, but that’s a good average once you’ve factored in the more expensive days spent site-seeing. For those that want to treat themselves to a nice meal on occasion, want to take a few flights to avoid long bus rides, and plan on doing a good deal of guided touring, $50-60 US per day is more appropriate, depending on the length of the trip.",["eating traditional $8", "public transit only $5", "one activity per day $10", "room with shared bathroom (p/p) $10","$25-35 per day"], ["one fancy meal + cheap lunch $15", "public transit $5-10", "sight-seeing $15+", "double ensuite (p/p) $15", "$50-60 per day"], ["fancy food only $25+", "taxis $15", "tiwanaku tour $25", "plush double (p/p) $40 (+)", "$100+ per day"]]
+    "section": ["Budget", "Mid-Range", "Lux"],
+    "texts": [["eating traditional $8", "public transit only $5", "one activity per day $10", "room with shared bathroom (p/p) $10","$25-35 per day"], ["one fancy meal + cheap lunch $15", "public transit $5-10", "sight-seeing $15+", "double ensuite (p/p) $15", "$50-60 per day"], ["fancy food only $25+", "taxis $15", "tiwanaku tour $25", "plush double (p/p) $40 (+)", "$100+ per day"]]
   }
 }

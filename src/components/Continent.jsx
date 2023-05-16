@@ -21,7 +21,6 @@ const Continent = () => {
       <Container fluid className="banner-container container">
         <div className="banner">
           <img src={CONTINENT_BANNERS[banner]} className="App-log fade-out" alt={continent + " banner"}/>
-
         </div>
         <div className="content">
 
