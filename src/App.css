@@ -183,24 +183,44 @@ a:hover{
   text-decoration: none !important;
 }
 
-.country-button {
-  position: relative;
-  display: flex;
-  height: 20rem;
-  width: 20rem;
-  margin: auto;
-}
-
 .country-card {
   margin: 1em 0;
   border: none;
 }
 
+.country-card h2 {
+  position: relative;
+}
+
+.country-button {
+  position: relative;
+  display: flex;
+  margin: auto;
+  flex-direction: column;
+  height: 12rem;
+  width: 12rem;
+  min-height: 12rem;
+  min-width: 12rem;
+}
+
+@media screen and (min-width: 768px) {
+  .country-button {
+    height: 16rem;
+    width: 16rem;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .country-button {
+    height: 20rem;
+    width: 20rem;
+  }
+}
+
 .country-button:before {
   content: "";
-  /* display: block; */
-  height: 20rem;
-  width: 20rem;
+  height: 12rem;
+  width: 12rem;
   position: absolute;
   top: 0;
   bottom: 0;
@@ -211,13 +231,20 @@ a:hover{
 
 .country-button:hover:before {
   background: rgba(0, 0, 0, 0.5);
-  height: 20rem;
-  width: 20rem;
 }
 
+@media screen and (min-width: 768px) {
+  .country-button:hover:before {
+    height: 16rem;
+    width: 16rem;
+  }
+}
 
-.country-card h2 {
-  position: relative;
+@media screen and (min-width: 992px) {
+  .country-button:hover:before {
+    height: 20rem;
+    width: 20rem;
+  }
 }
 
 .hide {
