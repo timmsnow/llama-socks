@@ -79,13 +79,13 @@ const Top5 = (props) => {
                     };
                     
                     return(
-                      <div key={i}>
-                      <Card className="top5-card" onMouseEnter={()=>{ on(i, jsonData[i].coordinates)}} onMouseLeave={() =>{ off(i)}} style={(!hover[i] ? locationImage : locationImageDark)}>
-                        <div className="top5-content" onClick={handleClick}>
-                          {showDescription[i] ? <p id={i} className="top5-post">{jsonData[i].text} </p> : <h2>{jsonData[i].location}</h2>}
-                        </div>
-                      </Card>
-                    </div>
+                      <div className="mx-auto" key={i}>
+                        <Card className="top5-card" onMouseEnter={()=>{ on(i, jsonData[i].coordinates)}} onMouseLeave={() =>{ off(i)}} style={(!hover[i] ? locationImage : locationImageDark)}>
+                          <div className="top5-content" onClick={handleClick}>
+                            {showDescription[i] ? <p id={i} className="top5-post">{jsonData[i].text} </p> : <h2>{jsonData[i].location}</h2>}
+                          </div>
+                        </Card>
+                      </div>
                     )
                   })
               }
