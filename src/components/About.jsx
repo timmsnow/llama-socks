@@ -1,6 +1,7 @@
 import React from 'react';
 import { Container, Row, Col, Card } from "react-bootstrap";
 import { ABOUT } from '../images/index.js';
+import InstagramFeed from './InstagramFeed.jsx';
 
 const About = () => {
   const images = ABOUT;
@@ -65,6 +66,12 @@ const About = () => {
           </Col>
         </Row>
       </Container>
+      <Row className="mb-5">
+        <Col lg="6" className="mx-auto instagram">
+          <p>Checkout Llama Socks on Instagram</p>
+          <InstagramFeed />
+        </Col>
+      </Row>
     </Container>
     </>
   );

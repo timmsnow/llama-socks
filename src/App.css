@@ -377,3 +377,7 @@ a:hover{
 .budget-row {
   justify-content: space-between;
 }
+
+.instagram {
+  height: 100%;
+}
