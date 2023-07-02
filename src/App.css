@@ -289,17 +289,26 @@ a:hover{
   margin: 5%;
 }
 
-.full-height {
+/* .full-height {
   height: 100% !important;
-}
+  background: grey;
+  padding: 10px;
+} */
 
 #map-container {
-  width: 100vw;
-  height: 100vh;
+  /* width: 100vw; */
+  /* height: 100vh; */
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 400px;
+  height: 100%;
+  z-index: 999; /* Adjust the z-index as needed */
 }
 
 .container {
   position: relative;
+  /* margin: none !important; */
 }
 
 .banner {
@@ -380,4 +389,29 @@ a:hover{
 
 .instagram {
   height: 100%;
+}
+
+.diagonal-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(30deg);
+  font-size: 3rem;
+  color: rgb(255, 217, 0);
+  text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.5);
+  /* background-color: rgba(0, 0, 0, 0.5); */
+  padding: 8px;
+  z-index: 2;
+}
+
+.mapboxgl-canvas {
+  /* width: 100% !important;
+  height: auto !important; */
+}
+
+.top5-map {
+  background-color: grey;
+  padding: 10px;
+  align-self: center;
+  justify-self: center;
 }

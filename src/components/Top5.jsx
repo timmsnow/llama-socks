@@ -61,48 +61,48 @@ const Top5 = (props) => {
   }
   
   return (
-    <>
-      <Container className="center">
-        <Row>
-          <Col>
-            <Row className="mt-3 justify-content-between">
-                {frontImages && jsonData &&
-                  top5.map(i => {
-                    
-                    let image = frontImages[i]
-                    let locationImage = {
-                      backgroundImage : "url(" + image + ")"  
-                    };
-                    
-                    let locationImageDark = {
-                      backgroundImage : "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(" + image + ")"  
-                    };
-                    
-                    return(
-                      <div className="mx-auto" key={i}>
-                        <Card className="top5-card" onMouseEnter={()=>{ on(i, jsonData[i].coordinates)}} onMouseLeave={() =>{ off(i)}} style={(!hover[i] ? locationImage : locationImageDark)}>
-                          <div className="top5-content" onClick={handleClick}>
-                            {showDescription[i] ? <p id={i} className="top5-post">{jsonData[i].text} </p> : <h2>{jsonData[i].location}</h2>}
-                          </div>
-                        </Card>
-                      </div>
-                    )
-                  })
-              }
-            </Row>
-          </Col>
-            { !locationSelected &&
-              (
-                <Col xs={10} sm={6} lg={4} className="ml-5 mr-5 mt-5">
-                  <h3>The Llama's Favorites for {country}</h3>
-                  <Map center={center} handleMarker={handleMarker}/>
-                </Col>
-              )
+    <Container className="center">
+      <Row>
+        <Col>
+          <Row className="mt-3 justify-content-between">
+              {frontImages && jsonData &&
+                top5.map(i => {
+                  
+                  let image = frontImages[i]
+                  let locationImage = {
+                    backgroundImage : "url(" + image + ")"  
+                  };
+                  
+                  let locationImageDark = {
+                    backgroundImage : "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(" + image + ")"  
+                  };
+                  
+                  return(
+                    <div className="mx-auto" key={i}>
+                      <Card className="top5-card" onMouseEnter={()=>{ on(i, jsonData[i].coordinates)}} onMouseLeave={() =>{ off(i)}} style={(!hover[i] ? locationImage : locationImageDark)}>
+                        <div className="top5-content" onClick={handleClick}>
+                          {showDescription[i] ? <p id={i} className="top5-post">{jsonData[i].text} </p> : <h2>{jsonData[i].location}</h2>}
+                        </div>
+                      </Card>
+                    </div>
+                  )
+                })
             }
           </Row>
-      </Container>
+        </Col>
+          { !locationSelected &&
+            (
+              <Col xs={10} sm={6} lg={4} className="ml-3 top5-map">
+                {/* <h3>The Llama's Favorites for {country}</h3> */}
+                <div className="top5-map-container">
+                  <Map center={center} handleMarker={handleMarker}/>
+                </div>
+              </Col>
+            )
+          }
+        </Row>
+    </Container>
         
-    </>
   );
 }
 

@@ -49,7 +49,6 @@ const Explore = (props) => {
       className="mb-3"
       >
         <Tab eventKey="top_5" title="Llama's Top 5"> */}
-          <div>
             {
               locationSelected ? 
               <Container className="body-container">
@@ -69,7 +68,6 @@ const Explore = (props) => {
                 </Row>
               </Container>
             }
-          </div>
         {/* </Tab> */}
         {/* <Tab eventKey="other_highlights" title="Other Highlights">
         {center.length > 0 && <Highlights country={country} center={center}/>}
