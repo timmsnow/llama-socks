@@ -675,3 +675,7 @@ export const CONTINENT_BUTTONS = {
   OceaniaButton: require('../images/continents/continentButtons/oceania-button.jpg'),
   SouthAmericaButton: require('../images/continents/continentButtons/south-america-button.jpg'),
 }
+
+export const SLEEP = {
+  BotswanaSleep: require('../images/continents/africa/botswana/botswana-sleep.jpg'),
+}

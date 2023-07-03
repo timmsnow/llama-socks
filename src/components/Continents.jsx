@@ -18,7 +18,7 @@ const Continents = () => {
   const disabledButtons = [2,4]
 
   return (
-    <div>
+    <div className="app-background">
       <h1 className="center">Where to lil llama?</h1>
       <Container fluid className="body-container">
         <Row className="center">

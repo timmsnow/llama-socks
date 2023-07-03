@@ -57,7 +57,7 @@ const Highlights = (props) => {
       const containerHeight = containerRect.height;
 
       // Calculate the vertical position to center the map container
-      const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+      const scrollTop = window.scrollY || document.documentElement.scrollTop;
       const scrollCenter = scrollTop + windowHeight / 3;
       const containerTop = Math.max(0, scrollCenter - containerHeight);
 
@@ -75,10 +75,10 @@ const Highlights = (props) => {
   }, []);
 
   return (
-    <Container>
-      <h3 className="center mb-5 mt-5">
+    <Container className="info-background">
+      {/* <h3 className="center mb-5 mt-5">
         Other Highlights
-      </h3>
+      </h3> */}
       <Row className="body-container">
       <Col sm="7">
           { jsonData.map((dataSet, index) => {

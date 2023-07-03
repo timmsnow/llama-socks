@@ -415,3 +415,46 @@ a:hover{
   align-self: center;
   justify-self: center;
 }
+
+.app-background,
+.country-background {
+  position: relative;
+  overflow: hidden;
+}
+
+.app-background::before,
+.country-background::before,
+.info-background::before  {
+  content: "";
+  position: absolute;
+  top: 0;
+  width: 20%;
+  height: 100%;
+  background-color: rgb(251, 181, 51);
+  z-index: -1;
+}
+
+.app-background::before {
+  left: 50px;
+}
+
+.country-background::before {
+  left: 150px;
+}
+
+.info-background::before {
+  left: 250px;
+}
+
+.tabs-right {
+  display: flex;
+  justify-content: end;
+}
+
+.tabs-right .nav-link {
+  margin-left: auto;
+}
+
+.nav-tabs .nav-link {
+  border-radius: 0 !important;
+}

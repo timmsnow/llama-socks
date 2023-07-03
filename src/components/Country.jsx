@@ -111,7 +111,7 @@ const Country = () => {
   }, []);
 
   return (
-    <div>
+    <div className="country-background">
       <Container fluid className="banner-container">
       <Tabs
         defaultActiveKey="home"
@@ -148,7 +148,7 @@ const Country = () => {
         <Tab eventKey="sleep" title="Sleep">
           {sleepData && 
           <Container>
-            <Sleep country={country.match(/[A-Z][a-z]+/g).join(' ')} data={sleepData} />
+            <Sleep country={country.match(/[A-Z][a-z]+/g).join(' ')} country={country} data={sleepData} />
           </Container>
           }
         </Tab>
