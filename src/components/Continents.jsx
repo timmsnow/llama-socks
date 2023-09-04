@@ -19,7 +19,7 @@ const Continents = () => {
 
   return (
     <div className="app-background">
-      <h1 className="center">Where to lil llama?</h1>
+      <h1 className="center mt-3 mb-3">Where to, lil' llama?</h1>
       <Container fluid className="body-container">
         <Row className="center">
         {continents.map((continent, index) => {
