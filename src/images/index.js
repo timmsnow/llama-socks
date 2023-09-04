@@ -678,4 +678,21 @@ export const CONTINENT_BUTTONS = {
 
 export const SLEEP = {
   BotswanaSleep: require('../images/continents/africa/botswana/botswana-sleep.jpg'),
+  EgyptSleep: require('../images/continents/africa/egypt/egypt-sleep.jpg'),
+  KenyaSleep: require('../images/continents/africa/kenya/kenya-sleep.jpg'),
+  NamibiaSleep: require('../images/continents/africa/namibia/namibia-sleep.jpg'),
+  TanzaniaSleep: require('../images/continents/africa/tanzania/tanzania-sleep.jpg'),
+  SouthAfricaSleep: require('../images/continents/africa/south-africa/south-africa-sleep.jpg'),
+  CambodiaSleep: require('../images/continents/asia/cambodia/cambodia-sleep.jpg'),
+  IndonesiaSleep: require('../images/continents/asia/indonesia/indonesia-sleep.jpg'),
+  JapanSleep: require('../images/continents/asia/japan/japan-sleep.jpg'),
+  MalaysiaSleep: require('../images/continents/asia/malaysia/malaysia-sleep.jpg'),
+  NepalSleep: require('../images/continents/asia/nepal/nepal-sleep.jpg'),
+  PhilippinesSleep: require('../images/continents/asia/philippines/philippines-sleep.jpg'),
+  ThailandSleep: require('../images/continents/asia/thailand/thailand-sleep.jpg'),
+  ItalySleep: require('../images/continents/europe/italy/italy-sleep.jpg'),
+  MaltaSleep: require('../images/continents/europe/malta/malta-sleep.jpg'),
+  PeruSleep: require('../images/continents/south-america/peru/peru-sleep.jpg'),
+  BoliviaSleep: require('../images/continents/south-america/bolivia/bolivia-sleep.jpg'),
+  EcuadorSleep: require('../images/continents/south-america/ecuador/ecuador-sleep.jpg'),
 }
