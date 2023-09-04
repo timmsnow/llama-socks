@@ -466,3 +466,7 @@ a:hover{
 .nav-tabs .nav-link {
   border-radius: 0 !important;
 }
+
+.top5-container {
+  margin: 0 3rem;
+}

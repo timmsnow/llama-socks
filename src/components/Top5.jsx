@@ -59,7 +59,7 @@ const Top5 = (props) => {
   return (
     <Container className="center">
       <Row>
-        <Col>
+        <Col className="top5-container">
           <Row className="mt-3 justify-content-between">
               {frontImages && jsonData &&
                 top5.map(i => {
