@@ -129,7 +129,7 @@ const Country = () => {
         {center.length > 0 && <Highlights country={downCaseCountry} center={center}/>}
         </Tab>
         <Tab eventKey="info" title="Info">
-          {/* {infoData && <Info country={country.match(/[A-Z][a-z]+/g).join(' ')} data={infoData} currencyData={currencyData} baseCurrencies={baseCurrencies} country={country}/>} */}
+          {infoData && <Info country={country.match(/[A-Z][a-z]+/g).join(' ')} data={infoData} currencyData={currencyData} baseCurrencies={baseCurrencies}/>}
         </Tab>
         <Tab eventKey="move" title="Move">
           {moveData && 
@@ -148,7 +148,7 @@ const Country = () => {
         <Tab eventKey="sleep" title="Sleep">
           {sleepData && 
           <Container>
-            <Sleep country={country.match(/[A-Z][a-z]+/g).join(' ')} country={country} data={sleepData} />
+            <Sleep country={country.match(/[A-Z][a-z]+/g).join(' ')} data={sleepData} />
           </Container>
           }
         </Tab>

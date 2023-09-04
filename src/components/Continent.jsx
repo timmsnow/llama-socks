@@ -25,8 +25,6 @@ const Continent = () => {
         <div className="content">
 
         <Container className="continents-container">
-        <div dangerouslySetInnerHTML={{ __html: htmlFileString }}></div>
-
         <Row className="center">
         {countries.map((country, index) => 
         {
@@ -51,6 +49,7 @@ const Continent = () => {
         )
       }
         </Row>
+        <div dangerouslySetInnerHTML={{ __html: htmlFileString }}></div>
       </Container>
         </div>
       </Container>
