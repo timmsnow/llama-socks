@@ -27,6 +27,6 @@ export default function Map({
       handleMarker(map)
       // onInit(map);
     }
-  }, [ref, center, zoom, map, onInit]);
+  }, [ref, center, zoom, map, onInit, handleMarker]);
   return <div ref={ref} style={{ width, height }} />;
 }

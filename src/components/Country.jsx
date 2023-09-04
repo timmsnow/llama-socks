@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { Container, Tab, Tabs } from "react-bootstrap";
 import { useLocation } from 'react-router-dom'
 import { COUNTRY_BANNERS } from '../images/index.js';
@@ -24,91 +24,92 @@ const Country = () => {
   const MY_ACCESS_TOKEN = process.env.REACT_APP_MAP_BOX_KEY;
   const CURRENCY_KEY = process.env.REACT_APP_CURRENCY_TOKEN;
   const [center, setCenter] = useState([])
-  const baseCurrencies = {
-    "Botswana": "BWP",
-    "Egypt": "EGP",
-    "Kenya": "KES",
-    "Namibia": "NAD",
-    "South Africa": "ZAR",
-    "Bolivia": "BOB",
-    "Tanzania": "TZS",
-    "Ecuador": "USD",
-    "Peru": "PEN",
-    "Italy": "EUR",
-    "Malta": "EUR",
-    "Cambodia": "KHR",
-    "Indonesia": "IDR",
-    "Japan": "JPY",
-    "Malaysia": "MYR",
-    "Nepal": "NPR",
-    "Thailand": "THB",
-    "Philippines": "PHP"
-  }
+  const baseCurrencies = useMemo(() => {
+    return {
+      "Botswana": "BWP",
+      "Egypt": "EGP",
+      "Kenya": "KES",
+      "Namibia": "NAD",
+      "South Africa": "ZAR",
+      "Bolivia": "BOB",
+      "Tanzania": "TZS",
+      "Ecuador": "USD",
+      "Peru": "PEN",
+      "Italy": "EUR",
+      "Malta": "EUR",
+      "Cambodia": "KHR",
+      "Indonesia": "IDR",
+      "Japan": "JPY",
+      "Malaysia": "MYR",
+      "Nepal": "NPR",
+      "Thailand": "THB",
+      "Philippines": "PHP"
+    };
+  }, []);
   const downCaseCountry = country.replace(/[A-Z]/g, (letter) => `_${letter.toLowerCase()}`).slice(1)
-
-  const getCurrencyConversions = () => {
-    fetch(`https://v6.exchangerate-api.com/v6/${CURRENCY_KEY}/latest/${baseCurrencies[country]}`)
-      .then(response => response.json())
-      .then(data => setCurrencyData(data.conversion_rates))
-      .catch(error => console.error(error));
-  }
-
-  const getCoordinates = () => {
-    const endpoint = 'mapbox.places';
-    const search_text = downCaseCountry.replace(" ", "-");
-    console.log(search_text)
-    fetch(`https://api.mapbox.com/geocoding/v5/${endpoint}/${search_text}.json?access_token=${MY_ACCESS_TOKEN}`)
-    .then(response => response.json().then(data => ({
-      data: data,
-      status: response.status
-    })
-    ).then(res => {
-      setCenter(res.data['features'][0]['center'])
-    }));
-  }
-
+  
   useEffect(() => {
+    const getCoordinates = () => {
+      const endpoint = 'mapbox.places';
+      const search_text = downCaseCountry.replace(" ", "-");
+      fetch(`https://api.mapbox.com/geocoding/v5/${endpoint}/${search_text}.json?access_token=${MY_ACCESS_TOKEN}`)
+      .then(response => response.json().then(data => ({
+        data: data,
+        status: response.status
+      })
+      ).then(res => {
+        setCenter(res.data['features'][0]['center'])
+      }));
+    }
+
     getCoordinates();
-  }, []);
+  }, [downCaseCountry, MY_ACCESS_TOKEN]);
 
   useEffect(() => {
-    // getCurrencyConversions();
-  }, []);
+    const getCurrencyConversions = () => {
+      fetch(`https://v6.exchangerate-api.com/v6/${CURRENCY_KEY}/latest/${baseCurrencies[country]}`)
+        .then(response => response.json())
+        .then(data => setCurrencyData(data.conversion_rates))
+        .catch(error => console.error(error));
+    }
+
+    getCurrencyConversions();
+  }, [baseCurrencies, country, CURRENCY_KEY]);
  
   let[introduction, setIntro] = useState("");
 
-  async function fetchHtml() {
-    setIntro(await (await fetch(`../../documents/countries/${country}/${intro}`)).text());
-  }
-
-  async function fetchInfoData() {
-    setInfoData(await (await fetch(`../../json/info/${downCaseCountry}.json`)).json());
-  }
-
-  async function fetchMoveData() {
-    setMoveData(await (await fetch(`../../json/move/${downCaseCountry}.json`)).json());
-  }
-
-  async function fetchBudgetData() {
-    setBudgetData(await (await fetch(`../../json/budget/${downCaseCountry}.json`)).json());
-  }
-
-  async function fetchSleepData() {
-    setSleepData(await (await fetch(`../../json/sleep/${downCaseCountry}.json`)).json());
-  }
-
-  async function fetchSafetyData() {
-    setSafetyData(await (await fetch(`../../json/safety/${downCaseCountry}.json`)).json());
-  }
-
+  
   useEffect(() => {
+    async function fetchHtml() {
+      setIntro(await (await fetch(`../../documents/countries/${country}/${intro}`)).text());
+    }
+  
+    async function fetchInfoData() {
+      setInfoData(await (await fetch(`../../json/info/${downCaseCountry}.json`)).json());
+    }
+  
+    async function fetchMoveData() {
+      setMoveData(await (await fetch(`../../json/move/${downCaseCountry}.json`)).json());
+    }
+  
+    async function fetchBudgetData() {
+      setBudgetData(await (await fetch(`../../json/budget/${downCaseCountry}.json`)).json());
+    }
+  
+    async function fetchSleepData() {
+      setSleepData(await (await fetch(`../../json/sleep/${downCaseCountry}.json`)).json());
+    }
+  
+    async function fetchSafetyData() {
+      setSafetyData(await (await fetch(`../../json/safety/${downCaseCountry}.json`)).json());
+    }
     fetchHtml();
     fetchInfoData();
     fetchMoveData();
     fetchBudgetData();
     fetchSleepData();
     fetchSafetyData();
-  }, []);
+  }, [country, intro, downCaseCountry]);
 
   return (
     <div className="country-background">

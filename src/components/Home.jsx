@@ -13,25 +13,25 @@ const Home = () => {
     return (
       <Carousel slide={false} activeIndex={index} onSelect={handleSelect}>
         <Carousel.Item interval={2000}>
-          <img src={BANNER_CAROUSEL["Banner_3"]} className="d-block w-100" alt={"welcome" +" banner"}/>
+          <img src={BANNER_CAROUSEL["Banner_3"]} className="d-block w-100" alt={"welcome banner"}/>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
-          <img src={BANNER_CAROUSEL["Banner_1"]} className="d-block w-100" alt={"welcome" +" banner"}/>
+          <img src={BANNER_CAROUSEL["Banner_1"]} className="d-block w-100" alt={"welcome banner"}/>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
-          <img src={BANNER_CAROUSEL["Banner_2"]} className="d-block w-100" alt={"welcome" +" banner"}/>
+          <img src={BANNER_CAROUSEL["Banner_2"]} className="d-block w-100" alt={"welcome banner"}/>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
-          <img src={BANNER_CAROUSEL["Banner_4"]} className="d-block w-100" alt={"welcome" +" banner"}/>
+          <img src={BANNER_CAROUSEL["Banner_4"]} className="d-block w-100" alt={"welcome banner"}/>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
-          <img src={BANNER_CAROUSEL["Banner_5"]} className="d-block w-100" alt={"welcome" +" banner"}/>
+          <img src={BANNER_CAROUSEL["Banner_5"]} className="d-block w-100" alt={"welcome banner"}/>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
-          <img src={BANNER_CAROUSEL["Banner_6"]} className="d-block w-100" alt={"welcome" +" banner"}/>
+          <img src={BANNER_CAROUSEL["Banner_6"]} className="d-block w-100" alt={"welcome banner"}/>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
-          <img src={BANNER_CAROUSEL["Banner_7"]} className="d-block w-100" alt={"welcome" +" banner"}/>
+          <img src={BANNER_CAROUSEL["Banner_7"]} className="d-block w-100" alt={"welcome banner"}/>
         </Carousel.Item>
       </Carousel>
       

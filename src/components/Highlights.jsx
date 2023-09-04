@@ -2,8 +2,6 @@ import React, { useState, useEffect, useRef } from 'react';
 import { Container, Card, Row, Col } from "react-bootstrap";
 import mapboxgl from 'mapbox-gl';
 import Map from './Map.jsx';
-// import Highlight from './Highlight.jsx';
-
 
 mapboxgl.accessToken = process.env.REACT_APP_MAP_BOX_KEY
 
@@ -12,14 +10,14 @@ const Highlights = (props) => {
   const [jsonData, setJsonData] = useState([]);
   const [activeIndex, setActiveIndex] = useState(null)
   const snakedCountry = country.replace(" ", "-").toLowerCase()
-  async function fetchJson() {
-    const json = (await (await fetch(`../../json/highlights/${snakedCountry}.json`)).json());
-    setJsonData(Object.values(json))
-  }
   
   useEffect(() => {
+    async function fetchJson() {
+      const json = (await (await fetch(`../../json/highlights/${snakedCountry}.json`)).json());
+      setJsonData(Object.values(json))
+    }
     fetchJson();
-  }, []);
+  }, [snakedCountry]);
   
   let[marker, setMarker] = useState({});
   let[map, setMap] = useState({});
@@ -47,7 +45,7 @@ const Highlights = (props) => {
     setMap(map)
   }
 
-  const mapRef = useRef(null); // Reference to the map container
+  const mapRef = useRef(null);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -55,20 +53,15 @@ const Highlights = (props) => {
       const containerRect = mapContainer.getBoundingClientRect();
       const windowHeight = window.innerHeight;
       const containerHeight = containerRect.height;
-
-      // Calculate the vertical position to center the map container
       const scrollTop = window.scrollY || document.documentElement.scrollTop;
       const scrollCenter = scrollTop + windowHeight / 3;
       const containerTop = Math.max(0, scrollCenter - containerHeight);
 
-      // Apply the new top position to the map container
       mapContainer.style.top = `${containerTop}px`;
     };
 
-    // Attach the scroll event listener
     window.addEventListener('scroll', handleScroll);
 
-    // Cleanup the event listener on component unmount
     return () => {
       window.removeEventListener('scroll', handleScroll);
     };
@@ -76,9 +69,6 @@ const Highlights = (props) => {
 
   return (
     <Container className="info-background">
-      {/* <h3 className="center mb-5 mt-5">
-        Other Highlights
-      </h3> */}
       <Row className="body-container">
       <Col sm="7">
           { jsonData.map((dataSet, index) => {

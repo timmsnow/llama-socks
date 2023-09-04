@@ -456,7 +456,7 @@ a:hover{
 
 .tabs-right {
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
 }
 
 .tabs-right .nav-link {

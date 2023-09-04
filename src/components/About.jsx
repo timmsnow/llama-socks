@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Row, Col, Card } from "react-bootstrap";
+import { Container, Row, Col } from "react-bootstrap";
 import { ABOUT } from '../images/index.js';
 import InstagramFeed from './InstagramFeed.jsx';
 
@@ -27,12 +27,12 @@ const About = () => {
             </p>
           </Col>
           <Col sm={6} lg={5}>
-            <img src={images["timmBanaue"]} />
+            <img src={images["timmBanaue"]} alt="the website creator"/>
           </Col>
         </Row>
         <Row className="mb-4 mt-4">
           <Col sm={6} lg={5}>
-            <img src={images["timmSaxayhuaman"]} />
+            <img src={images["timmSaxayhuaman"]} alt="the website creator" />
           </Col>
           <Col sm={6} lg={7}>
             <p>
@@ -62,7 +62,7 @@ const About = () => {
             </p>
           </Col>
           <Col sm={6} lg={5}>
-            <img src={images["timmOnsen"]} />
+            <img src={images["timmOnsen"]} alt="the website creator"/>
           </Col>
         </Row>
       </Container>

@@ -8,7 +8,6 @@ import mapboxgl from 'mapbox-gl';
 const Top5 = (props) => {
   const { country, handleClick, center, locationSelected } = props
   const [showDescription, setShowDescription] = useState({});
-  const [showMap, setShowMap] = useState(false);
   const [hover, setHover] = useState({});
   const top5 = [1,2,3,4,5]
   const snakedCountry = country.replace(" ", "-").toLowerCase()
@@ -30,14 +29,13 @@ const Top5 = (props) => {
   const hideLocationMarker = () => {
     marker.remove()
   }
-
-  async function fetchJson() {
-    setJsonData(await (await fetch(`../../json/top5/${snakedCountry}.json`)).json());
-  }
-  
+    
   useEffect(() => {
+    async function fetchJson() {
+      setJsonData(await (await fetch(`../../json/top5/${snakedCountry}.json`)).json());
+    }
     fetchJson();
-  }, []);
+  }, [snakedCountry]);
   
   const toggleDarkAndDescription = (id) => {
     setHover(prev => Boolean(!prev[id]) ? {...prev, [id]: true} : {...prev, [id]: false});
@@ -45,13 +43,11 @@ const Top5 = (props) => {
   }
 
   const on = (id, coordinates) => {
-    setShowMap(true)
     toggleDarkAndDescription(id)
     showLocationMarker(coordinates)
   }
 
   const off = (id) => {
-    setShowMap(false)
     toggleDarkAndDescription(id)
     hideLocationMarker()
   }
