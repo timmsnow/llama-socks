@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@babel/polyfill": "^7.12.1",
     "@cloudinary/react": "^1.11.2",
     "@cloudinary/url-gen": "^1.9.2",
     "@testing-library/jest-dom": "^5.16.5",
