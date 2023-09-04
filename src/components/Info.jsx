@@ -15,7 +15,7 @@ const Info = (props) => {
   }
 
   data[9] = currencySection
-  console.log(currencyData)
+
   const BannerCarousel = () => {
     const [index, setIndex] = useState(0);
     const handleSelect = (selectedIndex, e) => {

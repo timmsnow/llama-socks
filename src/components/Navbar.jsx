@@ -9,8 +9,8 @@ class BasicNavBar extends React.Component {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
-            <Nav.Link href="/continents">Continents</Nav.Link>
-            <Nav.Link href="/about">About</Nav.Link>
+                <Nav.Link href="/continents">Continents</Nav.Link>
+                <Nav.Link href="/about">About</Nav.Link>
             </Nav>
         </Navbar.Collapse>
         </Navbar>
