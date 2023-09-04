@@ -44,8 +44,8 @@ const Safety = (props) => {
     <>
       {Object.keys(filteredData).map((section, index) => {
             return(
-              <Card key={"card_"+ index} className="pointer" onMouseEnter={()=>{showLocationMarker(index)}} onMouseLeave={() =>{hideLocationMarker(index)}}>
-                <h2>
+              <Card key={"card_"+ index} className="pointer safety-card" onMouseEnter={()=>{showLocationMarker(index)}} onMouseLeave={() =>{hideLocationMarker(index)}}>
+                <h2 className="mb-3 mt-3">
                   {section === "1" ? "" : data[section]['header']}
                 </h2>
                 <Card.Body onClick={hideText} style={{display: index === activeIndex ? "block" : "none"}}>

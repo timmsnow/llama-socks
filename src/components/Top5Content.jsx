@@ -11,12 +11,12 @@ const Top5Content = (props) => {
   return (
     <div className="user-search-box">
       <Container className="list-item pe-5">
-        {banners && <img src={banners[locationKey]} /> }
+        {banners && <img src={banners[locationKey]} alt={"image of " + TOP5BANNER[pascalCountry]} /> }
         <div>
           {Object.keys(jsonData[locationKey]).map(section => {
             return(
               <div key={"content-" + section}>
-                <h2>
+                <h2 className="mt-5 mb-3">
                   {section === "1" ? "" : jsonData[locationKey][section]['header']}
                 </h2>
                   <Top5ContentSection sectionNumber={section} sectionData={jsonData[locationKey][section]}/>
